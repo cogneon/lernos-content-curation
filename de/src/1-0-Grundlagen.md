@@ -1,17 +1,13 @@
 **Content Curation lernOS Circle Guide**
 
-***Ein Leitfaden, wie Ihr relevante Inhalte finden, sinnhaft aufbereiten
-und teilen könnt***
+***Ein Leitfaden, wie Ihr relevante Inhalte finden, sinnhaft aufbereiten und teilen könnt***
 
-Du hast keine Ahnung, was Content Curation (oder auch "Kuratierung
-digitaler Inhalte" genannt) ist und würdest Dir gerne ein Bild davon
-machen?
 
-Content Curation hilft Dir, wertvolle Informationen über Themen mit
-Hilfe von Inhalten und Experten zusammenzustellen, ohne das Rad dabei
-neu erfinden zu müssen. Du lernst Methoden, Formen und Ansätze kennen,
-wie Du über den Tellerrand Deines Themas schauen und Dein entstehendes
-Wissen mit anderen teilen kannst.
+Du hast keine Ahnung, was Content Curation (oder auch "Kuratierung digitaler Inhalte" genannt) ist und würdest Dir gerne ein Bild davon machen?
+
+
+Content Curation hilft Dir, wertvolle Informationen über Themen mit Hilfe von Inhalten und Experten zusammenzustellen, ohne das Rad dabei neu erfinden zu müssen. Du lernst Methoden, Formen und Ansätze kennen, wie Du über den Tellerrand Deines Themas schauen und Dein entstehendes Wissen mit anderen teilen kannst.
+
 
 Wenn Du Dich über diesen lernOS Circle Guide mit Content Curation
 beschäftigst, wirst Du die Wirkmechanismen und Unterschiede von
@@ -28,22 +24,18 @@ schnell und effektiv zu lernen und innovativ zu sein.
  
 
 Wenn Du mehr Details erfahren möchtest, um zu entscheiden, ob der
-Content Curation-Leitfaden richtig für Dich ist, hör doch in Stefan\`s
+Content Curation Leitfaden richtig für Dich ist, hör doch in Stefan\`s
 Podcast zu Content Curation rein -- das hilft Dir bestimmt, ein paar
 Einblicke in das Thema zu gewinnen und Dich zu entscheiden, ob Du Dich
 die nächsten 13 Wochen intensiver mit Content Curation beschäftigen
 möchtest.
 
-Hier der Link zum Podcast mit Christoph Haffner und Thomas Jenewein vom
+[Der Podcast](https://podcast.opensap.info/education-newscast/2020/02/10/education-newscast-073-learntec-content-kuratierung-mit-stefan-diepolder/) mit Christoph Haffner und Thomas Jenewein vom
 SAP Education Newscast zu Content Curation im Rahmen der Learntec Messe
-2020 -- die Episode dauert ca. 52 Minuten
+2020 - die Episode dauert ca. 52 Minuten -
+(abgerufen 13.10.2020)
 
-[Direktlink](https://podcast.opensap.info/education-newscast/2020/02/10/education-newscast-073-learntec-content-kuratierung-mit-stefan-diepolder/)
-zum Podcast oder über <https://fyyd.de/episode/4705391> (abgerufen
-13.10.2020)
-
-![](./images/media/image1.png){width="6.260415573053368in"
-height="1.8229166666666667in"}
+![](./images/media/image1.png)
 
  
 
@@ -69,16 +61,15 @@ zusammengestellt haben.
 
  
 
-**Was ist Kuratieren?**\
+**Was ist Kuratieren?**
 Einen ersten Einblick bekommst Du über das Video, das Stefan im Rahmen
 eines Meetups der Colearn Community München #clc089 aufgenommen hat:\
-[\"Content Curation\" von Stefan Diepolder beim Treffen der
-#CLC089](https://www.youtube.com/watch?v=rn_AQuUxxIk)
+["Content Curation" von Stefan Diepolder beim Treffen der
+https://youtu.be/rn_AQuUxxIk
 
  
 
-![](./images/media/image2.png){width="5.0in"
-height="3.4583333333333335in"}
+![](./images/media/image2.png)
 
  
 
@@ -86,23 +77,22 @@ height="3.4583333333333335in"}
 
 **Wie kann man kuratieren definieren?**
 
- Herkunft des Wortes \"kuratieren\"
-(<https://de.langenscheidt.com/latein-deutsch/curare>, abgerufen am
+ Herkunft des Wortes "kuratieren"
+[im Langenscheidt Lexikon](<https://de.langenscheidt.com/latein-deutsch/curare>, abgerufen am
 16.06.2020)
 
- 
+Lateinisch "curare" bedeutet u.a.
 
-Lateinisch \"curare\" bedeutet u.a.
+\...sich kümmern\...
 
-> \...sich kümmern\...
->
-> \...sorgen\...
->
-> \...sich die Mühe nehmen\...
->
-> \...Lust haben\...
+\...sorgen\...
 
- 
+\...sich die Mühe nehmen\...
+
+\...Lust haben\...
+
+
+
 
 Es gibt keine allgemeingültige Definition für Content Curation, aber für
 uns definiert diese kurze Zusammenfassung, angelehnt an Robin Good, sehr
@@ -110,13 +100,11 @@ gut, um was es dabei geht:
 
  
 
-> *"Content Curation ist die Kunst, digitale Informationsbausteine und
-> Artefakte zu einem bestimmten Thema für ein spezielles
-> Publikumsinteresse zu finden, filtern, organisieren und Wert
-> hinzuzufügen und öffentlich zugänglich zu machen."*
+> **"Content Curation ist die Kunst, digitale Informationsbausteine und
+Artefakte zu einem bestimmten Thema für ein spezielles Publikumsinteresse zu finden, filtern, organisieren und Wert
+hinzuzufügen und öffentlich zugänglich zu machen."**
 
-Robin Good: What is Content Curation?
-<https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84>
+Robin Good: [What is Content Curation?](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84)
 (abgerufen am 16.06.2020)
 
 >  
@@ -130,14 +118,11 @@ herausgearbeitet hat.
 
  
 
-Teilkompetenzen des Kuratierens wie "share, compose, remix, evaluate,
-synthesize, search, connect, contribute" gehören zu den \"21st Century
-Skills\", die von der Mozilla Foundation im Bereich \"Web Literacy\"
-propagiert werden. Wenn Du die Seiten aufrufst, kannst Du kuratierte
-Lernpfade zu den einzelnen Kompetenzen durchlaufen. 
+Teilkompetenzen des Kuratierens wie share, compose, remix, evaluate,
+synthesize, search, connect, contribute gehören zu den 21st Century
+Skills, die von der Mozilla Foundation im Bereich Web Literacy propagiert werden. Wenn Du die Seiten aufrufst, kannst Du kuratierte Lernpfade zu den einzelnen Kompetenzen durchlaufen. 
 
-![web lit map](./images/media/image3.jpeg){width="4.798055555555556in"
-height="4.762971347331583in"}
+![web lit map](./images/image3.jpeg)
 
 Abbildung: <https://foundation.mozilla.org/en/initiatives/web-literacy/>
 (CC BY 4.0)
@@ -152,7 +137,7 @@ Clay Shirky bringt das sehr deutlich zum Ausdruck.
 
 ***"It\`s not information overload. It\`s filter failure."***
 
-Quelle: Clay Shirky. AZQuotes.com, Wind and Fly LTD, 2020.
+Quelle: Clay Shirky. AZQuotes.com, [Wind and Fly LTD], 2020.
 https://www.azquotes.com/quote/409865, abgerufen am 18.06.2020.  
 
 Er erklärt den [Information Overload](https://youtu.be/XE38jpFOiv8) in 3
