@@ -12,8 +12,8 @@ rm -rf ../docs/de/*
 rm -ff ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
-echo Creating Web Version ...
-mkdocs build
+#echo Creating Web Version ...
+#mkdocs build
 
 # Create Microsoft Word Version (docx)
 echo Creating Word version ...
@@ -24,16 +24,16 @@ echo Creating HTML version ...
 pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter -N --toc -V lang=de-de -o $filename.html $chapters
 
 # Create PDF Version (pdf)
-echo Creating PDF version ...
-pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter --template lernos -N --toc -V lang=de-de -o $filename.pdf $chapters
+#echo Creating PDF version ...
+#pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter --template lernos -N --toc -V lang=de-de -o $filename.pdf $chapters
 
 # Create eBook Versions (epub, mobi)
-echo Creating eBook versions ...
-magick -density 300 $filename.pdf[0] ebook-cover.jpg
-mogrify -size 2500x2500 -resize 2500x2500 ebook-cover.jpg
-mogrify -crop 1563x2500+102+0 ebook-cover.jpg
-pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter --epub-cover-image=ebook-cover.jpg -N --toc -V lang=de-de -o $filename.epub $chapters
-ebook-convert $filename.epub $filename.mobi
+#echo Creating eBook versions ...
+#magick -density 300 $filename.pdf[0] ebook-cover.jpg
+#mogrify -size 2500x2500 -resize 2500x2500 ebook-cover.jpg
+#mogrify -crop 1563x2500+102+0 ebook-cover.jpg
+#pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter --epub-cover-image=ebook-cover.jpg -N --toc -V lang=de-de -o $filename.epub $chapters
+#ebook-convert $filename.epub $filename.mobi
 
 # Create Slides (revealjs)
 # echo Creating Presentation ...
