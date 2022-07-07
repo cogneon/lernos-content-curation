@@ -5,7 +5,7 @@ echo Starting lernOS Guide Generation ...
 filename="lernOS-Template-Guide-de"
 #chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Grundidee.md ./src/1-2-Lebenszyklus.md ./src/1-3-Inhaltsverzeichnis.md ./src/1-4-Inhalt-Schreibstil.md ./src/1-5-Markdown-Syntax.md ./src/1-6-Produktionskette.md ./src/1-7-Github.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
 
-chapters="./src/index.md ./src/1-0-Grundlagen.md"
+chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
 
 # Delete Old Versions
 echo Deleting old versions ...
@@ -15,7 +15,7 @@ rm -ff ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
 #echo Creating Web Version ...
-#mkdocs build
+mkdocs build
 
 # Create Microsoft Word Version (docx)
 echo Creating Word version ...
