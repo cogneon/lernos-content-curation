@@ -1,4 +1,4 @@
-**Woche 0 -- Kennenlernen**
+## Woche 0 -- Kennenlernen
 
 **Herzlich Willkommen beim Content Curation Circle Guide!**
 
@@ -21,8 +21,7 @@ Anknüpfungspunkte
 Nehmt Euch hierfür ca. 20 Minuten Zeit
 
 **Was ist Content Curation und was erwartet Euch die nächsten 13 Wochen?**\
-Um einen ersten Überblick zu bekommen, schaut Euch gemeinsam die Grundlagen zum Kuratieren an
-([Verweis](onenote:#Grundlagen&section-id={d9b9552c-83ad-4025-9339-14a43f9ffd4e}&page-id={a4324a99-a17f-4360-b0a9-c555895eaa75}&end)), besonders was Kuratieren ist und warum man kuratieren sollte. Der inhaltliche Ablauf (Sketchnote) gibt weitere Anhaltspunkte, was Ihr in diesem Zirkel lernen und erarbeiten könnt. Klärt eventuelle Fragen gemeinsam.
+Um einen ersten Überblick zu bekommen, schaut Euch gemeinsam die Grundlagen zum Kuratieren an, besonders was Kuratieren ist und warum man kuratieren sollte. Der inhaltliche Ablauf (Sketchnote) gibt weitere Anhaltspunkte, was Ihr in diesem Zirkel lernen und erarbeiten könnt. Klärt eventuelle Fragen gemeinsam.
 Nehmt Euch hierfür ca. 15 Minuten Zeit.
 
 **Organisation des Circles**

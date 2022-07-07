@@ -1,5 +1,6 @@
-**Woche 2 -- Thema, Ziel und Zielgruppe festlegen**\
- Es gibt grundsätzlich 2 Einstiegspunkte, um sich mit Content Curation
+## Woche 2 -- Thema, Ziel und Zielgruppe festlegen
+
+Es gibt grundsätzlich 2 Einstiegspunkte, um sich mit Content Curation
  zu beschäftigen:
 
  **Einstiegspunkt 1 -- Du möchtest Dich in ein neues Thema einarbeiten,
@@ -58,10 +59,6 @@
  Möglichkeit gibt, Kontakt aufzunehmen, zu diskutieren und Ideen und
  Projekte auszutauschen.
 
-  
-
-  
-
  **Kata 3:**\
  Was ist Dein Thema und mit wem möchtet Du Dein Lernen teilen?
 
@@ -69,10 +66,8 @@
 
 -   Welche Art von Kuratierung schwebt Dir vor? Bist Du Expert\*in oder
      Lerner\*in? Warum?
-
 -   Kuratierst Du primär für Dich oder für eine Gruppe an Personen, ein
      Netzwerk?
-
 -   Wenn Du auch für andere kuratierst: Wer ist Deine Zielgruppe? Kannst
      Du sie beschreiben? Wie tickt Deine Zielgruppe?
 
@@ -93,7 +88,7 @@
  Wenn du noch einen Schritt weiter gehen willst, entwickle einen
  detaillierten Persona-Entwurf - wie das funktioniert, zeigt Dir die
  nachfolgende Anleitung aus dem Startup-Umfeld von Gründerszene:
- <https://www.gruenderszene.de/operations/persona-personas-entwickeln
+ https://www.gruenderszene.de/operations/persona-personas-entwickeln
 
   
 
@@ -101,9 +96,7 @@
  Formuliere die Ziele Deiner Kuratierung.
 
 -   Was willst Du erreichen?
-
 -   Was ist genau Dein Thema?
-
 -   Bist Du auf Social Media aktiv? Auf welchen Kanälen fühlst Du Dich
      wohl?\
      Wo würdest Du beginnen, Deine kuratierten Lernerfahrungen zu
@@ -134,4 +127,3 @@
  einem externen Blog ([www.medium.com](http://www.medium.com))
  formulieren und ihn im Intranet (unserem Enterprise Social Network
  Yammer) und auf Twitter und Linkedin teilen.*\
- \

@@ -1,4 +1,4 @@
-**Woche 7 -- Qualitäts- und Quellencheck**
+## Woche 7 -- Qualitäts- und Quellencheck
 
  Aus der Fülle an Quellen und Informationen, die Du zu (D)einem
  bestimmten Thema gesammelt hast, sollten nun Schritt für Schritt die
@@ -56,10 +56,7 @@
  Federation of Library Associations and
  Institutions](https://www.ifla.org/):
 
-  
-
- ![](./images/media/image11.jpg){width="4.052083333333333in"
- height="5.39583552055993in"}
+ ![](./images/image11.jpg)
 
 **Quelle:** <https://www.ifla.org/publications/node/11174 - CC BY 4.0
 

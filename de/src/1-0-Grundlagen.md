@@ -35,7 +35,7 @@ SAP Education Newscast zu Content Curation im Rahmen der Learntec Messe
 2020 - die Episode dauert ca. 52 Minuten -
 (abgerufen 13.10.2020)
 
-![](./images/media/image1.png)
+![](./images/image1.png)
 
  
 
@@ -69,7 +69,7 @@ https://youtu.be/rn_AQuUxxIk
 
  
 
-![](./images/media/image2.png)
+![](./images/image2.png)
 
  
 
@@ -78,7 +78,7 @@ https://youtu.be/rn_AQuUxxIk
 **Wie kann man kuratieren definieren?**
 
  Herkunft des Wortes "kuratieren"
-[im Langenscheidt Lexikon](<https://de.langenscheidt.com/latein-deutsch/curare>, abgerufen am
+[im Langenscheidt Lexikon], https://de.langenscheidt.com/latein-deutsch/curare, abgerufen am
 16.06.2020)
 
 Lateinisch "curare" bedeutet u.a.
@@ -195,8 +195,7 @@ Spreu vom Weizen trennen zu können, ist wichtiger denn je.
 
  
 
-![](./images/media/image4.jpeg){width="5.0in"
-height="2.8020833333333335in"}
+![](./images/image4.jpeg)
 
 Visualisierung von Katrin Mäntele
 [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
@@ -242,7 +241,7 @@ Quellen bereitstellt und diesen einen persönlichen Wert hinzufügen und
 damit ihrem Publikum einen Grund geben, sich mit dem Inhalt oder Thema
 zu beschäftigen.
 
-![](./images/media/image5.jpg){width="5.0in" height="4.125in"}
+![](./images/image5.jpg)
 
 Visualisierung von Katrin Mäntele
 [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)

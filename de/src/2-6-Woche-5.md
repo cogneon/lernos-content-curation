@@ -1,6 +1,4 @@
-**Woche 5 -- Rechtliche Rahmenbedingungen**
-
-  
+## Woche 5 -- Rechtliche Rahmenbedingungen
 
  **Wichtiger Hinweis vorab:**
 
@@ -119,27 +117,27 @@ Zusammenfassung entstanden ist:
 
 **Weiterführende Lektüre zu Rechtlichem**
 
-Der große Ratgeber Bild-, Zitat- und Urheberrecht im Frage-Antwort-Stil
+* Der große Ratgeber Bild-, Zitat- und Urheberrecht im Frage-Antwort-Stil
 -- ein guter Artikel mit vielen wertvollen Erklärungen von Dr. Kerstin
 Hoffmann und Dr. Thomas Schwenke
 <https://www.kerstin-hoffmann.de/pr-doktor/zitieren-verlinken-bildrechte-urheberrecht-strafen/
 
-Der [Podcast Rechtsbelehrung](https://rechtsbelehrung.com/) von Dr.
+* Der [Podcast Rechtsbelehrung](https://rechtsbelehrung.com/) von Dr.
 Thomas Schwenke und Marcus Richter (z.B. die Folge 50) und den
 dazugehörigen
 [Artikel](https://drschwenke.de/haftung-fuer-links-embedding-und-sharing-urheberrecht-und-datenschutz/)
 
-<https://irights.info/ - Urheberrecht und kreatives Schaffen in der
+* <https://irights.info/ - Urheberrecht und kreatives Schaffen in der
 digitalen Welt -- hier ein
 [Ratgeber](https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839)
 zu eLearning über Rechtsfragen in der Bildung, Wissenschaft und Lehre
 
-Der Blog [www.rechtzweinull.de](http://www.rechtzweinull.de/) von Dr.
+* Der Blog [www.rechtzweinull.de](http://www.rechtzweinull.de/) von Dr.
 Carsten Ullbricht mit einer etwas älteren Einschätzung zu Kuratierung -
 <http://www.rechtzweinull.de/archives/1849-kuratierung-und-recht-rechtliche-grenzen-fuer-newsrooms-und-content-curation-im-internet.html
 
-Ausführlicheres, [ca. 12-minütiges Video zum
+* Ausführlicheres, [ca. 12-minütiges Video zum
 Urheberrecht](https://youtu.be/F2iBIT4xid8) von nice2know
 
-Buch: Silvia Luber, Inga Geisler (2016): Online Trainings und Webinare
+* Buch: Silvia Luber, Inga Geisler (2016): Online Trainings und Webinare
 -- Von der Vermarktung bis zur Nachbereitung, Beltz-Verlag, Weinheim.

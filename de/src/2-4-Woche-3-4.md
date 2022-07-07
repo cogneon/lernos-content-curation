@@ -1,5 +1,5 @@
-**Woche 3 + 4: Recherche und Sammlung relevanter Inhalte und
- Experten**\
+## Woche 3 + 4: Recherche und Sammlung relevanter Inhalte und Experten
+
  Wen fragst Du, wenn Du schnell an gute und relevante Informationen
  kommen willst? Was machst Du ganz intuitiv? Wenn Du Hilfe bei der
  Lösung eines Problems in der Arbeit benötigst und eine\*n Experten\*in
@@ -55,11 +55,9 @@
  zu anderen Personen zu Deinem Thema. Nutze z. B. die Funktion von
  Google, mit der Du eine Webseite gezielt durchsuchen kannst.
 
- ![](./images/media/image8.png){width="5.0in"
- height="3.2291666666666665in"} Beispiel: Google Suche auf der Seite
- von Harold Jarche (\"site:jarche.com\") zu Fake News
+ ![](./images/image8.png)
 
-  
+ Beispiel: Google Suche auf der Seite von Harold Jarche (\"site:jarche.com\") zu Fake News
 
  **Profitipp für Twitter User**
 
@@ -79,8 +77,7 @@
  Suche](https://twitter.com/search-advanced) von Twitter
 
  ![Ein Bild, das Text enthält. Automatisch generierte
- Beschreibung](./images/media/image9.png){width="3.8358267716535432in"
- height="4.205555555555556in"}
+ Beschreibung](./images/image9.png)
 
   
 

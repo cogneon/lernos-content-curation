@@ -1,4 +1,5 @@
-**Woche 6 -- Rolle von Personen im Kuratieren**\
+## Woche 6 -- Rolle von Personen im Kuratieren
+
  Die Grundlage von Content Curation ist das eigene Netzwerk, die
  genutzten Ressourcen und wie man sie verbindet. Jedes Netzwerk und
  jede Community lebt von und mit den Menschen, die darin ihren Beitrag
@@ -11,8 +12,7 @@
   
 
  ![Ein Bild, das Text enthält. Automatisch generierte
- Beschreibung](./images/media/image10.jpeg){width="6.268055555555556in"
- height="5.141666666666667in"}
+ Beschreibung](./images/image10.jpeg)
 
  Visualisierung von Katrin Mäntele
  [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)

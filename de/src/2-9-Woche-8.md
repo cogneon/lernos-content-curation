@@ -1,4 +1,4 @@
-**Woche 8 - Formen der Kuratierung**
+## Woche 8 - Formen der Kuratierung
 
  Es gibt ganz unterschiedliche Möglichkeiten wie das kuratierte
  Ergebnis dargestellt werden kann (\"Sensemaking\"). Robin Good hat
@@ -17,15 +17,10 @@
 
   
 
- ![](./images/media/image12.jpg){width="5.79166447944007in"
- height="4.78125in"}
+ ![](./images/image12.jpg)
 
 Visualisierung von Katrin Mäntele
 [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
-
-  
-
-  
 
  Folgende Formate bzw. Arten der Kuratierung, die auf den Ideen von
  Robin Good basieren, finden wir für einen Lernkontext am
@@ -53,8 +48,7 @@ Visualisierung von Katrin Mäntele
 
   
 
- ![](./images/media/image13.png){width="6.14583552055993in"
- height="3.3854166666666665in"}
+ ![](./images/image13.png)
 
  Screenshot Landingpage Portal \"Immersive Learning News\" von Torsten
  Fell
@@ -67,8 +61,7 @@ Visualisierung von Katrin Mäntele
   
 
  ![Google site:immersivelearning.news curationl Q Google-Suche Auf gut
- Glück! ](./images/media/image14.png){width="4.5625in"
- height="1.7916666666666667in"}
+ Glück!](./images/image14.png)
 
   
 
@@ -96,8 +89,8 @@ Visualisierung von Katrin Mäntele
  Curate This! (2014) reveals the different ways content curation is
  used today, Why humans make the best curators and how you can use
  content to expand your audience.
- ](./images/media/image15.png){width="4.572916666666667in"
- height="2.78125in"}
+
+ ](./images/image15.png)
 
  Beispiel: Buchzusammenfassung bei
  [www.blinkist.com](http://www.blinkist.com/)
@@ -137,8 +130,7 @@ Visualisierung von Katrin Mäntele
  überraschend, dass wir noch von keinem Unterneh- men und seiner
  expliziten Content Curation-Strategie gehört haben \... kristinauth,
  Corporate Learning Community, 17. März 2019 Bildquelle: CLC München
- ](./images/media/image16.png){width="3.3645833333333335in"
- height="4.0in"}
+ ](./images/image16.png)
 
  Screenshot:
  <https://weiterbildungsblog.de/blog/2019/03/20/clc-muenchen-clc089-content-curation-im-corporate-learning/
@@ -172,8 +164,7 @@ Visualisierung von Katrin Mäntele
  English: Writing University of California, Irvine Arizona State
  University TESOL Arizona State University ZERTIFIKAT OBER BE-RUFLICHE
  Learning How to Learn Learning How to Learn: Powerful mental tools to
- help yo\... McMaster University
- ](./images/media/image17.png){width="5.125in" height="2.8125in"}
+ help yo\... McMaster University](./images/image17.png)
 
  Screenshot: <https://www.coursera.org/browse/personal-development
 
@@ -219,8 +210,7 @@ Visualisierung von Katrin Mäntele
 
  ![Eine kuratierte Linksammlung mit Artikeln, Aufsätzen und Tools zu
  den theme Scrum» Kanban, Design Thinking, Leadership und Agile
- Transformation. ](./images/media/image18.png){width="5.84375in"
- height="2.3333333333333335in"}
+ Transformation. ](./images/image18.png)
 
  Screenshot: <https://proagile.de/toolbox/
 
@@ -259,8 +249,7 @@ Visualisierung von Katrin Mäntele
  Doch was ist die Blockchain genau und wie funktioniert sie? Folgendes
  Video von CommonCraft erklärt in einfachen Worten, wie die Blockchain
  grundsätzlich funktioniert. Blockchain Explained b Common:Craft
- ](./images/media/image19.png){width="5.10416447944007in"
- height="6.302084426946632in"}
+ ](./images/image19.png)
 
  Link:
  <https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/

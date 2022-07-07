@@ -1,4 +1,4 @@
-**Woche 9 und 10 - Inhalte vertiefen und mit Wert anreichern**
+## Woche 9 und 10 - Inhalte vertiefen und mit Wert anreichern
 
  In diesen zwei Wochen geht es um den Kern des Kuratierens, es geht
  darum, Inhalte zu arrangieren, redigieren, neu anordnen, bewerten, in
@@ -23,12 +23,9 @@
 
   
 
- Beispiel: ![Stefan Diepolder \@sdiepolder 15. Feb. Mein #Lerntipp fürs
- Wochenende: kostenloser Minikurs #FiImen mit dem #Smartphone ohne zu
- schneiden - via \@Reporterfabrik -
- akademie.reporterfabrik.de/courses/course\... 16 0
- 45](./images/media/image20.png){width="6.46875in"
- height="1.4166666666666667in"}<https://twitter.com/sdiepolder/status/1096449666504445952 
+ Beispiel: ![Stefan Diepolder \@sdiepolder 15. Feb. Mein #Lerntipp fürs Wochenende: kostenloser Minikurs #FiImen mit dem #Smartphone ohne zu schneiden - via \@Reporterfabrik - akademie.reporterfabrik.de/courses/course\... 16 0 45](./images/image20.png)
+
+ https://twitter.com/sdiepolder/status/1096449666504445952 
 
  Diese Art von Kuratierung ist völlig ausreichend, wenn Deine
  Zielgruppe auf Social Media anzutreffen ist und Du z.B. einen guten
