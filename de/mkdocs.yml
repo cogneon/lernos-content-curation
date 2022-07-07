@@ -5,8 +5,9 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Grundlagen:
-      - Übersicht: 1-0-Grundlagen.md
+    - Grundlagen: 1-0-Grundlagen.md
+    - Lernpfad:
+      - Übersicht: 2-0-Lernpfad.md
       - Woche 0: 2-1-Woche-0.md
       - Woche 1: 2-2-Woche-1.md
       - Woche 2: 2-3-Woche-2.md
@@ -19,7 +20,6 @@ nav:
       - Woche 10: 2-11-Woche-10.md
       - Woche 11: 2-12-Woche-11.md
       - Woche 12: 2-13-Woche-12.md
-    - Lernpfad: 2-0-Lernpfad.md
     - Anhang: 3-0-Anhang.md
     - Download:
       - PDF-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.pdf
