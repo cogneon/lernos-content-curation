@@ -1,4 +1,4 @@
-## Woche 1 - Rolle von Netzwerken & Communities
+## Woche 1 - Rolle von Netzwerken & Communitys
 
 Wir alle leben und arbeiten in Gemeinschaften und Netzwerken. Mit dem Internet und den sozialen Medien sind sie größer, räumlich verteilter und internationaler geworden. Die Möglichkeiten, Beziehungen zu knüpfen, an Wissen zu kommen und es zu teilen, sind damit viel reichhaltiger und vielfältiger geworden. Andererseits wird unsere Arbeitswelt immer spezialisierter, komplexer und miteinander verwoben. Ein\*e Einzelne\*r kann meist nicht mehr alles wissen, was zum Lösen einer komplexen Aufgabe notwendig ist und ist auf ein gutes Netzwerk, das ihr\*m schnellen Zugang zu relevanten Informationen ermöglicht, angewiesen. Gute Netzwerkfähigkeiten sind damit zu einer der wichtigsten Kompetenzen für das 21. Jahrhundert geworden - und auch eine fundamentale Voraussetzung für jede\*n Content-Kurator\*in.
 
