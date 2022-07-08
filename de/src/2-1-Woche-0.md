@@ -32,12 +32,12 @@ Nehmt Euch hierfür ca. 20 Minuten Zeit.
 **Was passiert grundsätzlich in den Circle-Treffen?**
 
 Ihr habt 60 Minuten Zeit darüber zu sprechen, was Ihr Euch während der Woche erarbeitet habt und wie es Euch dabei ergangen ist. Bevor Ihr
-loslegt, kommt in Ruhe an und berichtet im Check-in (ca. 10 Minuten), wie es Euch mit der Bearbeitung der Katas unter der Woche ergangen ist. Teilt Eure Learnings, Eure Schwierigkeiten und „Siege", bittet die Circle Kolleg\*innen um Feedback und Mithilfe. Achtet darauf, dass jede\*r zu Wort kommt. In einigen Katas bekommt Ihr zusätzliche Informationen, was Ihr noch tun könnt bzw. solltet.
+loslegt, kommt in Ruhe an und berichtet im Check-in (ca. 10 Minuten), wie es Euch mit der Bearbeitung der Katas unter der Woche ergangen ist. Teilt Eure Learnings, Eure Schwierigkeiten und „Siege", bittet die Circle Kolleg*innen um Feedback und Mithilfe. Achtet darauf, dass jede*r zu Wort kommt. In einigen Katas bekommt Ihr zusätzliche Informationen, was Ihr noch tun könnt bzw. solltet.
 
-Versucht die 60 Minuten einzuhalten und es bietet sich an, in den jeweiligen Treffen eine\*n Moderator\*in auszuwählen, der/die den Circle leitet und auf das „Timekeeping" achtet.
+Versucht die 60 Minuten einzuhalten und es bietet sich an, in den jeweiligen Treffen eine*n Moderator*in auszuwählen, der / die den Circle leitet und auf das „Timekeeping" achtet.
 
 Die letzten 5 Minuten eines jeden Circle-Treffens habt Ihr Zeit für den Checkout (Verabschiedung, Ziele für das nächste Treffen, privates... usw.)
 
 **Vorbereitungs-Kata für den kompletten Circle**:
 
-Mach Dir Gedanken, zu welchen Themen Du gerne mehr lernen würdest, schau Dir dazu ein paar Videos oder Blogposts an - oder höre Podcasts - und schreibe Dir auf, was Du an dem jeweiligen Thema besonders spannend findest. Arbeite im angelegten OneNote-Notizbuch oder in einem anderen Medium Deiner Wahl - nutze idealerweise Medien, zu denen Deine Circle-Mitglieder\*innen ebenfalls Zugriff haben und Dich unterstützen und mitarbeiten können.
+Mach Dir Gedanken, zu welchen Themen Du gerne mehr lernen würdest, schau Dir dazu ein paar Videos oder Blogposts an - oder höre Podcasts - und schreibe Dir auf, was Du an dem jeweiligen Thema besonders spannend findest. Arbeite im angelegten OneNote-Notizbuch oder in einem anderen Medium Deiner Wahl - nutze idealerweise Medien, zu denen Deine Circle-Mitglieder*innen ebenfalls Zugriff haben und Dich unterstützen und mitarbeiten können.
