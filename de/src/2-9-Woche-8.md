@@ -1,17 +1,17 @@
 ## Woche 8 - Formen der Kuratierung
 
  Es gibt ganz unterschiedliche Möglichkeiten wie das kuratierte
- Ergebnis dargestellt werden kann (\"Sensemaking\"). Robin Good hat
+ Ergebnis dargestellt werden kann ("Sensemaking"). Robin Good hat
  eine umfassende Aufzählung von Ansätzen und Formaten mit vielen
- spannenden Beispielen in seinem Artikel [\"Content Curation
+ spannenden Beispielen in seinem Artikel ["Content Curation
  Approaches: Types and
- Formats\"](https://medium.com/ccontent-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18)
+ Formats"](https://medium.com/ccontent-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18)
  gesammelt und beschrieben. Diesen Artikel solltest Du Dir auf jeden
  Fall durchlesen, bevor Du Dir überlegst, welches Format Du einsetzen
  möchtest.
 
- Allen Typen und Formen ist folgendes gemein - \"finding and organizing
- existing content artifacts to create new insights and shared value\"
+ Allen Typen und Formen ist folgendes gemein - ***"finding and organizing
+ existing content artifacts to create new insights and shared value"***
  ([Robin
  Good](https://medium.com/content-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18%20)).
 
@@ -20,7 +20,7 @@
  ![](./images/image12.jpg)
 
 Visualisierung von Katrin Mäntele
-[\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
+[@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
 
  Folgende Formate bzw. Arten der Kuratierung, die auf den Ideen von
  Robin Good basieren, finden wir für einen Lernkontext am
@@ -35,29 +35,29 @@ Visualisierung von Katrin Mäntele
  qualitativ hochwertige Inhalte oder Artefakte sammelt, beschreibt und
  an einem zentralen Ort für seine Zielgruppe bereitstellt. Besonders
  wertvoll sind diese aggregierten Contents, wenn sie von einem
- anerkannten Fachmann, einem so genannten \"Trusted Guide\",
+ anerkannten Fachmann, einem so genannten **"Trusted Guide"**,
  bereitgestellt werden.
 
   
 
- Ein sehr gutes Beispiel ist <https://www.immersivelearning.news/ von
+ Ein sehr gutes Beispiel ist [https://www.immersivelearning.news/](https://www.immersivelearning.news/) von
  Torsten Fell - ein Portal, das alle relevanten Informationen zu Lernen
  mit Augmented Reality, Virtual Reality und Mixed Reality bereitstellt
- und auf jeden Fall ein sehr guter Ausgangspunkt für einen \"Deep
- Dive\" in das Thema ist.
+ und auf jeden Fall ein sehr guter Ausgangspunkt für einen "Deep
+ Dive" in das Thema ist.
 
   
 
  ![](./images/image13.png)
 
- Screenshot Landingpage Portal \"Immersive Learning News\" von Torsten
+ Screenshot Landingpage Portal [Immersive Learning News](https://www.immersivelearning.news/) von Torsten
  Fell
 
   
 
  **Profitipp**: Wenn Du nach einem bestimmten Thema suchst und eine
  verlässliche Quelle gefunden hast, nutze die Google-Seitensuche, um
- schnell zu der gewünschten Information zu gelangen.\
+ schnell zu der gewünschten Information zu gelangen.
   
 
  ![Google site:immersivelearning.news curationl Q Google-Suche Auf gut
@@ -67,7 +67,7 @@ Visualisierung von Katrin Mäntele
 
   
 
- **Verknüpfen**\
+ **Verknüpfen**
  Ganz klassisch geht es beim Synthesizing um das Zusammenfassen von
  langen, aufwändigen Medien und Inhalten in kurze, knackige Nuggets,
  die aber die Essenz des Mediums/Inhalts wiedergeben. Auch die Auswahl
@@ -79,25 +79,17 @@ Visualisierung von Katrin Mäntele
  Podcasts zusammenfassen und als geschriebenen Text, Audio oder
  Sketchnote präsentieren.
 
-   
 
- ![Blinkist Das sind die Blinks zu Curate This! Entdecken v Bibliothek
- Markierungen Upgrade auf Premium Du The Hands-On How-To Guide to
- Content Curation Von Steven Rosenbaum 10 Minuten Audio-Version
- verfügbar Upgraden und lesen Worum geht\'s Buch kaufen Wer diese
- Blinks lesen sollte An mein Kindle senden Wer das Buch geschrieben hat
- Curate This! (2014) reveals the different ways content curation is
- used today, Why humans make the best curators and how you can use
- content to expand your audience.
 
- ](./images/image15.png)
+ ![](./images/image15.png)
+
 
  Beispiel: Buchzusammenfassung bei
  [www.blinkist.com](http://www.blinkist.com/)
 
  Gemeinsam an diesen vielfältigen und inhaltlich tiefen Portalen ist,
  dass der einzelne Content meist sehr gut und akkurat zusammengefasst
- ist, man aber weiterhin nach dem \"richtigen\" Content suchen muss.
+ ist, man aber weiterhin nach dem "richtigen" Content suchen muss.
  Welcher Content aber für Dich und Deine Interessen und Bedürfnisse
  interessant sein sollte, können diese Portale kaum aussagen - sie
  agieren hier als Content-Aggregatoren, die zwar eine grobe
@@ -107,7 +99,7 @@ Visualisierung von Katrin Mäntele
 
  Einen unserer Lieblingsblogs,
  [www.weiterbildungsblog.de](http://www.weiterbildungsblog.de/), würden
- wir ebenfalls in den Bereich \"Synthesizing\" einordnen, da Dr. Jochen
+ wir ebenfalls in den Bereich "Synthesizing" einordnen, da Dr. Jochen
  Robes zu jedem Artikel, die er sorgfältig filtert und für seine HR und
  Digital Learning Tribes publiziert, mit einer kurzen persönlichen
  Einschätzung oder Zusammenfassung Wert hinzufügt und uns Leser\*innen
@@ -133,7 +125,7 @@ Visualisierung von Katrin Mäntele
  ](./images/image16.png)
 
  Screenshot:
- <https://weiterbildungsblog.de/blog/2019/03/20/clc-muenchen-clc089-content-curation-im-corporate-learning/
+ [#clc089 Meetup Content Curation](https://weiterbildungsblog.de/blog/2019/03/20/clc-muenchen-clc089-content-curation-im-corporate-learning/)
 
   
 
@@ -166,7 +158,7 @@ Visualisierung von Katrin Mäntele
  Learning How to Learn Learning How to Learn: Powerful mental tools to
  help yo\... McMaster University](./images/image17.png)
 
- Screenshot: <https://www.coursera.org/browse/personal-development
+ [Screenshot Coursera](https://www.coursera.org/browse/personal-development)
 
   
 
@@ -175,14 +167,14 @@ Visualisierung von Katrin Mäntele
  Diese Form der Kuratierung sorgt dafür, dass die relevantesten
  Informationen zu einem spezifischen Thema kurz beschrieben und
  vereinfacht in eine Ordnung gebracht werden. Typisch hierfür sind
- \"Best-of\" Listen, die neben einer Verlinkung einen zusätzlichen Wert
+ "Best-of" Listen, die neben einer Verlinkung einen zusätzlichen Wert
  bereitstellen. Ein gutes Beispiel für Distilling ist die Auflistung
  der [300 besten Lerntools](https://www.toptools4learning.com/) von
  Jane Hart.
 
  
 
- **Lernpfade erstellen**\
+ **Lernpfade erstellen**
  Lernpfade sind besonders wertvoll, wenn sie nicht so eng wie in
  traditionellen Blended Learning-Umgebungen bereitgestellt werden
  sondern eher eine Art Leitplanke für die eigene, selbstbestimmte
@@ -198,8 +190,8 @@ Visualisierung von Katrin Mäntele
  Glaubwürdigkeit zuschreiben, wie z.B. Christian Müller von
  [www.proagile.de](http://www.proagile.de/).
 
- Er schafft es, mit seiner \"Agile Toolbox\" einen Knotenpunkt zum
- Thema \"Agile\" bereitzustellen, das Beginnern und Profis im Bereich
+ Er schafft es, mit seiner "Agile Toolbox" einen Knotenpunkt zum
+ Thema "Agile" bereitzustellen, das Beginnern und Profis im Bereich
  Agile gleichermaßen Orientierung gibt und einen Weg aufzeigt, sich mit
  relevanten Themen und Inhalten auseinanderzusetzen. Die Inhalte sind
  deshalb wertvoll, weil sie von ihm, dem Trusted Guide und Experten für
@@ -212,7 +204,7 @@ Visualisierung von Katrin Mäntele
  den theme Scrum» Kanban, Design Thinking, Leadership und Agile
  Transformation. ](./images/image18.png)
 
- Screenshot: <https://proagile.de/toolbox/
+ [Screenshot Agile Toolbox](https://proagile.de/toolbox/)
 
   
 
@@ -226,7 +218,7 @@ Visualisierung von Katrin Mäntele
  verständlich darstellt und die Möglichkeit zum tieferen Eintauchen in
  Details und unterschiedliche Auffassungen gibt.
 
- Anschauliche Beispiele für \"Erforschen\" sind ausführliche Blogposts
+ Anschauliche Beispiele für "Erforschen" sind ausführliche Blogposts
  mit vielen Möglichkeiten, sich weiter zu verlinken. Der folgende Post
  zum Beispiel wurde von Stefan für den Blog der Corporate Learning
  Community verfasst. Seine Intention war es, sich selbst intensiv mit
@@ -251,15 +243,14 @@ Visualisierung von Katrin Mäntele
  grundsätzlich funktioniert. Blockchain Explained b Common:Craft
  ](./images/image19.png)
 
- Link:
- <https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/
+ [Link zum Blogpost](https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/)
 
   
 
  Ein weiteres hilfreiches Beispiel eines kuratierten Blogposts von
- Maria Popova - [Blogpost \"Fixed vs. Groth: The Two Basic Mindsets
+ Maria Popova - [Blogpost "Fixed vs. Groth: The Two Basic Mindsets
  That Shape Our
- Lives\"](https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/)
+ Lives"](https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/)
 
    
 
@@ -271,7 +262,7 @@ Visualisierung von Katrin Mäntele
  gewählte Format als besonders geeignet (oder auch nicht) einschätzt.
  (20 Minuten)
 
- **Kata 14:**\
+ **Kata 14:**
  Finde DEIN Format heraus. Überlege Dir, was Deine Vorliebe ist, woran
  Du Spaß hast und welches Format Dir im ersten Schritt wenig Aufwand
  bereitet, es zu erstellen. Mal Dir ein Mockup, eine Sketchnote oder
@@ -279,8 +270,8 @@ Visualisierung von Katrin Mäntele
  aussehen könnte. Präsentiere Deine Ideen den anderen
  Circle-Mitgliedern und diskutiert sie gemeinsam. (40 Minuten)
 
- **Vertiefungs-Kata:**\
- Versuche Dein Thema aus mehreren Gesichtspunkten zu betrachten -- z.
+ **Vertiefungs-Kata:**
+ Versuche Dein Thema aus mehreren Gesichtspunkten zu betrachten, z.
  B. Pro/Contra. Versuche Deine Hypothese, die Du mit kuratierten
  Inhalten belegen möchtest, in Frage zu stellen (z. B. Content Curation
  ist Zeitverschwendung). Suche dafür das richtige Format und skizziere
