@@ -1,0 +1,17 @@
+---
+title: "lernOS Content Curation Guide"
+subtitle: "A guide on how to find, make sense of and share relevant content"
+author: Stefan Diepolder, Marcel Kirchner, Herta Schuster
+date: "Version 1.0 (07.07.2022)"
+titlepage: true
+titlepage-color: "ff6600"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 3
+logo: src/images/lernOS-logo-white-4000px.png
+logo-width: 300px
+---
