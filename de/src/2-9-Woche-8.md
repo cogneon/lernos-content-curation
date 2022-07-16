@@ -79,10 +79,7 @@ Visualisierung von Katrin Mäntele
  Podcasts zusammenfassen und als geschriebenen Text, Audio oder
  Sketchnote präsentieren.
 
-
-
  ![](./images/image15.png)
-
 
  Beispiel: Buchzusammenfassung bei
  [www.blinkist.com](http://www.blinkist.com/)
@@ -208,7 +205,7 @@ Visualisierung von Katrin Mäntele
 
   
 
- **Erforschen**\
+ **Erforschen**
  Hier handelt es sich um eine journalistische Arbeit mit tiefgehender
  Recherche und Analyse, die sich unterschiedlicher Quellen bedient und
  gegensätzliche Meinungen und Sichtweisen zulässt. Ziel ist es, der

@@ -6,11 +6,11 @@ Netzwerke & Communitys sind für Kuratoren elementar wichtig: Sie können Quelle
 
 Dazu ein paar Beispiele von Kurator*innen und gut kuratierten Seiten:
 
--   Die Corporate Learning Community: <https://colearn.de/ -
-    Lern-Netzwerk zum Corporate Learning mit Beiträgen und Aktivitäten von, für und mit der Community
--   Dr. Jochen Robes ([www.weiterbildungsblog.de](http://www.weiterbildungsblog.de)) - Entwicklungen zu (digitalem) Lernen und Weiterbildung
--   Stefan Pfeiffer u.a. (https://cxokurator.com/) - kuratierte Informationen zu IT-Themen, wie Cloud, künstlicher Intelligenz und IT Security - mit einem wöchentlichen Livemeeting (9vor9)
--   Klaus Eck (<https://pr-blogger.de/) - Spezialist für Online-Marketing und PR mit vielen guten Kanälen
+- Die Corporate Learning Community: <https://colearn.de/ -
+  Lern-Netzwerk zum Corporate Learning mit Beiträgen und Aktivitäten von, für und mit der Community
+- Dr. Jochen Robes ([www.weiterbildungsblog.de](http://www.weiterbildungsblog.de)) - Entwicklungen zu (digitalem) Lernen und Weiterbildung
+- Stefan Pfeiffer u.a. (https://cxokurator.com/) - kuratierte Informationen zu IT-Themen, wie Cloud, künstlicher Intelligenz und IT Security - mit einem wöchentlichen Livemeeting (9vor9)
+- Klaus Eck (<https://pr-blogger.de/) - Spezialist für Online-Marketing und PR mit vielen guten Kanälen
 
 **Kata 1:**
 Erstelle eine Sammlung aller Netzwerke und Communitys, rund um die Themen, die Dich interessieren (privat oder beruflich) und denen Du angehörst. Dann schau Dir diese Liste an: Wo bist Du Zuhörer*in / Mitleser*in und warum? Wo bist Du aktiv und leistest selbst Beiträge?
@@ -42,22 +42,38 @@ Wie viele von 24 möglichen Namen stehen auf Deiner Liste?
 Schau Dir nun mit den folgenden Fragen die Struktur Deines Netzwerks an:
  Wie viele der Personen sind:
 
--   älter als Du
--   ca. Dein Alter
--   jünger als Du
--   Dein Geschlecht
--   anderes Geschlecht
--   arbeiten am gleichen Standort / im gleichen Büro
--   arbeiten an einem anderen Standort/in einer anderen Stadt
--   arbeiten in einem anderen Land
--   arbeiten in der gleichen Abteilung / im gleichen Bereich
--   arbeiten in einer anderen Abteilung / Organisationseinheit
--   arbeiten in einem anderen Unternehmen
--   haben das gleiche Fachgebiet wie Du
--   haben ein anderes Fachgebiet
--   arbeiten auf der gleichen Hierarchieebene wie Du
--   arbeiten auf einer Hierarchieebene unter Dir
--   arbeiten auf einer Hierarchieebene über Dir
--   nicht anwendbar
+- älter als Du
 
- Diese Übung wurde auf Grundlage der Network-Übung aus [Harold Jarche](https://jarche.com/)\'s **Personal Knowledge Mastery** [Online-Workshops](https://jarche.com/pkm/pkm-workshop/) zusammengestellt, gekürzt und angepasst.
+- ca. Dein Alter
+
+- jünger als Du
+
+- Dein Geschlecht
+
+- anderes Geschlecht
+
+- arbeiten am gleichen Standort / im gleichen Büro
+
+- arbeiten an einem anderen Standort/in einer anderen Stadt
+
+- arbeiten in einem anderen Land
+
+- arbeiten in der gleichen Abteilung / im gleichen Bereich
+
+- arbeiten in einer anderen Abteilung / Organisationseinheit
+
+- arbeiten in einem anderen Unternehmen
+
+- haben das gleiche Fachgebiet wie Du
+
+- haben ein anderes Fachgebiet
+
+- arbeiten auf der gleichen Hierarchieebene wie Du
+
+- arbeiten auf einer Hierarchieebene unter Dir
+
+- arbeiten auf einer Hierarchieebene über Dir
+
+- nicht anwendbar
+  
+  Diese Übung wurde auf Grundlage der Network-Übung aus [Harold Jarche](https://jarche.com/)\'s **Personal Knowledge Mastery** [Online-Workshops](https://jarche.com/pkm/pkm-workshop/) zusammengestellt, gekürzt und angepasst.

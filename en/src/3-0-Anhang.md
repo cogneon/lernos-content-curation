@@ -5,10 +5,10 @@
 * Stefan\`s Podcast zu Content Curation mit Christoph Haffner und Thomas Jenewein vom SAP Education Newscast - https://podcasts.apple.com/de/podcast/education-newscast/id1352307529?l=en&i=1000471555373
 
 * Blogpost zu Stefan\`s Beitrag beim Meetup der Corporate Learning
-Community #clc089 in München - https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/
+  Community #clc089 in München - https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/
 
 * Robin Good\`s "Content Curation Official Guide" auf medium.com -- DAS
-Online Basiswerk zu Content Curation - https://medium.com/content-curation-official-guide
+  Online Basiswerk zu Content Curation - https://medium.com/content-curation-official-guide
 
 * Robin Good\`s phänomenale Toolsammlung zu Content Curation - https://contentcuration.zeef.com/robin.good
 

@@ -25,33 +25,38 @@ Es gibt grundsätzlich 2 Einstiegspunkte, um sich mit Content Curation zu besch�
 
  Beantworte folgende Fragen:
 
--   Welche Art von Kuratierung schwebt Dir vor? Bist Du Expert*in oder Lerner*in? Warum?
--   Kuratierst Du primär für Dich oder für eine Gruppe an Personen, ein Netzwerk?
--   Wenn Du auch für andere kuratierst: Wer ist Deine Zielgruppe? Kannst Du sie beschreiben? Wie tickt Deine Zielgruppe?
+- Welche Art von Kuratierung schwebt Dir vor? Bist Du Expert*in oder Lerner*in? Warum?
 
- **Vertiefungs-Kata:**
+- Kuratierst Du primär für Dich oder für eine Gruppe an Personen, ein Netzwerk?
 
- Mache eine Zielgruppenanalyse anhand von Lernerpersonas: Kannst Du eine oder zwei Personen charakterisieren, die typisch für diese Zielgruppe sind? Tipp: Nutze die Vorlage zu Lernerpersonas, um die Personen einzeln zu beschreiben.
- 
- Hier eine einfache Vorlage als Powerpoint Datei:
+- Wenn Du auch für andere kuratierst: Wer ist Deine Zielgruppe? Kannst Du sie beschreiben? Wie tickt Deine Zielgruppe?
+  
+  **Vertiefungs-Kata:**
+  
+  Mache eine Zielgruppenanalyse anhand von Lernerpersonas: Kannst Du eine oder zwei Personen charakterisieren, die typisch für diese Zielgruppe sind? Tipp: Nutze die Vorlage zu Lernerpersonas, um die Personen einzeln zu beschreiben.
+   
+  Hier eine einfache Vorlage als Powerpoint Datei:
+  
+  *Persona_Vorlage_Deutsch.pptx*
+  
+  **Tiefergehende Analyse mit Deiner Zielgruppe**\
+  Wenn du noch einen Schritt weiter gehen willst, entwickle einen detaillierten Persona-Entwurf - wie das funktioniert, zeigt Dir die nachfolgende Anleitung aus dem Startup-Umfeld von Gründerszene: https://www.gruenderszene.de/operations/persona-personas-entwickeln
+  
+   
+  
+  **Kata 4:**
+  Formuliere die Ziele Deiner Kuratierung.
 
- *Persona_Vorlage_Deutsch.pptx*
+- Was willst Du erreichen?
 
- **Tiefergehende Analyse mit Deiner Zielgruppe**\
- Wenn du noch einen Schritt weiter gehen willst, entwickle einen detaillierten Persona-Entwurf - wie das funktioniert, zeigt Dir die nachfolgende Anleitung aus dem Startup-Umfeld von Gründerszene: https://www.gruenderszene.de/operations/persona-personas-entwickeln
+- Was ist genau Dein Thema?
 
-  
+- Bist Du auf Social Media aktiv? Auf welchen Kanälen fühlst Du Dich wohl?
 
- **Kata 4:**\
- Formuliere die Ziele Deiner Kuratierung.
-
--   Was willst Du erreichen?
--   Was ist genau Dein Thema?
--   Bist Du auf Social Media aktiv? Auf welchen Kanälen fühlst Du Dich wohl?
--   Wo würdest Du beginnen, Deine kuratierten Lernerfahrungen zu teilen?
-
- Gute Möglichkeiten, im sozialen Internet auf Deine Kuratierung aufmerksam zu machen, sind z.B. Twitter, LinkedIn, Pinterest oder Xing. Innerhalb von Unternehmen eignen sich Intranetseiten, die gut strukturiert sind, soziale Interaktionen zulassen und auf die möglichst viele Kollegen\*innen Zugriff haben, wie z.B. soziale Unternehmensnetzwerke ([Enterprise Social Networks](https://www.computerwoche.de/a/erfolgreich-dank-esn,3544076)) wie HCL Connections, Microsoft Yammer, Social Wikis wie Confluence oder auch SharePoint-Seiten.
-
- *Beispiel für eine Zielformulierung:*
-
- *Ich möchte mich dieses Jahr intensiv mit dem Thema Umgang mit "Daten und Datensicherheit" beschäftigen. Ich habe bisher noch wenig darüber nachgedacht, was mit meinen Daten geschieht und welche Auswirkungen das haben könnte - doch ein Beispiel aus der Süddeutschen Zeitung hat mich zum Nachdenken gebracht -- hier der Link dazu: https://www.sueddeutsche.de/digital/smartphone-datenschutz-tipps-android-ios-1.4716498. Mein Ziel ist es, meine eigenen digitalen Aktivitäten sowohl im Beruf als auch im Privaten im Hinblick auf Datensicherheit zu verstehen und zu optimieren und meine Familie und meine Kollegen in der Arbeit sensibel für das Thema zu machen. Meine Erlebnisse möchte ich auf einem externen Blog ([www.medium.com](http://www.medium.com)) formulieren und ihn im Intranet (unserem Enterprise Social Network Yammer) und auf Twitter und Linkedin teilen.*
+- Wo würdest Du beginnen, Deine kuratierten Lernerfahrungen zu teilen?
+  
+  Gute Möglichkeiten, im sozialen Internet auf Deine Kuratierung aufmerksam zu machen, sind z.B. Twitter, LinkedIn, Pinterest oder Xing. Innerhalb von Unternehmen eignen sich Intranetseiten, die gut strukturiert sind, soziale Interaktionen zulassen und auf die möglichst viele Kollegen\*innen Zugriff haben, wie z.B. soziale Unternehmensnetzwerke ([Enterprise Social Networks](https://www.computerwoche.de/a/erfolgreich-dank-esn,3544076)) wie HCL Connections, Microsoft Yammer, Social Wikis wie Confluence oder auch SharePoint-Seiten.
+  
+  *Beispiel für eine Zielformulierung:*
+  
+  *Ich möchte mich dieses Jahr intensiv mit dem Thema Umgang mit "Daten und Datensicherheit" beschäftigen. Ich habe bisher noch wenig darüber nachgedacht, was mit meinen Daten geschieht und welche Auswirkungen das haben könnte - doch ein Beispiel aus der Süddeutschen Zeitung hat mich zum Nachdenken gebracht -- hier der Link dazu: https://www.sueddeutsche.de/digital/smartphone-datenschutz-tipps-android-ios-1.4716498. Mein Ziel ist es, meine eigenen digitalen Aktivitäten sowohl im Beruf als auch im Privaten im Hinblick auf Datensicherheit zu verstehen und zu optimieren und meine Familie und meine Kollegen in der Arbeit sensibel für das Thema zu machen. Meine Erlebnisse möchte ich auf einem externen Blog ([www.medium.com](http://www.medium.com)) formulieren und ihn im Intranet (unserem Enterprise Social Network Yammer) und auf Twitter und Linkedin teilen.*

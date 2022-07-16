@@ -6,13 +6,13 @@ Schön, dass Ihr Euch zusammengefunden habt und mit diesem Leitfaden kennenlerne
 
 Stellt Euch folgende Fragen (oder ähnliche):
 
--   Wer bist Du?
+- Wer bist Du?
 
--   Womit beschäftigst Du Dich in Deiner täglichen Arbeit?
+- Womit beschäftigst Du Dich in Deiner täglichen Arbeit?
 
--   Woran hast Du besonderes Interesse?
+- Woran hast Du besonderes Interesse?
 
--   Zu welchem Thema wolltest Du schon immer mal tiefer einsteigen?
+- Zu welchem Thema wolltest Du schon immer mal tiefer einsteigen?
 
 Bewährt hat sich, auch private Dinge von sich zu teilen - dies fördert die Nähe zueinander, stärkt das Vertrauen und zeigt schnell inhaltliche
 Anknüpfungspunkte.

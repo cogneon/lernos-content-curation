@@ -19,7 +19,6 @@ sind gute Netzwerker\*innen, kennen viele Leute, kommen leicht mit allen ins Ges
  **Katalysator*innen**
 sind gut darin, Wissen anzureichern, Wissensverbindungen sichtbar zu machen und Wissen weiterzugeben, aber auch darin, Menschen, Ideen und Organisationen zu verbinden. Katalysieren in diesem Sinne ist die hohe Kunst im Wissensmanagement und in der Content Curation. Nur wenige Menschen sind gute Katalysator*innen, eine Grundvoraussetzung ist jedenfalls, dass sie gute Kurator*innen sind.
 
-
  **Kata 9:**
 In den Aufgaben in Woche 1 hast Du Dir bereits Gedanken über Dein Netzwerk gemacht und bestimmt Kontakt mit verschiedenen Expert*innen über die eine oder andere Art aufgenommen. Überlegt Euch jetzt zusammen, wie Ihr in Euren Netzwerken (z.B. Xing/LinkedIn, Twitter) Verbinder*innen erkennen könnt und wodurch das in ihren Beiträgen sichtbar wird? Überlegt in der Gruppe oder allein, was Ihr tun könnt, um bessere Verbinder zu werden. Nehmt Euch zwei bis drei Punkte vor und übt sie die nächsten vier Wochen ein.
 

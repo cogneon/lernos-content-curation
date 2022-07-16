@@ -6,7 +6,7 @@ Wen fragst Du, wenn Du schnell an gute und relevante Informationen kommen willst
 
  Wie kann dieser Mechanismus aufs Kuratieren übertragen werden?
 
- **Kata 5:**\
+ **Kata 5:**
  Schreibe 3 Themen auf, die Dich im Moment am meisten beschäftigen und notiere jeweils 2 Namen dahinter, denen Du wirklich vertraust. Verlinke die Inhalte, Artikel, Videos und Podcasts (...) und eventuell auch Bücher, die Du von ihnen kennst, gelesen, angesehen bzw. studiert und gehört hast mit Deinen persönlichen Anmerkungen. Mache Dir eine Liste - im Idealfall sind es Menschen, die Du schon persönlich kennen gelernt hast - oder denen Du schon lange und intensiv folgst und genau weißt, wie sie denken und für was sie stehen. Sie sind Deine "Trusted Guides". 
 
  ***Exkurs:***
@@ -14,7 +14,7 @@ Wen fragst Du, wenn Du schnell an gute und relevante Informationen kommen willst
 
  *Wenn Du OneNote zum ersten Mal ausprobieren möchtest und noch keine Idee hast, was man damit tun kann, hilft Dir [dieser Blogpost](https://colearn.de/corporate-learning-community-region-frankfurt-clc069-2-treffen-am-5-maerz-2018/).*
 
- **Kata 6:**\
+ **Kata 6:**
  Jetzt suche Dir im 2. Schritt die Quellen, die Deine "Trusted Guides" besonders gerne zum Publizieren ihrer Inhalte verwenden. Dies könnte ihr Twitter Kanal sein, ihr persönlicher Blog oder auch ein Webportal oder ein Youtube- oder Podcasting Kanal. Durchsuche nun diese Quellen nach relevanten Informationen, Ideen oder auch Verweisen zu anderen Personen zu Deinem Thema. Nutze z. B. die Funktion von Google, mit der Du eine Webseite gezielt durchsuchen kannst.
 
  ![](./images/image8.png)
@@ -31,5 +31,5 @@ Wen fragst Du, wenn Du schnell an gute und relevante Informationen kommen willst
 
  ![Ein Bild, das Text enthält. Automatisch generierte Beschreibung](./images/image9.png)
 
- **Vertiefungs-Kata:**\
+ **Vertiefungs-Kata:**
  Suche Hilfe bei Deinen Followern (#followerpower) und frage sie ganz direkt über Twitter nach einer Empfehlung zu Deinem neuen Thema oder nach Personen, die Dir ihrer Meinung nach weiterhelfen können. Sofern Du ein gutes Netzwerk hast, wirst Du sehr schnell sehr gute und relevante Informationen und Menschen empfohlen bekommen.

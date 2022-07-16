@@ -2,12 +2,9 @@
 
 ***Ein Leitfaden, wie Ihr relevante Inhalte finden, sinnhaft aufbereiten und teilen könnt***
 
-
 Du hast keine Ahnung, was Content Curation (oder auch "Kuratierung digitaler Inhalte" genannt) ist und würdest Dir gerne ein Bild davon machen?
 
-
 Content Curation hilft Dir, wertvolle Informationen über Themen mit Hilfe von Inhalten und Experten zusammenzustellen, ohne das Rad dabei neu erfinden zu müssen. Du lernst Methoden, Formen und Ansätze kennen, wie Du über den Tellerrand Deines Themas schauen und Dein entstehendes Wissen mit anderen teilen kannst.
-
 
 Wenn Du Dich über diesen lernOS Circle Guide mit Content Curation
 beschäftigst, wirst Du die Wirkmechanismen und Unterschiede von
@@ -47,15 +44,15 @@ zusammengestellt haben.
 
  
 
--   **Was ist Kuratieren?**
+- **Was ist Kuratieren?**
 
--   **Wie kann man kuratieren definieren?**
+- **Wie kann man kuratieren definieren?**
 
--   **Warum sollte man kuratieren?**
+- **Warum sollte man kuratieren?**
 
--   **Was zeichnet Kurator\*innen aus?**
+- **Was zeichnet Kurator\*innen aus?**
 
--   **Wie funktioniert Kuratieren?**
+- **Wie funktioniert Kuratieren?**
 
  
 
@@ -91,9 +88,6 @@ Lateinisch "curare" bedeutet u.a.
 
 \...Lust haben\...
 
-
-
-
 Es gibt keine allgemeingültige Definition für Content Curation, aber für
 uns definiert diese kurze Zusammenfassung, angelehnt an Robin Good, sehr
 gut, um was es dabei geht:
@@ -101,8 +95,8 @@ gut, um was es dabei geht:
  
 
 > **"Content Curation ist die Kunst, digitale Informationsbausteine und
-Artefakte zu einem bestimmten Thema für ein spezielles Publikumsinteresse zu finden, filtern, organisieren und Wert
-hinzuzufügen und öffentlich zugänglich zu machen."**
+> Artefakte zu einem bestimmten Thema für ein spezielles Publikumsinteresse zu finden, filtern, organisieren und Wert
+> hinzuzufügen und öffentlich zugänglich zu machen."**
 
 Robin Good: [What is Content Curation?](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84)
 (abgerufen am 16.06.2020)
@@ -263,13 +257,15 @@ Eine mögliche Vorgehensweise für diese Schritte ist ein dreistufiger
 Prozess nach Harold Jarche (2014)
 (<https://jarche.com/2014/02/the-seek-sense-share-framework/>), der sich
 
-1.  mit dem **Suchen bzw. Finden** von Inhalten, Information und
-    > Experten befasst,
+1. mit dem **Suchen bzw. Finden** von Inhalten, Information und
+   
+   > Experten befasst,
 
-2.  dem **Filtern und Organisieren** und im weiteren, wichtigen Schritt
-    > dann **Anreichern** dieser Inhalte mit **Wert und Meinungen**,
+2. dem **Filtern und Organisieren** und im weiteren, wichtigen Schritt
+   
+   > dann **Anreichern** dieser Inhalte mit **Wert und Meinungen**,
 
-3.  und schließlich den Möglichkeiten des **Teilens und Austauschens**.
+3. und schließlich den Möglichkeiten des **Teilens und Austauschens**.
 
 ![](./images/image6.jpg){width="6.33333552055993in"
 height="3.5520833333333335in"}Visualisierung von Katrin Mäntele
@@ -278,90 +274,93 @@ height="3.5520833333333335in"}Visualisierung von Katrin Mäntele
  *Kompetenz um die Kurator\*innen einzuschätzen (Werte) - Werte sollten
 klar sein*
 
-1.  **Suchen bzw. Finden**\
-    > Es geht darum, interessante und relevante Informationen zu finden
-    > und auf dem Laufenden zu bleiben. Unter all dem „Lärm" die
-    > wirklich hilfreichen, lesens- und lernenswerten Beiträge vom
-    > „Geplapper" zu unterscheiden. Und sich über die Zeit ein Netzwerk
-    > von vertrauenswürdigen Quellen und Experten aufzubauen. So dass
-    > man nicht nur Informationen sucht, sondern sie auch automatisch
-    > über unser Netzwerk ihren Weg zu uns finden. Gute Kuratoren sind
-    > immer auch verlässliche Mitglieder in Wissensnetzwerken.\
-    >  
+1. **Suchen bzw. Finden**\
+   
+   > Es geht darum, interessante und relevante Informationen zu finden
+   > und auf dem Laufenden zu bleiben. Unter all dem „Lärm" die
+   > wirklich hilfreichen, lesens- und lernenswerten Beiträge vom
+   > „Geplapper" zu unterscheiden. Und sich über die Zeit ein Netzwerk
+   > von vertrauenswürdigen Quellen und Experten aufzubauen. So dass
+   > man nicht nur Informationen sucht, sondern sie auch automatisch
+   > über unser Netzwerk ihren Weg zu uns finden. Gute Kuratoren sind
+   > immer auch verlässliche Mitglieder in Wissensnetzwerken.\
+   >  
 
-2.  **Filtern, Organisieren und Anreichern**\
-    > Filtern heißt die Spreu vom Weizen trennen, wissen, welchen
-    > Quellen und Menschen man vertrauen kann und wie man
-    > Wissensbereiche voneinander abgrenzt, um den roten Faden nicht zu
-    > verlieren. Im nächsten Schritt muss man für sich eine
-    > übersichtliche und zeitsparende Art finden, die Informationen zu
-    > speichern, sortieren und schnell auffindbar zu machen.\
-    > Dann kann man im wichtigsten Schritt, dem Anreichern von Wert und
-    > Nutzen für die Zielgruppe, sinnvoll mit den Inhalten arbeiten und
-    > z.B. Zusammenfassungen schreiben, Querverweise herstellen,
-    > vergleichen, kritische Fragen stellen usw. Selbst zu kuratieren
-    > und aus verschiedenen Bausteinen und Artefakten einen Artikel oder
-    > Blogpost zu erstellen, ist eine sehr effektive und wirkungsvolle
-    > Methode, selbst zu lernen und Wissen aufzubauen.\
-    >  
+2. **Filtern, Organisieren und Anreichern**\
+   
+   > Filtern heißt die Spreu vom Weizen trennen, wissen, welchen
+   > Quellen und Menschen man vertrauen kann und wie man
+   > Wissensbereiche voneinander abgrenzt, um den roten Faden nicht zu
+   > verlieren. Im nächsten Schritt muss man für sich eine
+   > übersichtliche und zeitsparende Art finden, die Informationen zu
+   > speichern, sortieren und schnell auffindbar zu machen.\
+   > Dann kann man im wichtigsten Schritt, dem Anreichern von Wert und
+   > Nutzen für die Zielgruppe, sinnvoll mit den Inhalten arbeiten und
+   > z.B. Zusammenfassungen schreiben, Querverweise herstellen,
+   > vergleichen, kritische Fragen stellen usw. Selbst zu kuratieren
+   > und aus verschiedenen Bausteinen und Artefakten einen Artikel oder
+   > Blogpost zu erstellen, ist eine sehr effektive und wirkungsvolle
+   > Methode, selbst zu lernen und Wissen aufzubauen.\
+   >  
 
-3.  **Teilen & Austauschen**\
-    > Hier geht es darum, für sich ein Gespür und eine Praxis zu
-    > entwickeln, wie man seine angereicherten Inhalte wann und mit wem
-    > teilt, wie man Ideen und Erfahrungen in seinen Netzwerken
-    > weitergibt, Feedback einholt, Inspirationen bekommt oder in die
-    > Zusammenarbeit mit Kolleg\*innen in der Arbeit geht.
+3. **Teilen & Austauschen**\
+   
+   > Hier geht es darum, für sich ein Gespür und eine Praxis zu
+   > entwickeln, wie man seine angereicherten Inhalte wann und mit wem
+   > teilt, wie man Ideen und Erfahrungen in seinen Netzwerken
+   > weitergibt, Feedback einholt, Inspirationen bekommt oder in die
+   > Zusammenarbeit mit Kolleg\*innen in der Arbeit geht.
 
  
 
 **Quellen & weiterführende Links:**
 
 * Zusammenfassung des Meetups zu Content Curation mit Stefan Diepolder:
-<https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/>
-(abgerufen am 12.04.2020)
+  <https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/>
+  (abgerufen am 12.04.2020)
 
 * Kuratieren: <https://de.langenscheidt.com/latein-deutsch/curare>,
-abgerufen am 15.04.2020
+  abgerufen am 15.04.2020
 
 * Definition Content Curation: Angelehnt an Robin Good [Content Curation
-Official
-Guide](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84),
-abgerufen am 13.04.2020
+  Official
+  Guide](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84),
+  abgerufen am 13.04.2020
 
 * Mozilla, Web Literacy: <https://learning.mozilla.org/en-US/web-literacy>
 
 * Lesetipp: *\"Curation -- The Power of Selection in a World of Excess\"*
-von Michael Bhaskar. Verbindet Industriegeschichte mit Kuratierung und
-zeigt in vielen anschaulichen Beispielen, in welchen Lebensbereichen wir
-schon mit Kuratierung vertraut sind.
+  von Michael Bhaskar. Verbindet Industriegeschichte mit Kuratierung und
+  zeigt in vielen anschaulichen Beispielen, in welchen Lebensbereichen wir
+  schon mit Kuratierung vertraut sind.
 
 * Digitalisierung der Musikindustrie:
-<https://blog.wiwo.de/look-at-it/2018/10/09/digitalisierung-der-musikindustrie-turnaround-durch-streaming-nach-schwund-um-zwei-drittel/>,
-abgerufen 16.04.2020
+  <https://blog.wiwo.de/look-at-it/2018/10/09/digitalisierung-der-musikindustrie-turnaround-durch-streaming-nach-schwund-um-zwei-drittel/>,
+  abgerufen 16.04.2020
 
 * Knowledge Doubling Curve by Buckminster Fuller
-<https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
-abgerufen am 18.04.2020
+  <https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
+  abgerufen am 18.04.2020
 
 * Good, Robin (2018): What is Content Curation URL:
-<https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84>,
-abgerufen am 23.03.2020
+  <https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84>,
+  abgerufen am 23.03.2020
 
 * Shirky, Clay (2011): It\`s not Information Overload, it\`s Filter
-Failure URL: <https://www.azquotes.com/quote/409865>, abgerufen am
-18.04.2020
+  Failure URL: <https://www.azquotes.com/quote/409865>, abgerufen am
+  18.04.2020
 
 * Jarche, Herold (2014): The Seek Sense Share Framework URL:
-<https://jarche.com/2014/02/the-seek-sense-share-framework/>, abgerufen
-am 15.04.2020)
+  <https://jarche.com/2014/02/the-seek-sense-share-framework/>, abgerufen
+  am 15.04.2020)
 
 * Janne Hietala, Jens Harju, Samu Kuosmanen (2019): Knowledge Doubling
-Curve by Buckminster Fuller URL:
-<https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
-abgerufen am 18.04.2020
+  Curve by Buckminster Fuller URL:
+  <https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
+  abgerufen am 18.04.2020
 
 * "PKM -- A set of processes, individually constructed, to help each of us
-make sense of our world and work mor effectively
+  make sense of our world and work mor effectively
 
 * Zitat aus dem YouTube Video [Personal Knowledge Management Workshop
-Intro 2013](https://youtu.be/HQbnoLxgx7I), abgerufen am 18.06.2020
+  Intro 2013](https://youtu.be/HQbnoLxgx7I), abgerufen am 18.06.2020
