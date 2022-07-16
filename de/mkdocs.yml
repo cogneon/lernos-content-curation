@@ -46,7 +46,7 @@ extra_css:
   - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-content-curation'
-repo_url: 'https://github.com/cogneon/lernos-template'
+repo_url: 'https://github.com/cogneon/lernos-content-curation'
 
 extra:
     social:
