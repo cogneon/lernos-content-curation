@@ -1,66 +1,47 @@
 **Content Curation lernOS Circle Guide**
 
-***A guide to how you can find, make sense of, and share relevant content***.
+***Ein Leitfaden, wie Ihr relevante Inhalte finden, sinnhaft aufbereiten und teilen könnt***
 
-Have no idea what content curation (or also called "digital content curation") is and would like to get an idea?
+Du hast keine Ahnung, was Content Curation (oder auch "Kuratierung digitaler Inhalte" genannt) ist und würdest Dir gerne ein Bild davon machen?
 
-Content curation helps you put together valuable information about topics with the help of content and experts, without having to reinvent the wheel. You'll learn methods, forms, and approaches for thinking outside the box about your topic and sharing your emerging knowledge with others.
+Content Curation hilft Dir, wertvolle Informationen über Themen mit Hilfe von Inhalten und Experten zusammenzustellen, ohne das Rad dabei neu erfinden zu müssen. Du lernst Methoden, Formen und Ansätze kennen, wie Du über den Tellerrand Deines Themas schauen und Dein entstehendes Wissen mit anderen teilen kannst.
 
-When you learn about content curation through this lernOS Circle Guide
-you will learn about the mechanisms and differences between machine
-of machine filters (via algorithms) and human filters.
-understand. But you'll also learn to make curation work for you and your life.
-to work more openly and visibly and to learn how to deal with the
-the flood of available knowledge, help others, save time, and understand things.
-and understand things. Along the way you will gain
-reputation and expertise, within your organization or in your network.
-network. You will learn that networks based on trust are the key to
-are the key to getting along in our complex world and to learn quickly and
-to learn and innovate quickly and effectively.
+Wenn Du Dich über diesen lernOS Circle Guide mit Content Curation beschäftigst, wirst Du die Wirkmechanismen und Unterschiede von
+maschinellen Filtern (über Algorithmen) und menschlichen Filtern verstehen. Aber du lernst auch, Kuratieren für dich und dein Leben einzusetzen: um offener und sichtbarer zu arbeiten und zu lernen, mit der Flut an verfügbarem Wissen klar zu kommen, anderen zu helfen, Zeit zu sparen und Dinge zu verstehen. Ganz nebenbei erarbeitest Du Dir dabei Reputation und Expertise, innerhalb Deiner Organisation oder in Deinem Netzwerk. Du wirst lernen, dass auf Vertrauen basierende Netzwerke der Schlüssel sind, um in unserer komplexen Welt klar zu kommen und um schnell und effektiv zu lernen und innovativ zu sein.
 
-If you want to learn more details to decide if the
-Content Curation guide is right for you, listen to Stefan\`s
-podcast on content curation -- it will definitely help you to get some
-insights into the topic and help you decide if you want to spend the next
-more intensively with content curation over the next 13 weeks.
-content curation.
+ 
 
-[The podcast](https://podcast.opensap.info/education-newscast/2020/02/10/education-newscast-073-learntec-content-kuratierung-mit-stefan-diepolder/) with Christoph Haffner and Thomas Jenewein from the
-SAP Education Newscast on content curation in the context of the Learntec trade fair
-2020 - the episode lasts about 52 minutes -
-(accessed on 13.10.2020)
+Wenn Du mehr Details erfahren möchtest, um zu entscheiden, ob der Content Curation Leitfaden richtig für Dich ist, hör doch in Stefan\`s Podcast zu Content Curation rein -- das hilft Dir bestimmt, ein paar Einblicke in das Thema zu gewinnen und Dich zu entscheiden, ob Du Dich die nächsten 13 Wochen intensiver mit Content Curation beschäftigen
+möchtest.
+
+[Der Podcast](https://podcast.opensap.info/education-newscast/2020/02/10/education-newscast-073-learntec-content-kuratierung-mit-stefan-diepolder/) mit Christoph Haffner und Thomas Jenewein vom SAP Education Newscast zu Content Curation im Rahmen der Learntec Messe 2020 - die Episode dauert ca. 52 Minuten - (abgerufen 13.10.2020)
 
 ![](./images/image1.png)
 
  
 
-**Basics**
+**Grundlagen**
 
-If you are thinking about doing this Circle, you should have a look at the following
-take a look at the following basics that we have put together for you.
-we have put together for you.
+Wenn Du überlegst, ob Du diesen Circle durchführen möchtest, dann schau Dir am besten einmal die nachfolgenden Grundlagen an, die wir für Dich zusammengestellt haben.
 
+ 
 
+- **Was ist Kuratieren?**
 
-- What is curation?
+- **Wie kann man kuratieren definieren?**
 
-- How can you define curation?
+- **Warum sollte man kuratieren?**
 
-- Why should you curate?**
+- **Was zeichnet Kurator\*innen aus?**
 
-- What distinguishes curators?
+- **Wie funktioniert Kuratieren?**
 
-- How does curating work?**
+ 
 
+ 
 
-
-
-
-**What is curating?**
-You can get a first insight by watching the video that Stefan showed at a
-a meetup of the Colearn Community Munich #clc089:\
-["Content Curation" from Stefan Diepolder meeting the
-https://youtu.be/rn_AQuUxxIk
+**Was ist Kuratieren?**
+Einen ersten Einblick bekommst Du über das Video, das Stefan im Rahmen eines Meetups der Colearn Community München #clc089 aufgenommen hat:\ ["Content Curation" von Stefan Diepolder beim Treffen der https://youtu.be/rn_AQuUxxIk
 
  
 
@@ -70,151 +51,95 @@ https://youtu.be/rn_AQuUxxIk
 
  
 
-**How to define curate?**
+**Wie kann man kuratieren definieren?**
 
- Origin of the word "curate"
-[in Langenscheidt Lexicon], https://de.langenscheidt.com/latein-deutsch/curare, accessed on
-16.06.2020)
+ Herkunft des Wortes "kuratieren" [im Langenscheidt Lexikon], https://de.langenscheidt.com/latein-deutsch/curare, abgerufen am 16.06.2020)
 
-Latin "curare" means, among other things.
+Lateinisch "curare" bedeutet u.a.
 
-\...to take care of....
+\...sich kümmern\...
 
-\...to care\...
+\...sorgen\...
 
-\...to take the trouble\...
+\...sich die Mühe nehmen\...
 
-\...to have desire\....
+\...Lust haben\...
 
-There is no universal definition of content curation, but for us this short
-but for us this short summary, based on Robin Good, defines very well what it is
-what it is all about:
+Es gibt keine allgemeingültige Definition für Content Curation, aber für uns definiert diese kurze Zusammenfassung, angelehnt an Robin Good, sehr gut, um was es dabei geht:
 
  
 
-> **"Content curation is the art of finding, filtering, organizing, and delivering value to digital
-> artifacts on a particular topic for a specific audience interest, filtering, organizing, adding value
-> added and made publicly accessible. "**
+> **"Content Curation ist die Kunst, digitale Informationsbausteine und Artefakte zu einem bestimmten Thema für ein spezielles Publikumsinteresse zu finden, filtern, organisieren und Wert hinzuzufügen und öffentlich zugänglich zu machen."**
 
 Robin Good: [What is Content Curation?](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84)
-(accessed on 16.06.2020)
+(abgerufen am 16.06.2020)
 
 >  
 
-Curation is not just the idea of a few internet-savvy geeks.
-Even if they are often not called that, the skills of curators belong to the
-curatorial skills are among the core competencies of the 21st century.
-also the [Mozilla
-Foundation](https://foundation.mozilla.org/en/initiatives/web-literacy/)
-has worked out.
+Kuratieren ist nicht nur eine Idee von ein paar internetaffinen Freaks. Auch wenn sie oft nicht so benannt werden, gehören die Fähigkeiten von Kurator\*innen zu den Kernkompetenzen des 21. Jahrhunderts, wie sie z.B. auch die [Mozilla Foundation](https://foundation.mozilla.org/en/initiatives/web-literacy/) herausgearbeitet hat.
 
  
 
-Partial competencies of curation such as share, compose, remix, evaluate,
-synthesize, search, connect, contribute are among the 21st Century
-Skills promoted by the Mozilla Foundation in the area of Web Literacy. If you go to the pages, you can go through curated learning paths on each skill.
+Teilkompetenzen des Kuratierens wie share, compose, remix, evaluate, synthesize, search, connect, contribute gehören zu den 21st Century Skills, die von der Mozilla Foundation im Bereich Web Literacy propagiert werden. Wenn Du die Seiten aufrufst, kannst Du kuratierte Lernpfade zu den einzelnen Kompetenzen durchlaufen. 
 
 ![web lit map](./images/image3.jpeg)
 
-Figure: <https://foundation.mozilla.org/en/initiatives/web-literacy/>
+Abbildung: <https://foundation.mozilla.org/en/initiatives/web-literacy/>
 (CC BY 4.0)
 
  
 
-**Why curate?**
+**Warum sollten man kuratieren?**
 
-Our problem today is not the lack of information as it used to be,
-but the lack of reliable and efficient filters. Professor
-Clay Shirky puts it very clearly.
+Unser Problem heute ist nicht mehr wie früher der Mangel an Information, sondern das Fehlen von verlässlichen und effizienten Filtern. Professor Clay Shirky bringt das sehr deutlich zum Ausdruck.
 
 ***"It\`s not information overload. It\`s filter failure."***
 
 Quelle: Clay Shirky. AZQuotes.com, [Wind and Fly LTD], 2020.
-https://www.azquotes.com/quote/409865, accessed on 18.06.2020.  
+https://www.azquotes.com/quote/409865, abgerufen am 18.06.2020.  
 
-He explains the [Information Overload](https://youtu.be/XE38jpFOiv8) in 3
-minutes on Youtube.
+Er erklärt den [Information Overload](https://youtu.be/XE38jpFOiv8) in 3 Minuten auf Youtube.
 
-The world we live in today is characterized by abundance. To
-to cope with abundance, effective filters are necessary. No matter
-everywhere we look, the first decisions are taken from us, whether we like it or not.
-taken away from us, whether we like it or not. Our Google home page, the
-access to the world's largest library, knows and remembers our
-preferences and our search history -- and suggests to us, optimized and filtered by algorithms
-algorithms to suggest what should interest us most in our search.
-should be of most interest to us in our search.
+Die Welt, in der wir heute leben, ist von Überfluss gekennzeichnet. Um mit dem Überfluss klar zu kommen, sind effektive Filter notwendig. Egal wohin wir sehen, überall werden uns die ersten Entscheidungen abgenommen, ob wir das wollen oder nicht. Unsere Google Startseite, der Zugang zur größten Bibliothek der Welt, kennt und merkt sich unsere Vorlieben und unsere Suchhistorie haarklein -- und schlägt uns durch Algorithmen optimiert und gefiltert vor, was uns auf unsere Suche am meisten interessieren sollte.
 
-If you want to go a little deeper - the [Video "Beware of the Online
-Filter Bubbles"](https://youtu.be/B8ofWFx525s) by Eli Pariser
-describes how this mechanism works (09:05 minutes)
+Wer etwas tiefer einsteigen möchte - das [Video "Beware of the Online Filter Bubbles"](https://youtu.be/B8ofWFx525s) von Eli Pariser beschreibt, wie dieser Mechanismus funktioniert (09:05 Minuten)
 
-We go to a supermarket -- and find the products at
-eye level that the supermarket owner thinks we should buy --
-and not the products we actually want, such as
-particularly low-priced or sustainable, regionally produced
-products. And, and, and.... Let's be aware - we live in a
-world that is characterized by abundance and filtered and curated for us.
-curated for us - and in which many decisions and opportunities are already anticipated by
-technical systems or people are anticipated.
+Wir gehen in einen Supermarkt -- und finden dort die Produkte auf Augenhöhe, die wir aus Sicht der Supermarktbesitzer kaufen sollten -- und nicht die Produkte, die wir uns eigentlich wünschen wie z.B. besonders preisgünstige oder nachhaltige, in der Region produzierte Produkte. Und, und, und\.... Machen wir uns bewusst - wir leben in einer
+Welt, die von Überfluss geprägt und für uns gefiltert und kuratiert wird - und in der bereits viele Entscheidungen und Möglichkeiten von technischen Systemen oder Menschen vorweggenommen werden.
 
-Music is a good example here, especially also for the
-diversity and abundance in today's world: As recently as the 17th century, music was something very special.
-Century, music was something very special. It could only be enjoyed live
-and only a very few rich and famous people had access to it.
-people. Then, starting in the 19th century, technical devices were invented,
-music was made replayable, from the first gramophones, record
-gramophones, record players, cassette and CD players to the invention of the mp3
-invention of the mp3 format and thus the digitization of music.
-In the meantime, everyone can have their personal music with them on their smartphone anytime
-and everywhere, often aggregated by powerful portals like
-YouTube, Spotify or iTunes. We can find all kinds of music styles from
-from every corner of the world, and very quickly we are overwhelmed by the abundance of
-overwhelmed with the abundance of possibilities. To counter this, the music portals use recommendations
-recommendations calculated by algorithms, enable the exchange of information
-and recommendations among friends, for example, also provide their own,
-filtered offers and playlists.
+Die Musik ist hier ein gutes Beispiel, ganz besonders auch für die Vielfalt und den Überfluss in unserer heutigen Welt: Noch im 17. Jahrhundert war Musik etwas ganz Besonderes. Sie konnte nur live genossen werden und Zugang hatten nur sehr wenige reiche und berühmte Menschen. Ab dem 19. Jahrhundert wurden dann technische Geräte erfunden, mit denen Musik wiederabspielbar gemacht wurde, von den ersten Grammophonen, Plattenspieler, Kassetten- und CD-Player bis hin zur Erfindung des mp3-Formats und damit der Digitalisierung der Musik.
+Inzwischen kann jeder seine persönliche Musik auf dem Smartphone immerund überall bei sich haben, oft aggregiert von mächtigen Portalen wie YouTube, Spotify oder iTunes. Wir finden alle möglichen Musikstile aus jedem Winkel der Welt und ganz schnell sind wir mit der Fülle der Möglichkeiten überfordert. Um dem zu begegnen, setzen die Musikportale von Algorithmen errechnete Empfehlungen ein, ermöglichen den Austausch und Empfehlungen unter Freunden stellen zum Beispiel auch eigene, gefilterte Angebote und Playlisten bereit.
 
  
 
-And when it comes to knowledge, information and content, it's even more
-more extreme, because knowledge grows exponentially. As the figure below
-shows, knowledge doubled every 13 months in 2017, with the trend
-in the direction of "much faster." Contributing to this, for example, are
-simple systems and devices that are easy and quick for everyone to
-and can be shared many times over in a flash via portals and social media.
-and shared via portals and social media. Keeping a good overview, separating the
-separating the wheat from the chaff is more important than ever.
+Und wenn es um Wissen, Informationen und Inhalte geht, ist es noch extremer, denn Wissen wächst exponentiell. Wie die Abbildung unten zeigt, verdoppelte sich das Wissen im Jahr 2017 alle 13 Monate, Tendenz in Richtung "wesentlich schneller". Dazu tragen zum Beispiel auch einfache Systeme und Geräte, die für jedermann leicht und schnell zu
+nutzen und über Portale und soziale Medien blitzschnell und vielfach geteilt werden können, bei. Dabei einen guten Überblick zu behalten, die Spreu vom Weizen trennen zu können, ist wichtiger denn je.
 
  
 
 ![](./images/image4.jpeg)
 
-Visualization by Katrin Mäntele
+Visualisierung von Katrin Mäntele
 [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
 
  
 
-Quelle: Knowledge Doubling Curve,:
+Quelle: Knowledge Doubling Curve, aus:
 <https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
-accessed on 17.06.2020
+abgerufen am 17.06.2020
 
  
 
-We are therefore heavily dependent on curation and, especially in the
-digital world, it constantly surrounds and influences us, often without our
-that we are consciously aware of it. That's why we think it's important to
-with curation and its mechanisms.
+Wir sind also stark auf Kuratierung angewiesen und vor allem in der digitalen Welt umgibt und beeinflusst sie uns ständig, oft auch ohne dass wir dies bewusst wahrnehmen. Deswegen finden wir es wichtig, sich mit Kuratierung und ihren Mechanismen auseinanderzusetzen.
 
-**What characterizes a curator?**
+**Was zeichnet Kurator\*innen aus?**
 
-Curators create and design a space, arrange the artifacts they have selected and filtered artifacts and give them a new, individual value. a new, individual value. Like, for example, a curator in an art exhibition. art exhibition. A content curator learns by himself/herself incredibly quickly and efficiently by intensively dealing with topics topics, immersing himself/herself, filtering and organizing, curating
-curating. Especially the process of enrichment or sensemaking, in which one deals intensively with the collected contents, validates them validating it, questioning it, and creating something new from it, such as a blog post, a podcast, or a video from it, initiates an efficient and intensive and intensive learning process and helps to make good and well-founded decisions. to be able to make.
+Kurator\*innen erschaffen und gestalten einen Raum, arrangieren die von ihnen ausgesuchten und gefilterten Artefakte und geben ihnen dadurch einen neuen, individuellen Wert. Wie z.B. ein\*e Kurator\*in einer Kunstausstellung. Ein\*e Kurator\*in für Content lernt selbst unglaublich schnell und effizient, indem er\*sie sich selbst intensiv
+mit Themen auseinandersetzt, eintaucht, filtert und ordnet, selbst kuratiert. Besonders der Prozess des Anreicherns bzw. des Sensemaking, in dem man sich intensiv mit den gesammelten Inhalten beschäftigt, sie validiert, hinterfragt und etwas Neues, wie z.B. einen Blogpost, einen Podcast oder ein Video aus ihnen erschafft, initiiert einen effizienten und intensiven Lernprozess und hilft, gute und begründete Entscheidungen treffen zu können.
 
  
 
-Good curators know their audience and their needs and interests. They are very well connected, both with their target group (the so-called "tribe") and with knowledge carriers and thought leaders relevant to their topic.
-thought leaders who are relevant to \"their" topic. They think and work like investigative journalists, who work diligently and meticulously to find, filter and collect the best content nuggets.
-collect. They take care of their audience by providing them with their best sources and adding personal value to them, giving their audience a reason to engage with the content or topic.
+Gute Kurator\*innen kennen ihr Publikum und dessen Bedürfnisse und Interessen. Sie sind sehr gut vernetzt, sowohl mit ihrer Zielgruppe (dem sogenannten \"Tribe\") als auch mit Wissensträger\*innen und Vordenker\*innen, die für \"ihr" Thema relevant sind. Sie denken und arbeiten ähnlich wie investigative Journalist\*innen, die sich mit viel Fleiß und Akribie die besten Content Nuggets suchen, filtern und sammeln. Sie kümmern sich um ihr Publikum, indem sie ihm ihre besten Quellen bereitstellt und diesen einen persönlichen Wert hinzufügen und damit ihrem Publikum einen Grund geben, sich mit dem Inhalt oder Thema zu beschäftigen.
 
 ![](./images/image5.jpg)
 
@@ -223,17 +148,18 @@ Visualisierung von Katrin Mäntele
 
  
 
-**How does curation work?**
+**Wie funktioniert Kuratieren?**
 
-Content curation, as it is used in many fields today, has emerged from the overabundance of information, some of which is difficult to assess and relate. It reflects the need to find relevant information, to filter it, to record it, to check it for facts and truthfulness, and then to enrich it and create points of connection to existing knowledge.
+Content Curation, so wie es heute in vielen Bereichen genutzt wird, ist aus dem Überangebot an Informationen, die zum Teil schwer einzuschätzen und in Bezug zu bringen sind, entstanden. Es spiegelt die Notwendigkeit wider, relevante Informationen zu finden, zu filtern, festzuhalten, auf Fakten und Wahrheitsgehalt zu prüfen und dann anzureichern und Anknüpfungspunkte an bestehendes Wissen zu schaffen.
 
  
 
-One possible approach to these steps is a three-step process according to Harold Jarche (2014) (<https://jarche.com/2014/02/the-seek-sense-share-framework/>), which can be
+Eine mögliche Vorgehensweise für diese Schritte ist ein dreistufiger Prozess nach Harold Jarche (2014)
+(<https://jarche.com/2014/02/the-seek-sense-share-framework/>), der sich
 
-1. deals with **searching or finding** content, information and
+1. mit dem **Suchen bzw. Finden** von Inhalten, Information und
 
-> experts,
+   > Experten befasst,
 
 2. dem **Filtern und Organisieren** und im weiteren, wichtigen Schritt
 
@@ -250,40 +176,17 @@ klar sein*
 
 1. **Suchen bzw. Finden**\
 
-   > Es geht darum, interessante und relevante Informationen zu finden
-   > und auf dem Laufenden zu bleiben. Unter all dem „Lärm" die
-   > wirklich hilfreichen, lesens- und lernenswerten Beiträge vom
-   > „Geplapper" zu unterscheiden. Und sich über die Zeit ein Netzwerk
-   > von vertrauenswürdigen Quellen und Experten aufzubauen. So dass
-   > man nicht nur Informationen sucht, sondern sie auch automatisch
-   > über unser Netzwerk ihren Weg zu uns finden. Gute Kuratoren sind
-   > immer auch verlässliche Mitglieder in Wissensnetzwerken.\
+   > Es geht darum, interessante und relevante Informationen zu finden und auf dem Laufenden zu bleiben. Unter all dem „Lärm" die wirklich hilfreichen, lesens- und lernenswerten Beiträge vom „Geplapper" zu unterscheiden. Und sich über die Zeit ein Netzwerk von vertrauenswürdigen Quellen und Experten aufzubauen. So dass man nicht nur Informationen sucht, sondern sie auch automatisch über unser Netzwerk ihren Weg zu uns finden. Gute Kuratoren sind immer auch verlässliche Mitglieder in Wissensnetzwerken.\
    >  
 
 2. **Filtern, Organisieren und Anreichern**\
 
-   > Filtern heißt die Spreu vom Weizen trennen, wissen, welchen
-   > Quellen und Menschen man vertrauen kann und wie man
-   > Wissensbereiche voneinander abgrenzt, um den roten Faden nicht zu
-   > verlieren. Im nächsten Schritt muss man für sich eine
-   > übersichtliche und zeitsparende Art finden, die Informationen zu
-   > speichern, sortieren und schnell auffindbar zu machen.\
-   > Dann kann man im wichtigsten Schritt, dem Anreichern von Wert und
-   > Nutzen für die Zielgruppe, sinnvoll mit den Inhalten arbeiten und
-   > z.B. Zusammenfassungen schreiben, Querverweise herstellen,
-   > vergleichen, kritische Fragen stellen usw. Selbst zu kuratieren
-   > und aus verschiedenen Bausteinen und Artefakten einen Artikel oder
-   > Blogpost zu erstellen, ist eine sehr effektive und wirkungsvolle
-   > Methode, selbst zu lernen und Wissen aufzubauen.\
+   > Filtern heißt die Spreu vom Weizen trennen, wissen, welchen Quellen und Menschen man vertrauen kann und wie man Wissensbereiche voneinander abgrenzt, um den roten Faden nicht zu verlieren. Im nächsten Schritt muss man für sich eine übersichtliche und zeitsparende Art finden, die Informationen zu speichern, sortieren und schnell auffindbar zu machen.\ Dann kann man im wichtigsten Schritt, dem Anreichern von Wert und Nutzen für die Zielgruppe, sinnvoll mit den Inhalten arbeiten und z.B. Zusammenfassungen schreiben, Querverweise herstellen, vergleichen, kritische Fragen stellen usw. Selbst zu kuratieren und aus verschiedenen Bausteinen und Artefakten einen Artikel oder Blogpost zu erstellen, ist eine sehr effektive und wirkungsvolle Methode, selbst zu lernen und Wissen aufzubauen.\
    >  
 
 3. **Teilen & Austauschen**\
 
-   > Hier geht es darum, für sich ein Gespür und eine Praxis zu
-   > entwickeln, wie man seine angereicherten Inhalte wann und mit wem
-   > teilt, wie man Ideen und Erfahrungen in seinen Netzwerken
-   > weitergibt, Feedback einholt, Inspirationen bekommt oder in die
-   > Zusammenarbeit mit Kolleg\*innen in der Arbeit geht.
+   > Hier geht es darum, für sich ein Gespür und eine Praxis zu entwickeln, wie man seine angereicherten Inhalte wann und mit wem teilt, wie man Ideen und Erfahrungen in seinen Netzwerken weitergibt, Feedback einholt, Inspirationen bekommt oder in die Zusammenarbeit mit Kolleg\*innen in der Arbeit geht.
 
  
 
@@ -296,17 +199,12 @@ klar sein*
 * Kuratieren: <https://de.langenscheidt.com/latein-deutsch/curare>,
   abgerufen am 15.04.2020
 
-* Definition Content Curation: Angelehnt an Robin Good [Content Curation
-  Official
-  Guide](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84),
+* Definition Content Curation: Angelehnt an Robin Good [Content Curation Official Guide](https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84),
   abgerufen am 13.04.2020
 
 * Mozilla, Web Literacy: <https://learning.mozilla.org/en-US/web-literacy>
 
-* Lesetipp: *\"Curation -- The Power of Selection in a World of Excess\"*
-  von Michael Bhaskar. Verbindet Industriegeschichte mit Kuratierung und
-  zeigt in vielen anschaulichen Beispielen, in welchen Lebensbereichen wir
-  schon mit Kuratierung vertraut sind.
+* Lesetipp: *\"Curation -- The Power of Selection in a World of Excess\"* von Michael Bhaskar. Verbindet Industriegeschichte mit Kuratierung und zeigt in vielen anschaulichen Beispielen, in welchen Lebensbereichen wir schon mit Kuratierung vertraut sind.
 
 * Digitalisierung der Musikindustrie:
   <https://blog.wiwo.de/look-at-it/2018/10/09/digitalisierung-der-musikindustrie-turnaround-durch-streaming-nach-schwund-um-zwei-drittel/>,
@@ -328,13 +226,10 @@ klar sein*
   <https://jarche.com/2014/02/the-seek-sense-share-framework/>, abgerufen
   am 15.04.2020)
 
-* Janne Hietala, Jens Harju, Samu Kuosmanen (2019): Knowledge Doubling
-  Curve by Buckminster Fuller URL:
+* Janne Hietala, Jens Harju, Samu Kuosmanen (2019): Knowledge Doubling Curve by Buckminster Fuller URL:
   <https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work>,
   abgerufen am 18.04.2020
 
-* "PKM -- A set of processes, individually constructed, to help each of us
-  make sense of our world and work mor effectively
+* "PKM -- A set of processes, individually constructed, to help each of us make sense of our world and work mor effectively
 
-* Zitat aus dem YouTube Video [Personal Knowledge Management Workshop
-  Intro 2013](https://youtu.be/HQbnoLxgx7I), abgerufen am 18.06.2020
+* Zitat aus dem YouTube Video [Personal Knowledge Management Workshop Intro 2013](https://youtu.be/HQbnoLxgx7I), abgerufen am 18.06.2020

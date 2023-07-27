@@ -1,43 +1,43 @@
-## Woche 0 - Kennenlernen
+## Week 0 - Getting to know
 
-**Herzlich Willkommen beim Content Curation Circle Guide!**
+**Welcome to the Content Curation Circle Guide!**
 
-Schön, dass Ihr Euch zusammengefunden habt und mit diesem Leitfaden kennenlernen wollt, wie ihr effektiv mit Hilfe von Kontakten und Ressourcen aus dem Internet lernen und das Gelernte für Euch und für andere hilfreich zusammenfasst und anreichert. Nehmt Euch zu Beginn Zeit, Euch gegenseitig vorzustellen.
+I'm glad you've come together and want to use this guide to learn how to learn effectively using contacts and resources from the Internet, and how to summarize and enrich what you've learned in a way that's helpful to you and others. Take time at the beginning to introduce yourselves to each other.
 
-Stellt Euch folgende Fragen (oder ähnliche):
+Ask yourself the following questions (or similar ones):
 
-- Wer bist Du?
+- Who are you?
 
-- Womit beschäftigst Du Dich in Deiner täglichen Arbeit?
+- What do you do in your daily work?
 
-- Woran hast Du besonderes Interesse?
+- What are you particularly interested in?
 
-- Zu welchem Thema wolltest Du schon immer mal tiefer einsteigen?
+- What topic have you always wanted to delve deeper into?
 
-Bewährt hat sich, auch private Dinge von sich zu teilen - dies fördert die Nähe zueinander, stärkt das Vertrauen und zeigt schnell inhaltliche
-Anknüpfungspunkte.
-Nehmt Euch hierfür ca. 20 Minuten Zeit
+It has proven useful to also share private things about yourself - this promotes closeness to each other, strengthens trust and quickly reveals content-related points of
+points of contact.
+Take about 20 minutes for this.
 
-**Was ist Content Curation und was erwartet Euch die nächsten 13 Wochen?**
-Um einen ersten Überblick zu bekommen, schaut Euch gemeinsam die Grundlagen zum Kuratieren an, besonders was Kuratieren ist und warum man kuratieren sollte. Der inhaltliche Ablauf (siehe Sketchnote) gibt weitere Anhaltspunkte, was Ihr in diesem Circle lernen und erarbeiten könnt. Klärt eventuelle Fragen gemeinsam.
-Nehmt Euch hierfür ca. 15 Minuten Zeit.
+**What is content curation and what can you expect over the next 13 weeks?**
+To get an initial overview, look together at the basics of curation, especially what curation is and why you should curate. The content outline (see sketchnote) gives further clues as to what you can learn and work on in this Circle. Clarify any questions together.
+Take about 15 minutes for this.
 
-**Organisation des Circles**
+**Organization of the Circle**
 
-Last but not least: Wie wollt Ihr Euren Circle organisieren? Wir empfehlen Euch, Circles mit einer Größe von 4-6 Personen zu organisieren und wöchentlich einen fixen Termin zu vereinbaren, an dem Ihr Euch trefft.
+Last but not least: How do you want to organize your Circle? We recommend that you organize Circles with a size of 4-6 people and arrange a fixed date each week when you will meet.
 
-Bewährt hat sich ebenfalls, dass ein Administrator die technische Umgebung (z.B. Microsoft Teams und OneNote) einrichtet, den Circle Guide und eine Struktur z.B. mit Lerntagebüchern einrichtet und die Circle-Mitglieder einläd und Termine einstellt.
-Nehmt Euch hierfür ca. 20 Minuten Zeit.
+It has also been proven that an administrator sets up the technical environment (e.g. Microsoft Teams and OneNote), sets up the Circle Guide and a structure, e.g. with learning diaries, and invites the Circle members and sets up appointments.
+Take about 20 minutes to do this.
 
-**Was passiert grundsätzlich in den Circle-Treffen?**
+**What basically happens in the Circle meetings?**
 
-Ihr habt 60 Minuten Zeit darüber zu sprechen, was Ihr Euch während der Woche erarbeitet habt und wie es Euch dabei ergangen ist. Bevor Ihr
-loslegt, kommt in Ruhe an und berichtet im Check-in (ca. 10 Minuten), wie es Euch mit der Bearbeitung der Katas unter der Woche ergangen ist. Teilt Eure Learnings, Eure Schwierigkeiten und „Siege", bittet die Circle Kolleg*innen um Feedback und Mithilfe. Achtet darauf, dass jede*r zu Wort kommt. In einigen Katas bekommt Ihr zusätzliche Informationen, was Ihr noch tun könnt bzw. solltet.
+You will have 60 minutes to talk about what you have been working on during the week and how you have been doing. Before you
+Before you start, arrive calmly and report in the check-in (approx. 10 minutes) how you have been working on the katas during the week. Share your learnings, your difficulties and "victories", ask your Circle colleagues for feedback and help. Make sure that everyone has their say. In some katas you will get additional information about what you can or should do.
 
-Versucht die 60 Minuten einzuhalten und es bietet sich an, in den jeweiligen Treffen eine*n Moderator*in auszuwählen, der / die den Circle leitet und auf das „Timekeeping" achtet.
+Try to keep to the 60 minutes and it is a good idea to choose a moderator in each meeting who will lead the Circle and take care of the timekeeping.
 
-Die letzten 5 Minuten eines jeden Circle-Treffens habt Ihr Zeit für den Checkout (Verabschiedung, Ziele für das nächste Treffen, privates... usw.)
+The last 5 minutes of each Circle meeting you will have time for checkout (goodbyes, goals for the next meeting, private... etc.)
 
-**Vorbereitungs-Kata für den kompletten Circle**:
+**Preparation Kata for the complete Circle**:
 
-Mach Dir Gedanken, zu welchen Themen Du gerne mehr lernen würdest, schau Dir dazu ein paar Videos oder Blogposts an - oder höre Podcasts - und schreibe Dir auf, was Du an dem jeweiligen Thema besonders spannend findest. Arbeite im angelegten OneNote-Notizbuch oder in einem anderen Medium Deiner Wahl - nutze idealerweise Medien, zu denen Deine Circle-Mitglieder*innen ebenfalls Zugriff haben und Dich unterstützen und mitarbeiten können.
+Think about what topics you would like to learn more about, watch some videos or blogposts - or listen to podcasts - and write down what you find particularly exciting about each topic. Work in the OneNote notebook you created or in another medium of your choice - ideally use media that your Circle members also have access to and can support and collaborate with.
