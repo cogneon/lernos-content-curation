@@ -2,7 +2,7 @@
 echo Starting lernOS Guide Generation ...
 
 REM Variables
-set filename="lernOS-Template-Guide-en"
+set filename="lernOS-Content-Curation-Guide-en"
 set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/2-1-Woche-0.md ./src/2-2-Woche-1.md ./src/2-3-Woche-2.md ./src/2-4-Woche-3-4.md ./src/2-6-Woche-5.md ./src/2-7-Woche-6.md ./src/2-8-Woche-7.md ./src/2-9-Woche-8.md ./src/2-10-Woche-9.md ./src/2-11-Woche-10.md ./src/2-12-Woche-11.md ./src/2-13-Woche-12.md ./src/3-0-Anhang.md
 
 REM Delete Old Versions
