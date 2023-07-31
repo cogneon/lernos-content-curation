@@ -1,275 +1,122 @@
-## Woche 8 - Formen der Kuratierung
+## Week 8 - Forms of curation
 
- Es gibt ganz unterschiedliche Möglichkeiten wie das kuratierte
- Ergebnis dargestellt werden kann ("Sensemaking"). Robin Good hat
- eine umfassende Aufzählung von Ansätzen und Formaten mit vielen
- spannenden Beispielen in seinem Artikel ["Content Curation
- Approaches: Types and
- Formats"](https://medium.com/ccontent-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18)
- gesammelt und beschrieben. Diesen Artikel solltest Du Dir auf jeden
- Fall durchlesen, bevor Du Dir überlegst, welches Format Du einsetzen
- möchtest.
+There are many different ways to present the curated result ("sensemaking"). Robin Good has collected and described a comprehensive list of approaches and formats with many exciting examples in his article ["Content Curation Approaches: Types and Formats"](https://medium.com/ccontent-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18). You should definitely read this article before you start thinking about which format to use.
 
- Allen Typen und Formen ist folgendes gemein - ***"finding and organizing
- existing content artifacts to create new insights and shared value"***
- ([Robin
- Good](https://medium.com/content-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18%20)).
+All types and formats have one thing in common - ***"finding and organizing existing content artifacts to create new insights and shared value "*** ([Robin Good](https://medium.com/content-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18%20)).
 
   
 
  ![](./images/image12.jpg)
 
-Visualisierung von Katrin Mäntele
-[@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
+Visualization by Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
 
- Folgende Formate bzw. Arten der Kuratierung, die auf den Ideen von
- Robin Good basieren, finden wir für einen Lernkontext am
- relevantesten. Wir empfehlen Dir, Formate auszusuchen, mit denen Du
- Dich wohl fühlst (z. B. \"Ich schreibe gerne\" -\ Blog)
+ We find the following formats or types of curation based on Robin Good's ideas most relevant for a learning context. We recommend that you choose formats that you feel comfortable with (e.g. \"I like to write\" -\ blog).
 
   
 
- **Aggregieren**
-
- Das Aggregieren von Contents beschreibt die Arbeit, wenn der Kurator
- qualitativ hochwertige Inhalte oder Artefakte sammelt, beschreibt und
- an einem zentralen Ort für seine Zielgruppe bereitstellt. Besonders
- wertvoll sind diese aggregierten Contents, wenn sie von einem
- anerkannten Fachmann, einem so genannten **"Trusted Guide"**,
- bereitgestellt werden.
+ **Aggregate**
+ Aggregating content describes the work when the curator collects, describes, and provides high-quality content or artifacts in a central location for their audience. These aggregated contents are particularly valuable when they are provided by a recognized expert, a so-called **"Trusted Guide "**.
 
   
 
- Ein sehr gutes Beispiel ist [https://www.immersivelearning.news/](https://www.immersivelearning.news/) von
- Torsten Fell - ein Portal, das alle relevanten Informationen zu Lernen
- mit Augmented Reality, Virtual Reality und Mixed Reality bereitstellt
- und auf jeden Fall ein sehr guter Ausgangspunkt für einen "Deep
- Dive" in das Thema ist.
+ A very good example is [https://www.immersivelearning.news/](https://www.immersivelearning.news/) by Torsten Fell - a portal that provides all relevant information on learning with augmented reality, virtual reality and mixed reality and is definitely a very good starting point for a "deep dive" into the topic.
 
   
 
  ![](./images/image13.png)
 
- Screenshot Landingpage Portal [Immersive Learning News](https://www.immersivelearning.news/) von Torsten
- Fell
+ Screenshot landing page portal [Immersive Learning News](https://www.immersivelearning.news/) from Torsten Fell
 
   
 
- **Profitipp**: Wenn Du nach einem bestimmten Thema suchst und eine
- verlässliche Quelle gefunden hast, nutze die Google-Seitensuche, um
- schnell zu der gewünschten Information zu gelangen.
+ **Pro tip**: If you are looking for a specific topic and have found a reliable source, use Google Page Search to quickly get to the information you need.
   
 
- ![Google site:immersivelearning.news curationl Q Google-Suche Auf gut
- Glück!](./images/image14.png)
+ ![Google site:immersivelearning.news curationl Q Google-Suche Auf gut Glück!](./images/image14.png)
 
   
 
   
 
- **Verknüpfen**
- Ganz klassisch geht es beim Synthesizing um das Zusammenfassen von
- langen, aufwändigen Medien und Inhalten in kurze, knackige Nuggets,
- die aber die Essenz des Mediums/Inhalts wiedergeben. Auch die Auswahl
- der Medien ist eine Leistung der Kuratoren\*innen.
+ **Linking**
+ Synthesizing is classically about summarizing long, elaborate media and content into short, crisp nuggets that nevertheless reflect the essence of the medium/content. The selection of the media is also an achievement of the curators.
 
- Klassische Beispiele sind (bezahlte) Services wie
- [www.getabstract.com](http://www.getabstract.com/) oder
- [www.blinkist.com](http://www.blinkist.com/), die Bücher, Videos und
- Podcasts zusammenfassen und als geschriebenen Text, Audio oder
- Sketchnote präsentieren.
+ Classic examples are (paid) services like [www.getabstract.com](http://www.getabstract.com/) or [www.blinkist.com](http://www.blinkist.com/) that summarize books, videos, and podcasts and present them as written text, audio, or sketchnotes.
 
  ![](./images/image15.png)
 
- Beispiel: Buchzusammenfassung bei
- [www.blinkist.com](http://www.blinkist.com/)
+ Example: book summary at [www.blinkist.com](http://www.blinkist.com/)
 
- Gemeinsam an diesen vielfältigen und inhaltlich tiefen Portalen ist,
- dass der einzelne Content meist sehr gut und akkurat zusammengefasst
- ist, man aber weiterhin nach dem "richtigen" Content suchen muss.
- Welcher Content aber für Dich und Deine Interessen und Bedürfnisse
- interessant sein sollte, können diese Portale kaum aussagen - sie
- agieren hier als Content-Aggregatoren, die zwar eine grobe
- Orientierung durch Themencluster und Empfehlungen per Algorithmus
- geben - echte Empfehlungen oder Orientierung durch Trusted Guides
- bekommt man nicht.
+ What these diverse and in-depth portals have in common is that the individual content is usually very well and accurately summarized, but you still have to search for the "right" content. But which content should be interesting for you and your interests and needs, these portals can hardly say - they act here as content aggregators, which give a rough orientation by topic clusters and recommendations by algorithm - real recommendations or orientation by trusted guides you do not get.
 
- Einen unserer Lieblingsblogs,
- [www.weiterbildungsblog.de](http://www.weiterbildungsblog.de/), würden
- wir ebenfalls in den Bereich "Synthesizing" einordnen, da Dr. Jochen
- Robes zu jedem Artikel, die er sorgfältig filtert und für seine HR und
- Digital Learning Tribes publiziert, mit einer kurzen persönlichen
- Einschätzung oder Zusammenfassung Wert hinzufügt und uns Leser\*innen
- einen Hinweis gibt, ob wir uns tiefer mit den von ihm kuratierten
- Inhalten beschäftigen sollten. Er nimmt uns auch viel Arbeit ab, indem
- er weltweit Trends und Ideen scoutet, verschlagwortet und einmal
- wöchentlich in seinem Newsletter verteilt.
+ One of our favorite blogs, [www.weiterbildungsblog.de](http://www.weiterbildungsblog.de/), we would also categorize as "synthesizing," as Dr. Jochen Robes adds value to each article he carefully filters and publishes for his HR and Digital Learning Tribes with a brief personal assessment or summary, giving us readers
+ a hint as to whether we should delve deeper into the content he curates. He also does a lot of the work for us by scouting trends and ideas around the world, tagging them and distributing them once a week in his newsletter.
 
- ![CLC München #CLC089: Content Curation im Corporate Learning By
- Jochen Robes, 20. März2019 Das Internet bietet uns eine Fülle von
- Informationen. Doch wie finden wir die, die für uns oder für andere
- relevant sind? Das Stichwort heißt Content Curation, also das
- systematische Auf- finden, Aufbereiten und Veröffentlichen von
- Information. Stefan Diepolder hat darüber in München erzählt. Dabei
- ging es um die Bedeutung des Themas, seine Auswirkungen, den
- nützlichen ro- ten Faden von Harold Jarche („Seek \ Sense \ Share\")
- und die Frage, wie Personalentwickler, Unternehmen und jeder einzelne
- Wissensarbeiter davon profitieren können. Auch wenn das The- ma auf
- keiner Corporate Learning-Agenda ganz oben steht: Es ist fast schon
- überraschend, dass wir noch von keinem Unterneh- men und seiner
- expliziten Content Curation-Strategie gehört haben \... kristinauth,
- Corporate Learning Community, 17. März 2019 Bildquelle: CLC München
- ](./images/image16.png)
+ ![CLC Munich #CLC089: Content Curation in Corporate Learning By Jochen Robes, March 202019 The Internet offers us a wealth of information. But how do we find the ones that are relevant for us or for others? The keyword is content curation, i.e. the systematic retrieval, preparation and publication of information. Stefan Diepolder talked about this in Munich. The focus was on the importance of the topic, its implications, the useful red thread of Harold Jarche ("Seek \ Sense \ Share\") and the question of how HR developers, companies and each individual knowledge worker can benefit from it. Even though the topic is not high on any corporate learning agenda: it is almost surprising that we have not yet heard of any company and its explicit content curation strategy \.... kristinauth, Corporate Learning Community, March 17, 2019 Image Source: CLC Munich](./images/image16.png)
 
  Screenshot:
  [#clc089 Meetup Content Curation](https://weiterbildungsblog.de/blog/2019/03/20/clc-muenchen-clc089-content-curation-im-corporate-learning/)
 
   
 
- **Verknüpfen**
+ **Linking**
+ In mapping, curators collect and organize all the important elements that describe a specific area and define the relationship between the components.
 
- Beim Mapping sammeln und organisieren Kurator\*innen alle wichtigen
- Elemente, die ein spezifisches Gebiet beschreiben und definieren die
- Beziehung zwischen den Komponenten.
-
- Das Beispiel der [MOOC Plattform
- Coursera](https://www.edukatico.org/de/report/coursera-groesste-globale-mooc-plattform-und-hunderttausende-lernende-aus-deutschland)
- zeigt, dass es auch möglich ist, über 40 Mio. Lerner und über 1000
- Kurse aus über 150 Universitäten zu organisieren. Um eine gute User
- Experience zu ermöglichen müssen die unterschiedlichen Daten mit einer
- sehr guten Struktur abgelegt und intelligent verknüpft sein. Coursera
- gelingt dies aus unserer Sicht: man kann seine Suche sehr gut
- einschränken und hat dabei das Gefühl, dass die Plattform klein, gut
- gepflegt und übersichtlich ist. Das zeugt von einer sehr guten
- Kuratoren\*innenarbeit.
+ The example of the [MOOC platform Coursera](https://www.edukatico.org/de/report/coursera-groesste-globale-mooc-plattform-und-hunderttausende-lernende-aus-deutschland) shows that it is also possible to organize over 40 million learners and over 1000 courses from over 150 universities. In order to provide a good user experience, the different data must be stored in a
+ be stored with a very good structure and linked intelligently. Coursera succeeds in this from our point of view: you can narrow down your search very well and still have the feeling that the platform is small, well maintained and clear. This is evidence of very good curatorial work.
 
   
 
- ![Suchen v Was möchten Sie lernen? Niveau Für Unternehmen Entwickler
- Anmelden Kostenlose Teilnahme Suchen \ Persönliche Entwicklung
- Persönliche Entwicklung o Filtern nach: Kompetenzen Stellenbezeichnung
- Sprache v Typ Die beliebtesten Zertifikate Business Too UCI Practical
- Man ement Career Success University of California, Irvine UCI Academic
- English: Writing University of California, Irvine Arizona State
- University TESOL Arizona State University ZERTIFIKAT OBER BE-RUFLICHE
- Learning How to Learn Learning How to Learn: Powerful mental tools to
- help yo\... McMaster University](./images/image17.png)
+ ![Search v What do you want to learn? Level For Business Developers Sign Up Free Participation Search \ Personal Development Personal Development o Filter by: Competencies Job Title Language v Type Most Popular Certificates Business Too UCI Practical Man ement Career Success University of California, Irvine UCI Academic English: Writing University of California, Irvine Arizona State University TESOL Arizona State University CERTIFICATE ABOVE Learning How to Learn Learning How to Learn: Powerful mental tools to help yo\... McMaster University](./images/image17.png)
 
  [Screenshot Coursera](https://www.coursera.org/browse/personal-development)
 
   
 
- **Destillieren**
-
- Diese Form der Kuratierung sorgt dafür, dass die relevantesten
- Informationen zu einem spezifischen Thema kurz beschrieben und
- vereinfacht in eine Ordnung gebracht werden. Typisch hierfür sind
- "Best-of" Listen, die neben einer Verlinkung einen zusätzlichen Wert
- bereitstellen. Ein gutes Beispiel für Distilling ist die Auflistung
- der [300 besten Lerntools](https://www.toptools4learning.com/) von
- Jane Hart.
+ **Distill**
+ This form of curation ensures that the most relevant information on a specific topic is briefly described and
+ simplified into an order. Typical of this are "best-of" lists that provide additional value in addition to a link. A good example of distilling is Jane Hart's listing of [300 Best Learning Tools](https://www.toptools4learning.com/).
 
  
 
- **Lernpfade erstellen**
- Lernpfade sind besonders wertvoll, wenn sie nicht so eng wie in
- traditionellen Blended Learning-Umgebungen bereitgestellt werden
- sondern eher eine Art Leitplanke für die eigene, selbstbestimmte
- Entwicklung darstellen.
+ **Create learning paths**
+ Learning paths are particularly valuable when they are not provided as narrowly as in traditional blended learning environments but rather as a kind of guardrail for our own self-directed development.
 
- Das Gelernte können wir selbst auf unsere Weise in unserer Arbeit
- anwenden - oder auch nicht.
+ We can apply what we learn in our own way in our work - or not.
 
  
 
- Sehr interessant sind z.B. kommentierte Linklisten von absoluten
- Fachspezialisten, denen wir die notwendige Expertise, Fähigkeiten und
- Glaubwürdigkeit zuschreiben, wie z.B. Christian Müller von
- [www.proagile.de](http://www.proagile.de/).
+ Very interesting are e.g. annotated link lists of absolute specialists to whom we attribute the necessary expertise, skills and credibility, such as Christian Müller from [www.proagile.de].(http://www.proagile.de/).
 
- Er schafft es, mit seiner "Agile Toolbox" einen Knotenpunkt zum
- Thema "Agile" bereitzustellen, das Beginnern und Profis im Bereich
- Agile gleichermaßen Orientierung gibt und einen Weg aufzeigt, sich mit
- relevanten Themen und Inhalten auseinanderzusetzen. Die Inhalte sind
- deshalb wertvoll, weil sie von ihm, dem Trusted Guide und Experten für
- Agile empfohlen werden. Wir können Christian über Youtube, Twitter
- aber auch in diversen Barcamps und Workshops erleben, wie er laut
- arbeitet (Working out loud) und uns an seinem Wissen und Ideen
- teilhaben lässt.
+ He manages to provide a hub on the topic of Agile with his "Agile Toolbox", which gives orientation to beginners and professionals in the field of Agile alike and shows a way to deal with relevant topics and content. The content is valuable because it is recommended by him, the Trusted Guide and expert on Agile. We can experience Christian via Youtube, Twitter but also in various barcamps and workshops, as he works out loud (Working out loud) and lets us share his knowledge and ideas.
 
- ![Eine kuratierte Linksammlung mit Artikeln, Aufsätzen und Tools zu
- den theme Scrum» Kanban, Design Thinking, Leadership und Agile
- Transformation. ](./images/image18.png)
+ ![A curated collection of links with articles, essays and tools on the theme Scrum" Kanban, Design Thinking, Leadership and Agile Transformation.](./images/image18.png)
 
  [Screenshot Agile Toolbox](https://proagile.de/toolbox/)
 
   
 
- **Erforschen**
- Hier handelt es sich um eine journalistische Arbeit mit tiefgehender
- Recherche und Analyse, die sich unterschiedlicher Quellen bedient und
- gegensätzliche Meinungen und Sichtweisen zulässt. Ziel ist es, der
- Zielgruppe die Möglichkeit zu geben, sich eine eigene Meinung zu
- bilden und ein tiefes Verständnis für ein spezielles Thema, eine
- Geschichte oder ein Problem zu fördern, indem man Zusammenhänge
- verständlich darstellt und die Möglichkeit zum tieferen Eintauchen in
- Details und unterschiedliche Auffassungen gibt.
+ **Explore**
+ This is journalistic work with in-depth research and analysis, using a variety of sources and allowing for opposing opinions and viewpoints. The goal is to give the target audience the opportunity to form their own opinions and to foster a deep understanding of a specific topic, story or problem by presenting contexts in an understandable way and giving the opportunity to dive deeper into
+ details and differing views.
 
- Anschauliche Beispiele für "Erforschen" sind ausführliche Blogposts
- mit vielen Möglichkeiten, sich weiter zu verlinken. Der folgende Post
- zum Beispiel wurde von Stefan für den Blog der Corporate Learning
- Community verfasst. Seine Intention war es, sich selbst intensiv mit
- dem Thema Blockchain auseinander zu setzen. Dabei hat er bereits
- gesammelte Medien, wie die beiden eingebetteten Videos, die für ihn
- relevant waren, mit Texten und Abstracts von Blockchain-Spezialisten
- angereichert. Ihm war es wichtig, einen möglichst niedrigschwelligen
- Einstieg für seine Zielgruppe, HR Spezialisten aus der Corporate
- Learning Community, zu schaffen. Hier ein Beispiel zur Orientierung:
+ Vivid examples of "exploring" are in-depth blogposts with many opportunities to link further. For example, the following post was written by Stefan for the Corporate Learning Community blog. His intention was to explore the topic of blockchain in depth himself. In doing so, he enriched already collected media, such as the two embedded videos that were relevant to him, with texts and abstracts from blockchain specialists. It was important to him to create as low-threshold an entry point as possible for his target audience, HR specialists from the corporate learning community. Here is an example for orientation:
 
- ![Themen des Corporate Learning Camps: Blockchain - Nutzen HR und
- Corporate Learning die Blockchain zu- künftig für ihre Zwecke? Oder
- ersetzt die Blockchain HR? September 2018 Charlotte Venema \'2
- Kommentare Gedanken zu einer disruptiven Technik, die Schule,
- Corporate Learning und HR auf den Kopf stel- len könnte von Stefan
- Diepolder Was ist die Blockchain? Als erstes ist Blockchain ein
- Buzzword, das mittlerweile viele benutzen, das aber nur wenige einfach
- und verständlich erklären können. Die Blockchain ist u. a. das System,
- das die sichere Transaktion und Aufbewahrung von Bitcoins ermöglicht.
- Doch was ist die Blockchain genau und wie funktioniert sie? Folgendes
- Video von CommonCraft erklärt in einfachen Worten, wie die Blockchain
- grundsätzlich funktioniert. Blockchain Explained b Common:Craft
- ](./images/image19.png)
+ ![Topics of the Corporate Learning Camp: Blockchain - Will HR and Corporate Learning use the Blockchain for their own purposes in the future? Or is blockchain replacing HR? September 2018 Charlotte Venema '2 comments Thoughts on a disruptive technology that could turn school, corporate learning and HR upside down by Stefan Diepolder What is blockchain? First of all, Blockchain is a buzzword that many are now using, but few can explain in a simple and understandable way. Among other things, the Blockchain is the system that enables the secure transaction and storage of Bitcoins. But what exactly is the blockchain and how does it work? The following video from CommonCraft explains in simple terms how the blockchain basically works. Blockchain Explained b Common:Craft](./images/image19.png)
 
- [Link zum Blogpost](https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/)
+ [Link to Blogpost](https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/)
 
   
 
- Ein weiteres hilfreiches Beispiel eines kuratierten Blogposts von
- Maria Popova - [Blogpost "Fixed vs. Groth: The Two Basic Mindsets
- That Shape Our
- Lives"](https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/)
+ Another helpful example of a curated blog post by Maria Popova - [Blogpost "Fixed vs. Groth: The Two Basic Mindsets That Shape Our Lives"](https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/)
 
    
 
  **Kata 13:**
-
- Suche aus Deinem Materialpool die interessantesten Inhalte heraus und
- versuche herauszufinden, ob sie einem der Formate zugeordnet werden
- können. Finde heraus und beschreibe in der Gruppe, warum Du das
- gewählte Format als besonders geeignet (oder auch nicht) einschätzt.
- (20 Minuten)
+ Pick out the most interesting content from your pool of material and try to find out whether it can be assigned to one of the formats. Find out and describe in the group why you think the chosen format is particularly suitable (or not). (20 minutes)
 
  **Kata 14:**
- Finde DEIN Format heraus. Überlege Dir, was Deine Vorliebe ist, woran
- Du Spaß hast und welches Format Dir im ersten Schritt wenig Aufwand
- bereitet, es zu erstellen. Mal Dir ein Mockup, eine Sketchnote oder
- erstelle eine Mindmap und stell Dir vor, wie Dein kuratiertes Medium
- aussehen könnte. Präsentiere Deine Ideen den anderen
- Circle-Mitgliedern und diskutiert sie gemeinsam. (40 Minuten)
+ Find out YOUR format. Think about what your preference is, what you enjoy, and what format will take you little effort to create in the first step. Draw yourself a mockup, a sketchnote or create a mindmap and imagine what your curated medium could look like. Present your ideas to the other Circle members and discuss them together. (40 minutes)
 
  **Vertiefungs-Kata:**
- Versuche Dein Thema aus mehreren Gesichtspunkten zu betrachten, z.
- B. Pro/Contra. Versuche Deine Hypothese, die Du mit kuratierten
- Inhalten belegen möchtest, in Frage zu stellen (z. B. Content Curation
- ist Zeitverschwendung). Suche dafür das richtige Format und skizziere
- Deine Idee.
+ Try to look at your topic from multiple points of view, e.g. pro/con. Try to challenge your hypothesis that you want to prove with curated content (e.g. content curation is a waste of time). Find the right format for it and outline your idea.
