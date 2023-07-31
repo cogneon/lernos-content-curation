@@ -1,117 +1,53 @@
-## Woche 9 und 10 - Inhalte vertiefen und mit Wert anreichern
+## Week 9 and 10 - Deepen content and enrich with value
 
- In diesen zwei Wochen geht es um den Kern des Kuratierens, es geht
- darum, Inhalte zu arrangieren, redigieren, neu anordnen, bewerten, in
- einen Kontext bringen und mit Wert anreichern. Alles, was bis hierher
- passiert ist, waren sozusagen die \"Vorarbeiten\". Jetzt geht es
- darum, Contents noch einmal genau zu analysieren, überflüssige und
- veraltete Informationen herauszufiltern, Inhalte zu ordnen und sie mit
- einem Nutzen zu versehen (Sensemaking). Das ist das Herz von Content
- Curation und kann nicht von Algorithmen übernommen werden. Algorithmen
- können nur filtern.
+ These two weeks are about the core of curating, it's about arranging, editing, rearranging, evaluating, contextualizing and adding value to content. Everything that has happened up to this point has been the \"pre-work\" so to speak. Now it's a matter of analyzing content once again in detail, filtering out superfluous and outdated information, arranging content and providing it with a benefit (sensemaking). This is the heart of content curation and cannot be done by algorithms. Algorithms can only filter.
 
- Überlege Dir, wie viel Arbeit Du Dir machen willst und wie Du Wert für
- Deine Zielgruppe schaffen kannst. Beachte, dass es unterschiedliche
- tiefe Level des Sensemaking (Wert hinzufügen) gibt, von denen wir 3
- hier kurz vorstellen möchten:
+ Think about how much work you want to put in and how you can create value for your target audience. Note that there are different deep levels of sensemaking (adding value), 3 of which we would like to briefly introduce here:
 
-- **Begründete Empfehlungen von Inhalten und Experten**
-  
-  Gib Deinem Publikum bzw. deinem Tribe einen Grund bzw. einen Tipp,
-  warum sie wertvolle Zeit und Energie auf Deine empfohlenen Inhalte
-  verwenden sollen. 
-  
+- **Reasoned recommendations from content and experts**
+
+  Give your audience or tribe a reason or tip why they should spend valuable time and energy on your recommended content. 
+
    
-  
-  Beispiel: ![Stefan Diepolder \@sdiepolder 15. Feb. Mein #Lerntipp fürs Wochenende: kostenloser Minikurs #FiImen mit dem #Smartphone ohne zu schneiden - via \@Reporterfabrik - akademie.reporterfabrik.de/courses/course\... 16 0 45](./images/image20.png)
-  
+
+  Example: ![Stefan Diepolder \@sdiepolder Feb 15 My #learning tip for the weekend: free mini course #FiIming with the #Smartphone without cutting - via \@Reporterfabrik - akademie.reporterfabrik.de/courses/course\... 16 0 45](./images/image20.png)
+
   https://twitter.com/sdiepolder/status/1096449666504445952 
-  
-  Diese Art von Kuratierung ist völlig ausreichend, wenn Deine
-  Zielgruppe auf Social Media anzutreffen ist und Du z.B. einen guten
-  Artikel oder ein Video gründlich studiert hast, das Du unbedingt
-  empfehlen möchtest.
-  
+
+  This type of curation is perfectly adequate if your target audience can be found on social media and you have thoroughly studied a good article or video, for example, that you are eager to recommend.
+
    
 
-- **Erstellung eines eigenen Contents mit kuratierten Inhalten**\
-   Dieses nächste Level geht tiefer, sowohl inhaltlich als auch vom
-   Aufwand. Hier verfasst Du z.B. einen Blogpost, einen Artikel,
-   stellst eine Präsentation zusammen, zeichnest eine Sketchnote,
-   Mindmap oder nimmst ein Video auf. Sei kreativ!
-  
-  Immer wenn Du tiefer in Dein Thema eintauchen möchtest, eine Art
-  Landing Page erstellen oder ausführlich über Dein Thema diskutieren
-  möchtest, bieten sich die o.g. Formate hervorragend an, Deinen
-  Inhalten Nutzen hinzuzufügen. Und natürlich
-  [ePortfolios](https://cogneon.github.io/lernos-eportfolio/de/) in
-  jeglicher Art (siehe auch den benachbarten Circle-Leitfaden zum
-  "ePortfolio-Learning").
-  
-  Hier wieder ein paar gute Beispiele:
+- **Creation of your own content with curated content**\
+   This next level goes deeper, both in terms of content and effort. Here you can write a blog post, an article, put together a presentation, draw a sketchnote, mind map or record a video. Be creative!
 
-- Content Curation Podcast von Stefan mit den Kollegen Christoph
-  Haffner und Thomas Jenewein vom SAP Educast -
-  <https://open.sap.com/static/education-newscast/?name=2020-02-07_educationnewscast073.mp3 -
-  Wichtig ist dabei auch das Zusammenspiel von Audio und Shownotes.
+  Whenever you want to dive deeper into your topic, create some kind of landing page, or discuss your topic in depth, the above formats are great for adding value to your content. And of course [ePortfolios](https://cogneon.github.io/lernos-eportfolio/de/) of any kind (see also the neighboring Circle guide to "ePortfolio Learning").
 
-- Eine hilfreiche Sketchnote zum Thema \"Leading and Learning\" von
-  Tanmay Vora
-  <http://qaspire.com/2015/01/23/3-cs-for-learning-and-leading-on-social-media/
+  Here again are a few good examples:
 
-- Ein optisch und inhaltlich besonders "wertvoller" Blogpost von Maria
-  Popova zu Kritischem Denken nach dem Klassiker \"Baloney detection
-  Kit\" von Carl Sagan
-  [https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/\
-  ](https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/)
+- Content Curation Podcast by Stefan with colleagues Christoph Haffner and Thomas Jenewein from SAP Educast - <https://open.sap.com/static/education-newscast/?name=2020-02-07_educationnewscast073.mp3 - The interaction of audio and show notes is also important.
 
-- **Erstellung und Pflege eines Portals, eines Knotenpunktes für Dein
-   Thema**\
-   Du kuratierst und publizierst regelmäßig über Dein spezielles
-   Thema, in dem Du ein ausgewiesener Experte bist. Du machst Deine
-   Erkenntnisse öffentlich und fasst sie zu einem attraktiven,
-   relevanten Portal zusammen. Ein Beispiel hierfür ist der
-   [\"Content Curation - Official
-   Guide\"](https://medium.com/content-curation-official-guide) von
-   Robin Good, erstellt im Blogportal Medium.
+- A helpful sketchnote on \"Leading and Learning\" by Tanmay Vora. <http://qaspire.com/2015/01/23/3-cs-for-learning-and-leading-on-social-media/
 
-**Woche 9**
+- A particularly "valuable" blog post, both visually and in terms of content, by Maria Popova on Critical Thinking based on the classic \"Baloney detection Kit\" by Carl Sagan [https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/\](https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/)
+
+- **Creation and maintenance of a portal, a hub for your topic**\
+ You curate and publish regularly on your specific topic, in which you are a proven expert. You make your findings public and compile them into an attractive, relevant portal. An example of this is the [\"Content Curation - Official Guide\"](https://medium.com/content-curation-official-guide) by Robin Good, created on the blog portal Medium.
+
+**Week 9**
 
 **Kata 15:**
+Think about how much time you can and want to spend curating your topic. Do you want to recommend and promote other people's content or do you want to create your own content and present your own point of view? Does it make sense to set up your own blog or ePortfolio or do you write your articles in a portal such as Linkedin or Medium? What are the pros and cons of each?
 
-Überlege Dir, wieviel Zeit Du aufwenden kannst und willst, um Dein Thema
-zu kuratieren. Willst Du eher Inhalte anderer empfehlen und bekannt
-machen oder selbst Content erstellen und Deine eigene Sicht der Dinge
-darstellen? Macht es Sinn, einen eigenen Blog oder ePortfolio
-aufzusetzen oder schreibst Du Deine Artikel in einem Portal wie z.B.
-Linkedin oder Medium? Was sind jeweils die Vor- und Nachteile?
-
-Diskutiert in Eurer lernOS Gruppe, welche Art der Kuratierung zu Euren
-Themen passen.
+Discuss in your lernOS group which type of curation suits your topics.
 
   
 
 **Kata 16:**
-Du hast mittlerweile viele gute Quellen für Dein Thema gesammelt und
-diese gelesen und abgelegt. Jetzt ist es an der Zeit, sich noch etwas
-intensiver mit den Inhalten auseinanderzusetzen und selbst etwas eigenes
-Neues zu kreieren.
+By now you have collected many good sources for your topic and have read and filed them. Now it's time to dig a little deeper into the content and create something new of your own.
 
-Nimm Dir den Inhalt vor, den Du als Basis für Deine Kuratierung
-identifiziert hast und analysiere ihn ganz genau. Falls Du ein Video
-verwendest, halte es z.B. jedes Mal an, wenn Du eine interessante
-Aussage gehört hast und mach Dir Notizen. Wenn das Video interessant
-visualisiert ist, schieße Screenshots und beschrifte diese mit eigenen
-Assoziationen. Arbeite den Inhalt konsequent durch.
+Take the content you've identified as the basis for your curation and analyze it very carefully. If you are using a video, for example, pause it every time you hear an interesting statement and take notes. If the video is visualized in an interesting way, take screenshots and label them with your own associations. Work through the content consistently.
 
-- Hast Du neue Erkenntnisse gewonnen? Was ist die Kernaussage des
-   Inhalts? Haben sich Fragen ergeben, die Du beantworten würdest?
-   Schreibe Dir Fragen und Antworten auf und beginne damit, Deinen
-   Inhalt zu erstellen -- den Blogpost zu verfassen, Deine Sketchnote
-   zu zeichnen\... welches Medium Du auch immer gestalten möchtest.
+- Have you gained any new insights? What is the core message of the content? Did any questions arise that you would answer? Write down questions and answers and start creating your content -- writing the blog post, drawing your sketchnote\... whatever medium you want to create.
 
-- Stelle Dein Basismedium im lernOS Circle vor und begründe Deinen
-   eigenen Standpunkt. Bleiben Fragen offen? Kannst Du diese Fragen
-   schon beantworten oder macht es Sinn, weitere Inhalte zu suchen?
-   Nimm die Anregungen Deiner Kolleg\*innen auf und nutze sie für
-   Deine Kuratierung.
+- Present your base medium in the lernOS Circle and justify your own point of view. Are there any questions left open? Can you already answer these questions or does it make sense to look for further content? Take the suggestions of your colleagues and use them for your curation.
