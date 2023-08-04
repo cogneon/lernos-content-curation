@@ -59,7 +59,7 @@ extra:
     disqus: lernos
     analytics:
        provider: custom
-        alternate:
+    alternate:
          - name: English
            link: https://cogneon.github.io/lernos-content-curation/en
            lang: en
