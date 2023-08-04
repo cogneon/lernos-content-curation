@@ -59,6 +59,10 @@ extra:
     disqus: lernos
     analytics:
        provider: custom
+    alternate:
+     - name: Deutsch
+       link: https://cogneon.github.io/lernos-content-curation/de
+       lang: de
 
 plugins:
   - search
