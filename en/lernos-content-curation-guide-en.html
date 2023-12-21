@@ -1,0 +1,1791 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-en" xml:lang="en-en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Stefan Diepolder, Marcel Kirchner, Herta Schuster" />
+  <title>lernOS Content Curation Guide</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">lernOS Content Curation Guide</h1>
+<p class="subtitle">A guide on how to find, make sense of and share
+relevant content</p>
+<p class="author">Stefan Diepolder, Marcel Kirchner, Herta Schuster</p>
+<p class="date">Version 1.0 (07.07.2022)</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#about-lernos" id="toc-about-lernos"><span
+class="toc-section-number">1</span> About lernOS</a></li>
+<li><a href="#lernpfad" id="toc-lernpfad"><span
+class="toc-section-number">2</span> Lernpfad</a>
+<ul>
+<li><a href="#week-0---getting-to-know"
+id="toc-week-0---getting-to-know"><span
+class="toc-section-number">2.1</span> Week 0 - Getting to know</a></li>
+<li><a href="#week-9-and-10---deepen-content-and-enrich-with-value"
+id="toc-week-9-and-10---deepen-content-and-enrich-with-value"><span
+class="toc-section-number">2.2</span> Week 9 and 10 - Deepen content and
+enrich with value</a></li>
+<li><a href="#woche-10" id="toc-woche-10"><span
+class="toc-section-number">2.3</span> Woche 10</a></li>
+<li><a href="#week-11---content-sharing-and-discussion."
+id="toc-week-11---content-sharing-and-discussion."><span
+class="toc-section-number">2.4</span> Week 11 - Content sharing and
+discussion.</a></li>
+<li><a href="#week-12---putting-content-to-the-test"
+id="toc-week-12---putting-content-to-the-test"><span
+class="toc-section-number">2.5</span> Week 12 - Putting content to the
+test</a></li>
+<li><a href="#week-1---role-of-networks-communities"
+id="toc-week-1---role-of-networks-communities"><span
+class="toc-section-number">2.6</span> Week 1 - Role of Networks &amp;
+Communities</a></li>
+<li><a href="#week-2---determine-topic-goal-and-target-group"
+id="toc-week-2---determine-topic-goal-and-target-group"><span
+class="toc-section-number">2.7</span> Week 2 - Determine topic, goal and
+target group</a></li>
+<li><a
+href="#week-3-4-research-and-collection-of-relevant-content-and-experts"
+id="toc-week-3-4-research-and-collection-of-relevant-content-and-experts"><span
+class="toc-section-number">2.8</span> Week 3 + 4: Research and
+collection of relevant content and experts</a></li>
+<li><a href="#week-5---legal-framework"
+id="toc-week-5---legal-framework"><span
+class="toc-section-number">2.9</span> Week 5 - Legal framework</a></li>
+<li><a href="#week-6---role-of-people-in-curation"
+id="toc-week-6---role-of-people-in-curation"><span
+class="toc-section-number">2.10</span> Week 6 - Role of people in
+curation</a></li>
+<li><a href="#week-7---quality-and-source-check"
+id="toc-week-7---quality-and-source-check"><span
+class="toc-section-number">2.11</span> Week 7 - Quality and source
+check</a></li>
+<li><a href="#week-8---forms-of-curation"
+id="toc-week-8---forms-of-curation"><span
+class="toc-section-number">2.12</span> Week 8 - Forms of
+curation</a></li>
+</ul></li>
+<li><a href="#about-lernos-1" id="toc-about-lernos-1"><span
+class="toc-section-number">3</span> About lernOS</a></li>
+</ul>
+</nav>
+<h1 data-number="1" id="about-lernos"><span
+class="header-section-number">1</span> About lernOS</h1>
+<p>lernOS is a method of self-organization for people living and working
+in the 21st century. To be successful today, you need to constantly
+learn, organize and develop. No one else is responsible for this
+process. You have to take care of it yourself (self-directed, lifelong
+learning).</p>
+<p>lernOS guides are licensed under <a
+href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative
+Commons Attribution 4.0 International</a> (CC BY 4.0):</p>
+<p><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></p>
+<p><strong>You may:</strong></p>
+<ul>
+<li><strong>Share</strong> - reproduce and redistribute the material in
+any format or medium.</li>
+<li><strong>Edit</strong> - remix, modify and build upon the material
+for any purpose, even commercial.</li>
+</ul>
+<p><strong>Under the following conditions:</strong></p>
+<ul>
+<li><strong>Credit</strong> - You must provide appropriate copyright and
+rights notices, include a link to the license, and indicate whether any
+modifications have been made. These disclosures may be made in any
+reasonable manner, but not in such a way as to create the impression
+that the Licensor is particularly supportive of you or your use.</li>
+<li><strong>No further restrictions</strong> - You may not use any
+additional clauses or technical procedures that legally prohibit others
+from doing anything that the license permits.</li>
+</ul>
+<p><strong>Content Curation lernOS Circle Guide</strong></p>
+<p><strong><em>A guide on how to find, make sense of, and share relevant
+content</em></strong></p>
+<p>You have no idea what content curation (or also called “digital
+content curation”) is and would like to get a picture of it?</p>
+<p>Content curation helps you put together valuable information about
+topics with the help of content and experts, without having to reinvent
+the wheel. You’ll learn methods, forms, and approaches for thinking
+outside the box about your topic and sharing your emerging knowledge
+with others.</p>
+<p>When you learn about content curation through this lernOS Circle
+Guide, you will learn about the mechanisms and differences between
+machine filters (via algorithms) and human filters. But you’ll also
+learn to use curation for yourself and your life: to work more openly
+and visibly, and to learn to cope with the flood of available knowledge,
+help others, save time, and understand things. Along the way, you’ll
+gain reputation and expertise, within your organization or in your
+network. You will learn that networks based on trust are the key to cope
+with our complex world and to learn and innovate quickly and
+effectively.</p>
+<p> </p>
+<p>If you want more details to help you decide if the Content Curation
+guide is right for you, listen to Stefan`s podcast on Content Curation –
+it will definitely help you gain some insights into the topic and decide
+if you want to spend the next 13 weeks more intensively involved in
+Content Curation.</p>
+<p><a
+href="https://podcast.opensap.info/education-newscast/2020/02/10/education-newscast-073-learntec-content-kuratierung-mit-stefan-diepolder/">The
+podcast (German)</a> with Christoph Haffner and Thomas Jenewein from the
+SAP Education Newscast on content curation in the context of the
+Learntec trade fair 2020 - the episode lasts approx. 52 minutes. -
+(accessed on 13.10.2020)</p>
+<p><img src="./images/image1.png" /></p>
+<p> </p>
+<p><strong>Basics</strong></p>
+<p>If you are thinking about doing this Circle, it is best to take a
+look at the following basics we have put together for you.</p>
+<p> </p>
+<ul>
+<li><p><strong>What is curation?</strong></p></li>
+<li><p><strong>How can one define curating?</strong></p></li>
+<li><p><strong>Why curate?</strong></p></li>
+<li><p><strong>What characterizes curators?</strong></p></li>
+<li><p><strong>How does curation work?</strong></p></li>
+</ul>
+<p> </p>
+<p> </p>
+<p><strong>What is curation?</strong> You can get a first insight via
+the video Stefan recorded at a meetup of the Colearn Community Munich
+#clc089: [“Content Curation” by Stefan Diepolder at the meetup of the
+https://youtu.be/rn_AQuUxxIk (German)</p>
+<p> </p>
+<p><img src="./images/image2.png" /></p>
+<p> </p>
+<p> </p>
+<p><strong>How can one define curating?</strong></p>
+<p>Origin of the word “curare” [in Wikipedia],
+https://en.wiktionary.org/wiki/curare#:~:text=(transitive%2C%20medicine)%20to%20treat,patient%2C%20disease%2C%20etc.),
+accessed on 28.07.2023)</p>
+<p>Latin “curare” means, among other things.</p>
+<p>...care...</p>
+<p>...provide...</p>
+<p>...take the trouble...</p>
+<p>...Feel like it...</p>
+<p>There is no universal definition of content curation, but for us this
+short summary, adapted from Robin Good, defines very well what it is all
+about:</p>
+<p> </p>
+<blockquote>
+<p><strong>“Content curation is the art of finding, filtering,
+organizing, and adding value to digital information building blocks and
+artifacts on a specific topic for a specific audience interest and
+making them publicly available.”</strong></p>
+</blockquote>
+<p>Robin Good: <a
+href="https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84">What
+is Content Curation?</a> (accessed on 16.06.2020)</p>
+<blockquote>
+<p> </p>
+</blockquote>
+<p>Curation is not just the idea of a few Internet-savvy freaks. Even if
+they are often not called that, the skills of curators belong to the
+core competencies of the 21st century, as the <a
+href="https://foundation.mozilla.org/en/initiatives/web-literacy/">Mozilla
+Foundation</a>, for example, has worked out.</p>
+<p> </p>
+<p>Curation skills such as share, compose, remix, evaluate, synthesize,
+search, connect, contribute are among the 21st Century Skills promoted
+by the Mozilla Foundation in Web Literacy. If you go to the pages, you
+can go through curated learning paths on each skill. </p>
+<figure>
+<img src="./images/image3.jpeg" alt="web lit map" />
+<figcaption aria-hidden="true">web lit map</figcaption>
+</figure>
+<p>Figure: <a
+href="https://foundation.mozilla.org/en/initiatives/web-literacy/"
+class="uri">https://foundation.mozilla.org/en/initiatives/web-literacy/</a>
+(CC BY 4.0)</p>
+<p> </p>
+<p><strong>Why curate?</strong></p>
+<p>Our problem today is no longer the lack of information, as it used to
+be, but the lack of reliable and efficient filters. Professor Clay
+Shirky expresses this very clearly.</p>
+<p><strong><em>“It`s not information overload. It`s filter
+failure.”</em></strong></p>
+<p>Source: Clay Shirky. AZQuotes.com, [Wind and Fly LTD], 2020.
+https://www.azquotes.com/quote/409865, accessed on 18.06.2020.  </p>
+<p>He explains the <a href="https://youtu.be/XE38jpFOiv8">Information
+Overload</a> in 3 minutes on Youtube.</p>
+<p>The world we live in today is characterized by abundance. To cope
+with abundance, effective filters are necessary. No matter where we
+look, the first decisions are taken from us everywhere, whether we like
+it or not. Our Google home page, the gateway to the world’s largest
+library, knows and remembers our preferences and search history down to
+the last detail – and suggests to us, optimized and filtered by
+algorithms, what should interest us most in our search.</p>
+<p>If you want to go a little deeper - the <a
+href="https://youtu.be/B8ofWFx525s">video “Beware of the Online Filter
+Bubbles”</a> by Eli Pariser describes how this mechanism works (09:05
+minutes)</p>
+<p>We go to a supermarket – and find the eye-level products that
+supermarket owners think we should buy – and not the products we
+actually want, such as particularly low-priced or sustainable, locally
+produced products. And, and, and…. Let’s be aware - we live in a world
+that is shaped by abundance and filtered and curated for us – and where
+many choices and possibilities are already anticipated by technical
+systems or people.</p>
+<p>Music is a good example here, especially for the diversity and
+abundance in our world today: In the 17th century, music was still
+something very special. It could only be enjoyed live and only a very
+few rich and famous people had access to it. Then, starting in the 19th
+century, technical devices were invented to make music playable, from
+the first gramophones, record players, cassette and CD players to the
+invention of the mp3 format and thus the digitization of music. In the
+meantime, everyone can have their personal music on their smartphone
+with them wherever they go, often aggregated from powerful portals like
+YouTube, Spotify or iTunes. We find all kinds of music styles from every
+corner of the world and very quickly we are overwhelmed with the
+abundance of possibilities. To counter this, the music portals use
+recommendations calculated by algorithms, enable the exchange and
+recommendations among friends, for example, also provide their own
+filtered offers and playlists.</p>
+<p> </p>
+<p>And when it comes to knowledge, information and content, it’s even
+more extreme, because knowledge grows exponentially. As the figure below
+shows, knowledge doubled every 13 months in 2017, with a trend toward
+“much faster”. Contributing to this, for example, are simple systems and
+devices that are easy and quick for anyone to use by anyone and can be
+shared via portals and social media at lightning speed and many times
+over. Keeping a good overview, being able to separate the wheat from the
+chaff, is more important than ever.</p>
+<p> </p>
+<p><img src="./images/image4.jpeg" /></p>
+<p>Visualization by Katrin Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn">@kleinerw4hnsinn</a> (CC
+BY)</p>
+<p> </p>
+<p>Source: Knowledge Doubling Curve, aus: <a
+href="https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work"
+class="uri">https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work</a>,
+accessed on 17.06.2020</p>
+<p> </p>
+<p>So we rely heavily on curation, and especially in the digital world,
+it surrounds and influences us constantly, often without us being
+consciously aware of it. That’s why we think it’s important to look at
+curation and its mechanisms.</p>
+<p><strong>What characterizes curators?</strong></p>
+<p>Curators create and design a space, arrange the artifacts they have
+selected and filtered, and thereby give them a new, individual value.
+For example, a curator of an art exhibition. A content curator learns
+incredibly quickly and efficiently by intensively exploring topics,
+immersing himself with topics, immerses himself/herself, filters and
+orders, curates him/herself. Especially the process of enrichment or
+sensemaking, in which one deals intensively with the collected content,
+validates it, questions it and creates something new, such as a blog
+post, a podcast or a video from it, initiates an efficient and intensive
+learning process and helps to be able to make good and well-founded
+decisions.</p>
+<p> </p>
+<p>Good curators know their audience and their needs and interests. They
+are very well connected, both with their target group (the so-called
+“tribe”) and with knowledge carriers and thought leaders who are
+relevant to “their” topic. They think and work much like investigative
+journalists who work diligently and meticulously to find, filter, and
+collect the best content nuggets. They take care of their audience by
+providing them with their best sources and adding personal value to
+them, giving their audience a reason to engage with the content or
+topic.</p>
+<p><img src="./images/image5.jpg" /></p>
+<p>Visualization by Katrin Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn">@kleinerw4hnsinn</a> (CC
+BY)</p>
+<p> </p>
+<p><strong>How does curation work?</strong></p>
+<p>Content curation, as it is used in many areas today, has emerged from
+the overabundance of information, some of which is difficult to assess
+and relate. It reflects the need to find relevant information, filter
+it, record it, check it for facts and truthfulness, and then enrich it
+and create points of connection to existing knowledge.</p>
+<p>One possible approach to these steps is a three-step process
+according to Harold Jarche (2014) (<a
+href="https://jarche.com/2014/02/the-seek-sense-share-framework/"
+class="uri">https://jarche.com/2014/02/the-seek-sense-share-framework/</a>)
+that addresses:</p>
+<ol type="1">
+<li><p>is concerned with <strong>searching for or finding</strong>
+content, information, and</p>
+<blockquote>
+<p>experts deals,</p>
+</blockquote></li>
+<li><p>the <strong>filtering and organizing</strong> and in the further,
+important step</p>
+<blockquote>
+<p>then <strong>enriching</strong> this content with <strong>value and
+opinions</strong>,</p>
+</blockquote></li>
+<li><p>and finally the possibilities of <strong>sharing and
+exchanging</strong>.</p></li>
+</ol>
+<p><img src="./images/image6.jpg"
+style="width:6.33334in;height:3.55208in" />Visualization by Katrin
+Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn">@kleinerw4hnsinn</a> (CC
+BY)</p>
+<p> <em>Competence to assess the curators (values) - values should be
+clear</em></p>
+<ol type="1">
+<li><p><strong>Search respectively find</strong><br />
+</p>
+<blockquote>
+<p>It’s about finding interesting and relevant information and staying
+up to date. Distinguishing the really helpful, readable and learnable
+posts from the “chatter” among all the “noise”. And to build a network
+of trusted sources and experts over time. So that people not only seek
+out information, but it automatically finds its way to us through our
+network. Good curators are also always reliable members of knowledge
+networks.<br />
+ </p>
+</blockquote></li>
+<li><p><strong>Filter, organize and enrich</strong><br />
+</p>
+<blockquote>
+<p>Filtering means separating the wheat from the chaff, knowing which
+sources and people you can trust and how to distinguish areas of
+knowledge from one another so as not to lose the red thread. In the next
+step, you have to find a clear and time-saving way to store the
+information, sort it and make it quickly findable. Then, in the most
+important step, enriching the value and benefit for the target group,
+you can work with the content in a meaningful way and, for example,
+write summaries, create cross-references, compare, ask critical
+questions, and so on. Curating yourself and creating an article or
+blogpost from different building blocks and artifacts is a very
+effective and powerful way to learn and build knowledge yourself.<br />
+ </p>
+</blockquote></li>
+<li><p><strong>Share &amp; Exchange</strong><br />
+</p>
+<blockquote>
+<p>This is about developing a sense and practice for yourself, how to
+share your enriched content, when and with whom, how to share ideas and
+experiences in your networks, get feedback, get inspiration or
+collaborate with colleagues in your work.</p>
+</blockquote></li>
+</ol>
+<p> </p>
+<p><strong>Sources &amp; Related Links:</strong></p>
+<ul>
+<li><p>Summary of the Content Curation Meetup with Stefan Diepolder
+(German): <a
+href="https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/"
+class="uri">https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/</a>
+(accessed on 12.04.2020)</p></li>
+<li><p>Curate (German): <a
+href="https://de.langenscheidt.com/latein-deutsch/curare"
+class="uri">https://de.langenscheidt.com/latein-deutsch/curare</a>,
+accessed on 15.04.2020</p></li>
+<li><p>Definition Content Curation: Inspired by Robin Good <a
+href="https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84">Content
+Curation Official Guide</a>, accessed on 13.04.2020</p></li>
+<li><p>Mozilla, Web Literacy: <a
+href="https://learning.mozilla.org/en-US/web-literacy"
+class="uri">https://learning.mozilla.org/en-US/web-literacy</a></p></li>
+<li><p>Reading tip: <em>"Curation – The Power of Selection in a World of
+Excess"</em> by Michael Bhaskar. Combines industrial history with
+curation and shows in many vivid examples in which areas of life we are
+already familiar with curation.</p></li>
+<li><p>Digitization of the music industry: <a
+href="https://blog.wiwo.de/look-at-it/2018/10/09/digitalisierung-der-musikindustrie-turnaround-durch-streaming-nach-schwund-um-zwei-drittel/"
+class="uri">https://blog.wiwo.de/look-at-it/2018/10/09/digitalisierung-der-musikindustrie-turnaround-durch-streaming-nach-schwund-um-zwei-drittel/</a>,
+accessed on 16.04.2020</p></li>
+<li><p>Knowledge Doubling Curve by Buckminster Fuller <a
+href="https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work"
+class="uri">https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work</a>,
+accessed on 18.04.2020</p></li>
+<li><p>Good, Robin (2018): What is Content Curation URL: <a
+href="https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84"
+class="uri">https://medium.com/content-curation-official-guide/what-is-content-curation-84212256e84</a>,
+accessed on 23.03.2020</p></li>
+<li><p>Shirky, Clay (2011): It`s not Information Overload, it`s Filter
+Failure URL: <a href="https://www.azquotes.com/quote/409865"
+class="uri">https://www.azquotes.com/quote/409865</a>, accessed on
+18.04.2020</p></li>
+<li><p>Jarche, Herold (2014): The Seek Sense Share Framework URL: <a
+href="https://jarche.com/2014/02/the-seek-sense-share-framework/"
+class="uri">https://jarche.com/2014/02/the-seek-sense-share-framework/</a>,
+accessed on 15.04.2020)</p></li>
+<li><p>Janne Hietala, Jens Harju, Samu Kuosmanen (2019): Knowledge
+Doubling Curve by Buckminster Fuller URL: <a
+href="https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work"
+class="uri">https://www.valamis.com/blog/why-do-we-spend-all-that-time-searching-for-information-at-work</a>,
+accessed on 18.04.2020</p></li>
+<li><p>“PKM – A set of processes, individually constructed, to help each
+of us make sense of our world and work mor effectively</p></li>
+<li><p>Quote from the YouTube video <a
+href="https://youtu.be/HQbnoLxgx7I">Personal Knowledge Management
+Workshop Intro 2013</a>, accessed on 18.06.2020</p></li>
+</ul>
+<h1 data-number="2" id="lernpfad"><span
+class="header-section-number">2</span> Lernpfad</h1>
+<p><strong>The frame</strong></p>
+<ul>
+<li>Period: <strong>13 weeks</strong> (plus possibly one week break in
+the middle)</li>
+<li>Week 0 to get started together or to get a taste of the program</li>
+<li>12 weeks for exchange &amp; learning about the topics, methods and
+exercises</li>
+<li>1 x per week Circle meeting (1 hr.) + self-directed learning &amp;
+exercises (1-2 hrs.) for beginners</li>
+<li>For those who want to go deeper, or are advanced in the topic, there
+are deepening katas, time required approx. 2 hrs. per week.</li>
+<li>We recommend to work on the exercises in the course of the week and
+then in the following week to go into the common exchange about it and
+to learn from each other.</li>
+</ul>
+<p><strong>The content flow</strong>. We have tried to put together
+content and exercises (katas) for this Content Curation Guide that are
+as practical and build on each other as possible, which are a good
+balance between theory and practice. For the next 12 or 13 weeks, you
+will be dealing with the following topics:</p>
+<ul>
+<li><strong>Getting to know each other</strong> (1 week)</li>
+<li><strong>Role of networks &amp; communities</strong> (1 week)</li>
+<li><strong>Determining topic, goal and target groups</strong> (1
+week)</li>
+<li><strong>Research and collection of relevant content and
+experts</strong> (2 weeks)</li>
+<li><strong>Legal framework</strong> (1 week)</li>
+<li><strong>Role of people in curation</strong> (1 week)</li>
+<li><strong>Quality and source check</strong> (1 week)</li>
+<li><strong>Forms of curation</strong> (1 week)</li>
+<li><strong>Enriching content with depth and value</strong> (2
+weeks)</li>
+<li><strong>Sharing content and discussion</strong> (1 week)</li>
+<li><strong>Putting content to the test</strong> (1 week)</li>
+</ul>
+<p><img src="./images/image7.png" /> Visualization by Katrin Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn"><span class="citation"
+data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</p>
+<h2 data-number="2.1" id="week-0---getting-to-know"><span
+class="header-section-number">2.1</span> Week 0 - Getting to know</h2>
+<p><strong>Welcome to the Content Curation Circle Guide!</strong></p>
+<p>I’m glad you’ve come together and want to use this guide to learn how
+to learn effectively using contacts and resources from the Internet, and
+how to summarize and enrich what you’ve learned in a way that’s helpful
+to you and others. Take time at the beginning to introduce yourselves to
+each other.</p>
+<p>Ask yourself the following questions (or similar ones):</p>
+<ul>
+<li><p>Who are you?</p></li>
+<li><p>What do you do in your daily work?</p></li>
+<li><p>What are you particularly interested in?</p></li>
+<li><p>What topic have you always wanted to delve deeper into?</p></li>
+</ul>
+<p>It has proven useful to also share private things about yourself -
+this promotes closeness to each other, strengthens trust and quickly
+reveals content-related points of points of contact. Take about 20
+minutes for this.</p>
+<p><strong>What is content curation and what can you expect over the
+next 13 weeks?</strong> To get an initial overview, look together at the
+basics of curation, especially what curation is and why you should
+curate. The content outline (see sketchnote) gives further clues as to
+what you can learn and work on in this Circle. Clarify any questions
+together. Take about 15 minutes for this.</p>
+<p><strong>Organization of the Circle</strong></p>
+<p>Last but not least: How do you want to organize your Circle? We
+recommend that you organize Circles with a size of 4-6 people and
+arrange a fixed date each week when you will meet.</p>
+<p>It has also been proven that an administrator sets up the technical
+environment (e.g. Microsoft Teams and OneNote), sets up the Circle Guide
+and a structure, e.g. with learning diaries, and invites the Circle
+members and sets up appointments. Take about 20 minutes to do this.</p>
+<p><strong>What basically happens in the Circle meetings?</strong></p>
+<p>You will have 60 minutes to talk about what you have been working on
+during the week and how you have been doing. Before you Before you
+start, arrive calmly and report in the check-in (approx. 10 minutes) how
+you have been working on the katas during the week. Share your
+learnings, your difficulties and “victories”, ask your Circle colleagues
+for feedback and help. Make sure that everyone has their say. In some
+katas you will get additional information about what you can or should
+do.</p>
+<p>Try to keep to the 60 minutes and it is a good idea to choose a
+moderator in each meeting who will lead the Circle and take care of the
+timekeeping.</p>
+<p>The last 5 minutes of each Circle meeting you will have time for
+checkout (goodbyes, goals for the next meeting, private… etc.)</p>
+<p><strong>Preparation Kata for the complete Circle</strong>:</p>
+<p>Think about what topics you would like to learn more about, watch
+some videos or blogposts - or listen to podcasts - and write down what
+you find particularly exciting about each topic. Work in the OneNote
+notebook you created or in another medium of your choice - ideally use
+media that your Circle members also have access to and can support and
+collaborate with.</p>
+<h2 data-number="2.2"
+id="week-9-and-10---deepen-content-and-enrich-with-value"><span
+class="header-section-number">2.2</span> Week 9 and 10 - Deepen content
+and enrich with value</h2>
+<p>These two weeks are about the core of curating, it’s about arranging,
+editing, rearranging, evaluating, contextualizing and adding value to
+content. Everything that has happened up to this point has been the
+"pre-work" so to speak. Now it’s a matter of analyzing content once
+again in detail, filtering out superfluous and outdated information,
+arranging content and providing it with a benefit (sensemaking). This is
+the heart of content curation and cannot be done by algorithms.
+Algorithms can only filter.</p>
+<p>Think about how much work you want to put in and how you can create
+value for your target audience. Note that there are different deep
+levels of sensemaking (adding value), 3 of which we would like to
+briefly introduce here:</p>
+<ul>
+<li><p><strong>Reasoned recommendations from content and
+experts</strong></p>
+<p>Give your audience or tribe a reason or tip why they should spend
+valuable time and energy on your recommended content. </p>
+<p> </p>
+<p>Example: <img src="./images/image20.png"
+alt="Stefan Diepolder @sdiepolder Feb 15 My #learning tip for the weekend: free mini course #FiIming with the #Smartphone without cutting - via @Reporterfabrik - akademie.reporterfabrik.de/courses/course... 16 0 45" /></p>
+<p>https://twitter.com/sdiepolder/status/1096449666504445952 </p>
+<p>This type of curation is perfectly adequate if your target audience
+can be found on social media and you have thoroughly studied a good
+article or video, for example, that you are eager to recommend.</p>
+<p> </p></li>
+<li><p><strong>Creation of your own content with curated
+content</strong><br />
+This next level goes deeper, both in terms of content and effort. Here
+you can write a blog post, an article, put together a presentation, draw
+a sketchnote, mind map or record a video. Be creative!</p>
+<p>Whenever you want to dive deeper into your topic, create some kind of
+landing page, or discuss your topic in depth, the above formats are
+great for adding value to your content. And of course <a
+href="https://cogneon.github.io/lernos-eportfolio/de/">ePortfolios</a>
+of any kind (see also the neighboring Circle guide to “ePortfolio
+Learning”).</p>
+<p>Here again are a few good examples:</p></li>
+<li><p>Content Curation Podcast by Stefan with colleagues Christoph
+Haffner and Thomas Jenewein from SAP Educast -
+&lt;https://open.sap.com/static/education-newscast/?name=2020-02-07_educationnewscast073.mp3
+- The interaction of audio and show notes is also important.</p></li>
+<li><p>A helpful sketchnote on "Leading and Learning" by Tanmay Vora.
+&lt;http://qaspire.com/2015/01/23/3-cs-for-learning-and-leading-on-social-media/</p></li>
+<li><p>A particularly “valuable” blog post, both visually and in terms
+of content, by Maria Popova on Critical Thinking based on the classic
+"Baloney detection Kit" by Carl Sagan
+[https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/](https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/)</p></li>
+<li><p><strong>Creation and maintenance of a portal, a hub for your
+topic</strong><br />
+You curate and publish regularly on your specific topic, in which you
+are a proven expert. You make your findings public and compile them into
+an attractive, relevant portal. An example of this is the <a
+href="https://medium.com/content-curation-official-guide">"Content
+Curation - Official Guide"</a> by Robin Good, created on the blog portal
+Medium.</p></li>
+</ul>
+<p><strong>Week 9</strong></p>
+<p><strong>Kata 15:</strong> Think about how much time you can and want
+to spend curating your topic. Do you want to recommend and promote other
+people’s content or do you want to create your own content and present
+your own point of view? Does it make sense to set up your own blog or
+ePortfolio or do you write your articles in a portal such as Linkedin or
+Medium? What are the pros and cons of each?</p>
+<p>Discuss in your lernOS group which type of curation suits your
+topics.</p>
+<p> </p>
+<p><strong>Kata 16:</strong> By now you have collected many good sources
+for your topic and have read and filed them. Now it’s time to dig a
+little deeper into the content and create something new of your own.</p>
+<p>Take the content you’ve identified as the basis for your curation and
+analyze it very carefully. If you are using a video, for example, pause
+it every time you hear an interesting statement and take notes. If the
+video is visualized in an interesting way, take screenshots and label
+them with your own associations. Work through the content
+consistently.</p>
+<ul>
+<li><p>Have you gained any new insights? What is the core message of the
+content? Did any questions arise that you would answer? Write down
+questions and answers and start creating your content – writing the blog
+post, drawing your sketchnote... whatever medium you want to
+create.</p></li>
+<li><p>Present your base medium in the lernOS Circle and justify your
+own point of view. Are there any questions left open? Can you already
+answer these questions or does it make sense to look for further
+content? Take the suggestions of your colleagues and use them for your
+curation.</p></li>
+</ul>
+<h2 data-number="2.3" id="woche-10"><span
+class="header-section-number">2.3</span> Woche 10</h2>
+<p><strong>Kata 17:</strong></p>
+<p>Find supplemental content to the source you analyzed in Task 2.
+Ideally, you will find explanations that confirm or contradict the
+information provided or answer the questions raised in the presentation
+of your basic content. Dive deeper into your topic by finding and
+analyzing new content. Has your judgment changed? Have your assessments
+been confirmed? Keep working on your content. Share your insights!</p>
+<p>Provide your Circle members or your community with the arranged
+content elements or modules for review and ask them for feedback. This
+can be done using a small test guide to help the reviewers. It’s best if
+everyone looks at one module or the review is split evenly so it’s not
+too much for one reviewer.</p>
+<p> </p>
+<p><strong>Kata 18:</strong></p>
+<p>Almost there. Get to work incorporating feedback from your lernOS
+colleagues into your curated content and finalizing it. It doesn’t have
+to be perfect. It won’t be finished here either. It is the beginning of
+a learning journey.</p>
+<p>Are there people you want to show your curated content to in advance
+and exclusively? People you trust to give you honest feedback? Send them
+an access to your content and be happy.</p>
+<h2 data-number="2.4"
+id="week-11---content-sharing-and-discussion."><span
+class="header-section-number">2.4</span> Week 11 - Content sharing and
+discussion.</h2>
+<p>We’ve talked a lot about networks, the value of Trusted Guides, and
+social media in curating over the past few weeks. Now it’s time to give
+back to your community. Don’t wait until your blog, video, or podcast is
+perfect and meets all your standards. They probably never will. And
+there will always be people who don’t like your content. And there will
+be those who will chafe at your content, insights and opinions. Those
+are likely to be the most valuable, the ones who inspire you to
+question, test, and evolve your executions in collaboration.</p>
+<p>Start actively sharing your content, insights and recommendations.
+You can do this either internally in your organization via the intranet
+or internal social networks (e.g. Microsoft Yammer or HCL Connections)
+or externally on the internet via social media, your blog or
+networks.</p>
+<p>Ideally, you will also succeed in sharing your ideas in talks,
+barcamps, meetups, podcasts and presentations. This will not only help
+you expand your network, but also sharpen your sensemaking skills.</p>
+<p> </p>
+<p>Some platforms we recommend out of very many where you can share your
+content:</p>
+<p> </p>
+<p><strong>Intern:</strong></p>
+<ul>
+<li><p>Microsoft 365, e.g. Onenote and Teams, to share your content with
+your team</p></li>
+<li><p>Enterprise Social Networks e.g. Microsoft Yammer or HCL
+Connections</p>
+<p> </p></li>
+</ul>
+<p><strong>Extern:</strong></p>
+<ul>
+<li><p><a href="https://twitter.com/">Twitter</a></p></li>
+<li><p><a href="https://www.linkedin.com/">Linkedin</a></p></li>
+<li><p><a href="https://www.xing.com/home">Xing</a></p></li>
+<li><p><a href="https://www.pinterest.de/">Pinterest</a></p></li>
+<li><p><a href="https://www.facebook.com/">Facebook</a></p></li>
+<li><p><a href="https://www.instagram.com/">Instagram</a></p></li>
+<li><p><a href="https://refind.com/">Refind</a> (Great also as
+bookmarking app)</p>
+<p> </p>
+<p> </p></li>
+</ul>
+<p><strong>Kata 19:</strong></p>
+<p>Recommend a YouTube video, podcast or blog post that you find
+particularly valuable on Twitter. Try to describe the added value in
+short words and keyword it with #hashtags so that it can be easily found
+even by interested people who don’t follow you. Monitor the reaction to
+your post.</p>
+<p>Discuss in The lernOS Group if and how your description could be
+improved.</p>
+<p>  </p>
+<p><strong>Kata 20:</strong></p>
+<p>You’ve been working hard on your curated content for the past two
+weeks. And you’ve already tested it in your lernOS group. Now it’s time
+to get out there.</p>
+<p>Use your favorite social network (internal and/or external) and
+recommend your curated content. Ask well-connected colleagues for their
+opinion – they’ll be sure to recommend it if they like your post.
+Monitor and respond quickly and constructively to feedback. Ask for
+ideas and comments.… Stay tuned to your topic.</p>
+<p> </p>
+<p><strong>Congratulations - you did it! You have actively curated and
+gone public with “your” topic. And you have started your own personal
+learning journey and let others share in it.</strong></p>
+<p>How does it feel to learn out loud? Share your experiences and
+feelings.</p>
+<h2 data-number="2.5" id="week-12---putting-content-to-the-test"><span
+class="header-section-number">2.5</span> Week 12 - Putting content to
+the test</h2>
+<p>Many of you will wonder why this point is mentioned here in the
+guide. It is about content maintenance, which is especially important
+for elaborately curated sources, e.g. creating permalinks so that links
+remain visible on your site even if the structure of your source
+changes. This is of course not done for aggregation and link
+recommendations, but for example for annotated link collections, essays
+etc.</p>
+<p>To keep your collected sources and content and their assessment of
+the topic up to date, you should look at them again and again and
+critically examine whether they are still relevant and helpful enough or
+whether there are new findings or sources in the meantime. Good curation
+means living and developing your content. This can be done e.g. by:</p>
+<ul>
+<li><p>Check and recheck content</p></li>
+<li><p>Create permalinks and test links</p></li>
+<li><p>Incorporate new knowledge and adapt content</p></li>
+<li><p>Create new knowledge links and make them visible</p></li>
+</ul>
+<p><strong>Lessons Learned</strong></p>
+<p>Now the time has come. After 12 weeks, the last round of the Circle
+is coming to an end and it’s time to look back on these weeks. At the
+end, feel free to discuss what the biggest insights, surprises, or
+challenges were for you in dealing with content curation and share with
+the others.</p>
+<p>The following questions can serve as a guide:</p>
+<ul>
+<li><p>What do you take away as crucial experiences / highlights from
+the last weeks?</p></li>
+<li><p>What were the most important milestones / development steps for
+you?</p></li>
+<li><p>What did you miss or fall short of in the Circle or in the
+creation of curated content?</p></li>
+<li><p>What are your plans for content curation and what do you want to
+achieve next?</p></li>
+<li><p><strong>What activities or requirements might there be in the
+future to link your curated content together or even continue
+together?</strong></p></li>
+</ul>
+<p><strong>Kata 21:</strong></p>
+<p>Go through one of your enriched content/posts together at a time and
+ask yourself the following questions and discuss them together:</p>
+<ol type="1">
+<li>Are the most important sources still relevant and in the right
+order? <strong>(Ranking)</strong></li>
+<li>Does the rationale still fit why they are particularly important?
+(<strong>Persönliche Bewertung</strong>)</li>
+<li>Are there recent supplemental graphics and learning videos
+(<strong>learning</strong>) If needed, do a fact check again if you
+think there may be outdated content with certain sources or “steered”
+information may have emerged.  </li>
+</ol>
+<p><strong>Kata 22 - Last exercise: PARTY</strong></p>
+<p>Yay, hooray, you did it – studied together for 12 weeks, didn’t give
+up, kept at it and learned so much about curating, not only
+theoretically, but also practically. And you have built a relationship
+of trust with each other during this time that is at least as valuable
+as the work you have done together and from which you will benefit for a
+long time to come. That’s why now is the time to celebrate. Get together
+for a joint event (in person or online) and celebrate!</p>
+<p>We hope you enjoyed the learning journey with our lernOS guide,
+learned a lot with and from each other, and are now enthusiastic
+curators. We, Stefan <a href="https://twitter.com/sdiepolder"><span
+class="citation" data-cites="sdiepolder">@sdiepolder</span></a>, Herta
+<a href="https://twitter.com/he_schuster"><span class="citation"
+data-cites="he_schuster">@he_schuster</span></a> and Marcel <a
+href="https://twitter.com/maki_amw"><span class="citation"
+data-cites="maki_am">@maki_am</span></a> had a lot of fun writing this
+content curation guide, we also learned a lot from each other and are
+happy if we can learn from you as well. Please send us your feedback so
+that we can improve the guide.</p>
+<p><strong>Thank you very much!</strong></p>
+<h2 data-number="2.6" id="week-1---role-of-networks-communities"><span
+class="header-section-number">2.6</span> Week 1 - Role of Networks &amp;
+Communities</h2>
+<p>We all live and work in communities and networks. With the Internet
+and social media, they have become larger, more spatially distributed
+and more international. The opportunities to forge relationships, access
+and share knowledge have thus become much richer and more diverse. On
+the other hand, our working world is becoming more specialized, complex
+and interwoven. An individual can usually no longer know everything that
+is necessary to solve a complex task and is dependent on a good network
+that gives her/him quick access to relevant information. Good networking
+skills have thus become one of the most important competencies for the
+21st century - and also a fundamental requirement for any content
+curator.</p>
+<p>Networks and communities are of fundamental importance for curators:
+they can be sources of relevant, valuable content and experts or the
+starting point for researching and collecting such sources and finding
+experts. In a further step, a content curator always acts as a “human
+filter” who, guided by his or her own interests and knowledge
+background, filters relevant and interesting information and content
+from a large quantity.</p>
+<p>Here are a few examples of curators and well-curated sites:</p>
+<ul>
+<li>The Corporate Learning Community: &lt;https://colearn.de/ - Learning
+network on corporate learning with contributions and activities by, for
+and with the community.</li>
+<li>Dr. Jochen Robes (<a
+href="http://www.weiterbildungsblog.de">www.weiterbildungsblog.de</a>) -
+developments on (digital) learning and continuing education.</li>
+<li>Stefan Pfeiffer et al (https://cxokurator.com/) - curated
+information on IT topics, such as cloud, artificial intelligence and IT
+security - with a weekly livemeeting (9vor9)</li>
+<li>Klaus Eck (&lt;https://pr-blogger.de/) - specialist for online
+marketing and PR with many good channels.</li>
+</ul>
+<p><strong>Kata 1:</strong> Create a collection of all networks and
+communities around the topics you are interested in (private or
+professional) and to which you belong. Then look at this list: Where are
+you a listener / reader and why? Where are you active and do you
+contribute yourself?</p>
+<p><strong>Kata 2:</strong> In the next step, think about (possibly also
+for a curation topic) which content, people and networks you would like
+to have (more) contact with and create a list for this. Think about how
+you can get in touch with the content, people and networks step by step
+(follow topics or people, like content, connect with them in social
+networks, contact them, etc.).</p>
+<p>Discuss the different ways to do this in the Circle and share
+recommendations. Make a plan how you can build up this contact in the
+next 4 weeks.</p>
+<p>A good first step as orientation for this is the [advanced Twitter
+search].(https://help.twitter.com/de/using-twitter/twitter-advanced-search).
+Helpful in this context are also the exercises from Working out Loud
+([week
+1].(https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cbc8d9a1905f4de3252f632/1555860891111/WOL+Circle+Guide+-+Week+1+v5.0+-+German.pdf)
+and <a
+href="https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cb65ba11905f42f166100c4/1555454881763/WOL+Circle+Guide+-+Week+2+v5.0+-+German.pdf">Week
+2</a>) resp. the <a
+href="https://media.cogneon.de/index.php/s/XY92LTGo48pzExk#pdfviewer">lernOS
+Basic Guide</a>.  </p>
+<p><strong>Deepening kata:</strong> If you have a little more time for
+this first step, do the following networking exercise to get an idea of
+how diverse your networks are and how you use them.</p>
+<p>Knowing how wide or narrow your own networks are and how you use the
+knowledge in those networks helps you better understand your own
+learning and work. Do you primarily ask people who are similar to you,
+who do the same thing professionally as you do, who you know well and
+can ask directly? What impact does that have on the information you get
+and the knowledge you draw from it?</p>
+<p>Answer the following questions looking at the last 4 to 6 months and
+enter <strong>up to 4 people</strong> for each question. The same
+persons can also stand for several questions. The questions are focused
+on your professional network and professional issues, but you can also
+adapt these questions to reflect your personal environment and life.</p>
+<ol type="1">
+<li>Who do you talk to most when it comes to normal professional
+questions and small support, e.g. for special detailed knowledge, to
+proofread a text or a presentation, for brainstorming, etc.?</li>
+<li>Who do you turn to when you want to solve a difficult / complex
+professional problem?</li>
+<li>who do you talk to when you want to advance an important project or
+idea in your company? Who do you contact to get the necessary resources,
+approvals and support for the project?</li>
+<li>with whom do you exchange ideas if you want to open up a completely
+new field of topics or tasks?</li>
+<li>with whom do you exchange the most information about new
+developments and trends in your profession/specialty?</li>
+<li>with whom do you have the most informal contact in your job, for
+talking, going to lunch and also talking about things outside the
+office?</li>
+</ol>
+<p>How many of 24 possible names are on your list? Now look at the
+structure of your network with the following questions: How many of the
+people are:</p>
+<ul>
+<li><p>older than you</p></li>
+<li><p>about your age</p></li>
+<li><p>younger than you</p></li>
+<li><p>Your gender</p></li>
+<li><p>other gender</p></li>
+<li><p>work at the same location / in the same office</p></li>
+<li><p>work at another location/city</p></li>
+<li><p>work in another country</p></li>
+<li><p>work in the same department / organizational unit</p></li>
+<li><p>work in a different department / organizational unit</p></li>
+<li><p>work in another company</p></li>
+<li><p>have the same specialty as you</p></li>
+<li><p>have a different area of expertise</p></li>
+<li><p>work on the same hierarchical level as you</p></li>
+<li><p>work on a hierarchy level below you</p></li>
+<li><p>work on a hierarchy level above you</p></li>
+<li><p>not applicable</p></li>
+</ul>
+<p>This exercise was compiled, shortened, and adapted based on the
+Network exercise from <a href="https://jarche.com/">Harold Jarche</a>'s
+<strong>Personal Knowledge Mastery</strong> <a
+href="https://jarche.com/pkm/pkm-workshop/">Online Workshops</a>.</p>
+<h2 data-number="2.7"
+id="week-2---determine-topic-goal-and-target-group"><span
+class="header-section-number">2.7</span> Week 2 - Determine topic, goal
+and target group</h2>
+<p>There are basically 2 entry points to get involved with content
+curation:</p>
+<p><strong>Entry point 1 - You want to get involved in a new topic that
+is important and relevant for your professional / private
+development</strong> You are searching for new information, books,
+experts, processes, etc. The question arises how you can quickly and
+efficiently get the right and relevant information and develop
+competencies.</p>
+<p>In this case, it makes sense that in a first step you obtain
+recommendations on the topic from known and proven informants and
+knowledge nodes from your own network (analog and digital). This is the
+first quality filter that you can use yourself quickly and easily.</p>
+<p>Based on the recommended content (books, seminars, blogposts,
+articles, YouTube videos, etc.) you can delve deeper into “your” topic
+and build up knowledge. By putting together individual knowledge
+building blocks and generating and sharing something new, such as an
+online article, video or podcast, you learn quickly, effectively and
+purposefully. When you share your learning process with others, you
+learn even faster.</p>
+<p><strong>Goals of the Curator:</strong><br />
+Familiarizing yourself with a new topic that is very relevant in your
+professional or private life, or because there is a new problem that you
+need to familiarize yourself with quickly and efficiently (possibly also
+as a team).</p>
+<p><strong>Entry point 2 – You are the expert for “your” topic and want
+to prepare it for others.</strong><br />
+You have an expertise on a topic, collect information, blogposts, videos
+and podcasts and pass them on to a community in a filtered and useful
+way. It is a topic in which you are very knowledgeable. Your knowledge
+and reputation allow you to judge which content is right, valuable and
+“worth reading”. You do your target group a favor by putting together
+the right content, putting it into context and recommending it so that
+they can quickly and effectively inform themselves and develop the topic
+with you. This can happen internally in a company as well as for a
+specific target group or colleagues from your networks.</p>
+<p>Example <a
+href="http://www.weiterbildungsblog.de">www.weiterbildungsblog.de</a> -
+Weekly trends on continuing education topics with a brief summary and
+assessment by well-known corporate learning expert Dr. Jochen Robes.</p>
+<p><strong>Goals of the <em>Curator</em>:</strong> Self-learning by
+filtering, assessing and further processing information on one’s special
+topic, e.g. in a blog, thus showing one’s own expertise and further
+developing oneself - and at the same time giving other experts or
+potential customers the opportunity to contact, discuss and exchange
+ideas and projects.</p>
+<p><strong>Kata 3:</strong> What is your topic and with whom would you
+like to share your learning?</p>
+<p>Answer the following questions:</p>
+<ul>
+<li><p>What kind of curation do you have in mind? Are you an expert or a
+learner? Why?</p></li>
+<li><p>Do you curate primarily for yourself or for a group of people, a
+network?</p></li>
+<li><p>If you curate for others, who is your target audience? Can you
+describe them? What makes your target group tick?</p>
+<p><strong>Deepening kata:</strong></p>
+<p>Do a target group analysis based on learner personas: Can you
+characterize one or two people who are typical for this target group?
+Tip: Use the learner personas template to describe the people
+individually.   Here is a simple template as a PowerPoint file:</p>
+<p><em>Persona_Vorlage_Deutsch.pptx</em></p>
+<p><strong>Deeper analysis with your target group</strong><br />
+If you want to go one step further, develop a detailed persona draft -
+the following guide from the startup environment of Gründerszene shows
+you how this works:
+https://www.gruenderszene.de/operations/persona-personas-entwickeln</p>
+<p> </p>
+<p><strong>Kata 4:</strong> Formulate the goals of your
+curation.</p></li>
+<li><p>What do you want to achieve?</p></li>
+<li><p>What exactly is your topic?</p></li>
+<li><p>Are you active on social media? Which channels do you feel
+comfortable on?</p></li>
+<li><p>Where would you start sharing your curated learning
+experiences?</p>
+<p>Good ways to draw attention to your curation on the social Internet
+are, for example, Twitter, LinkedIn, Pinterest or Xing. Within
+companies, intranet sites that are well-structured, allow social
+interaction and are accessible to as many colleagues as possible are
+suitable, such as <a
+href="https://www.computerwoche.de/a/erfolgreich-dank-esn,3544076">enterprise
+social networks</a> like HCL Connections, Microsoft Yammer, social wikis
+like Confluence or SharePoint sites.</p>
+<p><em>Example of a goal formulation:</em></p>
+<p><em>This year I would like to deal intensively with the topic of
+dealing with “data and data security”. So far, I haven’t given much
+thought to what happens to my data and what the consequences might be -
+but an example from the Süddeutsche Zeitung got me thinking – here’s the
+link to it:
+https://www.sueddeutsche.de/digital/smartphone-datenschutz-tipps-android-ios-1.4716498
+My goal is to understand and optimize my own digital activities, both at
+work and in my private life, in terms of data security, and to make my
+family and colleagues at work sensitive to the issue. I want to
+formulate my experiences on an external blog (<a
+href="http://www.medium.com">www.medium.com</a>) and share it on the
+intranet (our enterprise social network Yammer) and on Twitter and
+Linkedin.</em></p></li>
+</ul>
+<h2 data-number="2.8"
+id="week-3-4-research-and-collection-of-relevant-content-and-experts"><span
+class="header-section-number">2.8</span> Week 3 + 4: Research and
+collection of relevant content and experts</h2>
+<p>Who do you ask when you want to get good and relevant information
+quickly? What do you do intuitively? If you need help solving a problem
+at work and know an expert who is happy to take time and share
+knowledge, you go directly to that person. Or if you want to introduce a
+new tool or process and you know people in other companies who have
+already done it, you will ask them directly. And if you are planning a
+major purchase in your private life, such as a car or a house, you will
+inform yourself in detail over a longer period of time, talk to many
+people and listen to the advice of those who are visibly good with money
+and have already achieved your goals. have already achieved their
+goals.</p>
+<p>What they all have in common is that you know these people, you know
+what they stand for and they are role models for you in this particular
+area. They are trustworthy experts. You have built up a relationship of
+trust with them and accept their recommendations.</p>
+<p>How can this mechanism be transferred to curating?</p>
+<p><strong>Kata 5:</strong> Write down 3 topics that occupy you the most
+at the moment and write down 2 names behind each that you really trust.
+Link the content, articles, videos and podcasts (…) and possibly also
+books that you know, have read, watched or studied and listened to with
+your personal comments. Make yourself a list - ideally they are people
+you have already met personally - or whom you have been following
+intensively for a long time and know exactly how they think and what
+they stand for. They are your “trusted guides”. </p>
+<p><strong><em>Excursus:</em></strong> <em>If you are looking for a tool
+that allows you to quickly incorporate information from the Internet and
+is easy to use, we would recommend Microsoft OneNote. OneNote is
+available both for free (up to max. 5 GB) via a live.com account (<a
+href="https://outlook.live.com/owa/">here</a> you can sign up if you
+don’t have an account yet) or via a paid <a
+href="https://www.office.com/">Office 365</a> account, which provides
+much more functionality.</em></p>
+<p><em>If you want to try OneNote for the first time and have no idea
+what to do with it, <a
+href="https://colearn.de/corporate-learning-community-region-frankfurt-clc069-2-treffen-am-5-maerz-2018/">this
+blogpost</a> will help you.</em></p>
+<p><strong>Kata 6:</strong> Now, in the second step, find the sources
+that your trusted guides particularly like to use to publish their
+content. This could be their Twitter channel, their personal blog or
+even a web portal or a YouTube or podcasting channel. Now search these
+sources for relevant information, ideas or even references to other
+people on your topic. Use, for example, the function of Google, with
+which you can search a website specifically.</p>
+<p><img src="./images/image8.png" /></p>
+<p>Example: Google search on the site of Harold Jarche
+("site:jarche.com") on Fake News</p>
+<p><strong>Professional tip for Twitter users</strong></p>
+<p>Anyone who wants to approach a new topic and does not yet know any
+experts on it usually starts with research via a web search engine - and
+this is usually Google. This is a tedious way and often does not lead to
+the best results - because there are simply far too many pages listed on
+Google and you won’t find any clues as to which pages are really
+relevant and which are not.</p>
+<p>We therefore recommend researching via Twitter, because Twitter links
+people and content very quickly and effectively, and this is an immense
+advantage when searching for relevant information.</p>
+<p>Here is an example of the <a
+href="https://twitter.com/search-advanced">advanced search</a> of
+Twitter</p>
+<figure>
+<img src="./images/image9.png"
+alt="An image that contains text. Automatically generated description" />
+<figcaption aria-hidden="true">An image that contains text.
+Automatically generated description</figcaption>
+</figure>
+<p><strong>Deepening kata:</strong> Seek help from your followers
+(#followerpower) and ask them directly via Twitter for a recommendation
+on your new topic or for people who they think can help you. If you have
+a good network, you will very quickly get very good and relevant
+information and people recommended.</p>
+<h2 data-number="2.9" id="week-5---legal-framework"><span
+class="header-section-number">2.9</span> Week 5 - Legal framework</h2>
+<p><strong>Important note in advance:</strong></p>
+<p>We cannot give any legal advice here. Copyright is and will remain a
+gray area, also because the EU requirements for Articles 13 and 17 are
+currently being cast into new laws in many countries. In case of doubt
+and for larger projects, you should definitely seek the advice of an
+experienced media lawyer. In larger organizations, social media
+guidelines also provide good advice on what is permitted and what is
+not.</p>
+<p><strong>Fundamental:</strong></p>
+<p>All media and works are subject to copyright and are protected until
+70 years after the death of the author. What is protected is a work or
+part of a work, a “personal intellectual creation” that is reproduced on
+a medium.</p>
+<p>Ideas or concepts, for example, are not protected.</p>
+<p>Exceptions are the so called “Schrankenbestimmungen”:</p>
+<p>Quotations (§51 UrhG) and private copies (§54 UrhG) can be made
+without the permission of the author. permission of the author.</p>
+<p><strong>Questions:</strong></p>
+<p>What are absolute no-go’s when curating?</p>
+<ul>
+<li><p>Using images without copyrights.</p></li>
+<li><p>Not analyzing Creative Commons licenses carefully and using and
+remixing content without being asked.</p></li>
+<li><p>Pass off other people’s articles as your own or take them over
+completely.</p></li>
+<li><p>Using aggregated content from others and selling it in a product
+as your own.</p></li>
+<li><p>Do not name the author!</p></li>
+</ul>
+<p><strong>How to protect yourself legally?</strong></p>
+<ul>
+<li><p>If the legal situation is unclear before linking / publishing,
+get written permission from the copyright holder or generally ask them
+directly whether you may link / use the content. They might be happy and
+ideally give you more ideas or links.</p></li>
+<li><p>Do not use direct links whose content is stored in a portal where
+you have to register - such as information portals with paywalls and
+Massive Open Online Course platforms (MOOCs).</p></li>
+<li><p>If you link to paid content (e.g. paid content or articles that
+are behind a paywall), highlight this so that your audience knows they
+have to pay for it.</p></li>
+<li><p>If you’re providing content for a large organization and want to
+make absolutely sure that everything is legally 100% safe, find a
+well-known and high-quality provider, such as Harvard Business Reviews
+or LinkedIn Learning, and curate relevant content in their
+portals.</p></li>
+<li><p>If you not only take over, embed and forward high-quality
+media/content from others, but also add value yourself by integrating it
+into your own articles, podcasts or videos and thus demonstrate a high
+level of creative depth, linking and curation are usually legally
+unobjectionable.</p></li>
+</ul>
+<p><strong>Kata 7:</strong></p>
+<p>Make up your own mind about copyright and curation. Check the credits
+or the imprint of the channel of your collected Youtube videos for
+copyright notices (e.g. TED Talks). Read the imprint of blogs. Make
+clear which content you can mix and process in any case and which you
+are only allowed to link.</p>
+<p><strong>Kata 8:</strong></p>
+<p>Take the collection of links, videos, and articles you created in
+weeks 3 and 4. Organize your content. Which resources can you use
+safely? Which are super in terms of content, but unclear in terms of
+copyright? Which content can you describe and link to the maximum? Which
+authors do you want to contact?</p>
+<p><strong>Deepening kata:</strong></p>
+<p>Research whether you can find out more information about the legal
+framework for curation in Germany, Austria and Switzerland. Learn how
+you can best assess the risks and implement them in your curation.</p>
+<p>We’d love for you to share your research results with us
+(&lt;stefan@learning-kurator.de or under our Twitter handles. <span
+class="citation" data-cites="he_schuster">@he_schuster</span>, <span
+class="citation" data-cites="maki_amw">@maki_amw</span>, <span
+class="citation" data-cites="sdiepolder">@sdiepolder</span>) so we can
+improve the Content Curation Guide together.</p>
+<p>Further links to legal frameworks from which our summary was
+created:</p>
+<p><strong>Further reading on legal matters</strong></p>
+<ul>
+<li><p>The great guide to image, quotation and copyright law in
+question-and-answer style - a good article with many valuable
+explanations by Dr. Kerstin Hoffmann and Dr. Thomas Schwenke
+&lt;https://www.kerstin-hoffmann.de/pr-doktor/zitieren-verlinken-bildrechte-urheberrecht-strafen/</p></li>
+<li><p>The <a href="https://rechtsbelehrung.com/">Podcast
+Rechtsbelehrung</a> by Dr. Thomas Schwenke and Marcus Richter
+(e.g. episode 50) and the related <a
+href="https://drschwenke.de/haftung-fuer-links-embedding-und-sharing-urheberrecht-und-datenschutz/">article</a></p></li>
+<li><p>&lt;https://irights.info/ - Copyright and Creative Work in the
+Digital World - here’s a <a
+href="https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839">guide</a>
+on eLearning about legal issues in education, science and
+teaching</p></li>
+<li><p>The blog <a
+href="http://www.rechtzweinull.de/">www.rechtzweinull.de</a> by
+Dr. Carsten Ullbricht with a somewhat older assessment on curation -
+&lt;http://www.rechtzweinull.de/archives/1849-kuratierung-und-recht-rechtliche-grenzen-fuer-newsrooms-und-content-curation-im-internet.html</p></li>
+<li><p>More detailed, <a href="https://youtu.be/F2iBIT4xid8">approx.
+12-minute video on copyright</a> by nice2know</p></li>
+<li><p>Book: Silvia Luber, Inga Geisler (2016): Online Trainings und
+Webinare - Von der Vermarktung bis zur Nachbereitung, Beltz-Verlag,
+Weinheim.</p></li>
+</ul>
+<h2 data-number="2.10" id="week-6---role-of-people-in-curation"><span
+class="header-section-number">2.10</span> Week 6 - Role of people in
+curation</h2>
+<p>The basis of content curation is your own network, the resources you
+use and how you connect them. Every network and every community lives
+from and with the people who contribute to it. The different roles that
+people play in networks can be divided into consumers, experts,
+connectors and catalysts (cf. Harold Jarche, &lt;https://jarche.com/;
+&lt;https://jarche.com/2017/05/the-world-needs-knowledge-catalysts/).</p>
+<figure>
+<img src="./images/image10.jpeg"
+alt="An image that contains text. Automatically generated description" />
+<figcaption aria-hidden="true">An image that contains text.
+Automatically generated description</figcaption>
+</figure>
+<p>Visualization by Katrin Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn">@kleinerw4hnsinn</a> (CC
+BY)</p>
+<p><strong>Consumers</strong> use their networks to obtain information.
+They read posts to expand their knowledge without necessarily
+collecting, enriching, and sharing it. collect, enrich and share it. Of
+course, we are all also always consumers in our networks, especially
+when we are dealing with a new topic or with topics that (at the moment)
+only interest us marginally.</p>
+<p><strong>Experts</strong> penetrate and understand their subject areas
+in detail. But they are not necessarily good at summarizing and sharing
+their knowledge. In curating, an expert is often simply someone who
+knows more about a topic than you do. To develop as an expert curator,
+you can practice talking, writing, summarizing, and sharing more about
+your subject area in simple(er) words.</p>
+<p><strong>Connectors</strong> are good networkers, know many people,
+get into conversation easily with everyone and bring people together. In
+curating, they help to see and build new connections and draw attention
+to interesting topics, approaches, and opinions. To develop as a
+connector to a curator, you can develop and practice your skills of
+enriching knowledge and sharing it with added value. It is also
+important to consider when, where, and with whom you share your
+content.</p>
+<p><strong>Catalysts</strong> are good at enriching knowledge, making
+knowledge connections visible and passing on knowledge, but also at
+connecting people, ideas and organizations. Catalyzing in this sense is
+the fine art of knowledge management and content curation. Only a few
+people are good catalysts; a basic prerequisite is that they are good
+curators.</p>
+<p><strong>Kata 9:</strong> In the tasks in week 1, you have already
+thought about your network and certainly made contact with various
+experts in one way or another. Now think together about how you can
+recognize connectors in your networks (e.g. Xing/LinkedIn, Twitter) and
+how this becomes visible in their contributions? In the group or alone,
+think about what you can do to become better connectors. Take on two or
+three points and practice them over the next four weeks.</p>
+<p><strong>Kata 10:</strong> Analyze your networks – who are the
+experts, who are the connectors, and do you know any catalysts? What
+activities characterize each of them and how would you assign these
+activities to the roles. Make a table or overview and summarize your
+analysis in it.</p>
+<p><strong>Kata 11:</strong> What role do you play in your networks?
+What role would you like to play? What do you lack to play this desired
+role?  </p>
+<p><strong>Deepening kata:</strong> If you have time and want to, draw a
+network with the most important people on your topic. Work out what
+their strengths are and whether and how they relate to each other. Think
+about how you can best approach the catalysts and how you can best reach
+out to them. Start curating their content, in the sense of “curating the
+curators”.</p>
+<h2 data-number="2.11" id="week-7---quality-and-source-check"><span
+class="header-section-number">2.11</span> Week 7 - Quality and source
+check</h2>
+<p>From the abundance of sources and information that you have collected
+on (D)a certain topic, the most important and helpful ones should now be
+filtered out step by step.</p>
+<p>For this purpose we recommend to ask and answer <strong>the following
+questions</strong>:</p>
+<ul>
+<li><p>Which are the top 5 (= most important) sources in your
+recommended order? (Ranking)</p></li>
+<li><p>Why would you classify these sources as especially important?
+(personal evaluation)</p></li>
+<li><p>What important insights did you gain for your topic from the
+source?</p></li>
+<li><p>If applicable, are there supplementary, explanatory graphics or
+learning videos that can further promote understanding and that you can
+include in the explanation? (3.+4.Learning)</p></li>
+<li><p>How would you sort the remaining found sources into areas or
+which ones can be omitted from your point of view? (Sort out /
+Selection)</p>
+<p>This step-by-step classification will provide a helpful overview for
+you and your audience. You can also, for example, create a template with
+which you go through each source according to the questions and enter
+the answers.  </p>
+<p>Now it is important that your sources are truthful and of good
+quality and that you question them self-critically. To do this, you can,
+for example, use the criteria that journalists have developed over
+decades as newsworthiness factors and, of course, also ask other topic
+experts for help or exchange.</p>
+<p> </p>
+<p>An important competence of a good curator is to recognize and uncover
+<strong>false reports or fake news</strong>. Today, media companies and
+influencers earn good money especially when they attract as much
+attention as possible with their media (e.g., with <a
+href="https://de.wikipedia.org/wiki/Clickbaiting">clickbaiting</a>) and
+serve extreme opinions. This is done primarily by advertising according
+to the number of clicks placed on the mostly free articles, videos and
+other media. And the artificial intelligence that automatically
+recommends what we should consume next is not optimized for objectivity
+and quality of the media, but to keep the user consuming as long as
+possible. This is why it is of particular importance to check
+information and especially sources in order to then proactively form an
+opinion that is as objective and fact-based as possible. The following
+diagram from the <a href="https://www.ifla.org/">International
+Federation of Library Associations and Institutions</a> provides a good
+working guide.:</p>
+<p><img src="./images/image11.jpg" /></p></li>
+</ul>
+<p><strong>Source:</strong> <a
+href="https://www.ifla.org/publications/node/11174">https://www.ifla.org/publications/node/11174</a>
+- CC BY 4.0</p>
+<p> </p>
+<p>Fake news has been around as long as there has been media. We
+therefore need to know our options for debunking it, and critical
+thinking is the key to recognizing it. For those who want to delve
+deeper into the topic: <a
+href="https://jarche.com/2016/12/understanding-our-tools/">ttps://jarche.com/2016/12/understanding-our-tools/</a></p>
+<p><strong>Kata 12:</strong> Conduct an initial fact check for at least
+two of your researched sources. A possible guideline for this is the
+method guide of the <a
+href="https://correctiv.org/faktencheck/ueber-uns/2018/10/04/unsere-methode">Correctiv</a>
+journalist team . Record the results in bullet points and discuss your
+results together in the next meeting.</p>
+<p><strong>Deepening kata 1:</strong> Arrange an appointment with one of
+your experts from your network to take a closer look at the Top5 sources
+with him/her, so that you can make a joint assessment at the end.
+(approx. 60-90 min.)  </p>
+<p><strong>Deepening Kata 2:</strong> Two entertaining Youtube videos
+(<a href="https://youtu.be/qTKat-O7F7g">part 1</a> and <a
+href="https://youtu.be/AlSmcBbT15Y">part 2</a>) on critical thinking
+based on Carl Sagan’s classic “The fine Art of Baloney Detection” by <a
+href="https://www.youtube.com/channel/UCyHDQ5C6z1NDmJ4g6SerW8g/about">maiLab</a>,
+Mai Thi Nguyen-Kim.</p>
+<p>You can find a recommendable online course of the Correctiv editorial
+staff for further education here: <a
+href="https://akademie.reporterfabrik.de/courses/course-v1:Reporterfabrik+Workshop223+2018/course/">Wokshop
+Reporterfabrik</a></p>
+<h2 data-number="2.12" id="week-8---forms-of-curation"><span
+class="header-section-number">2.12</span> Week 8 - Forms of
+curation</h2>
+<p>There are many different ways to present the curated result
+(“sensemaking”). Robin Good has collected and described a comprehensive
+list of approaches and formats with many exciting examples in his
+article <a
+href="https://medium.com/ccontent-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18">“Content
+Curation Approaches: Types and Formats”</a>. You should definitely read
+this article before you start thinking about which format to use.</p>
+<p>All types and formats have one thing in common - <strong><em>“finding
+and organizing existing content artifacts to create new insights and
+shared value”</em></strong> (<a
+href="https://medium.com/content-curation-official-guide/content-curation-approaches-types-and-formats-ae2b33fe6a18%20">Robin
+Good</a>).</p>
+<p> </p>
+<p><img src="./images/image12.jpg" /></p>
+<p>Visualization by Katrin Mäntele <a
+href="https://twitter.com/kleinerw4hnsinn"><span class="citation"
+data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</p>
+<p>We find the following formats or types of curation based on Robin
+Good’s ideas most relevant for a learning context. We recommend that you
+choose formats that you feel comfortable with (e.g. "I like to write"
+- blog).</p>
+<p> </p>
+<p><strong>Aggregate</strong> Aggregating content describes the work
+when the curator collects, describes, and provides high-quality content
+or artifacts in a central location for their audience. These aggregated
+contents are particularly valuable when they are provided by a
+recognized expert, a so-called <strong>“Trusted Guide”</strong>.</p>
+<p> </p>
+<p>A very good example is <a
+href="https://www.immersivelearning.news/">https://www.immersivelearning.news/</a>
+by Torsten Fell - a portal that provides all relevant information on
+learning with augmented reality, virtual reality and mixed reality and
+is definitely a very good starting point for a “deep dive” into the
+topic.</p>
+<p> </p>
+<p><img src="./images/image13.png" /></p>
+<p>Screenshot landing page portal <a
+href="https://www.immersivelearning.news/">Immersive Learning News</a>
+from Torsten Fell</p>
+<p> </p>
+<p><strong>Pro tip</strong>: If you are looking for a specific topic and
+have found a reliable source, use Google Page Search to quickly get to
+the information you need.  </p>
+<figure>
+<img src="./images/image14.png"
+alt="Google site:immersivelearning.news curationl Q Google-Suche Auf gut Glück!" />
+<figcaption aria-hidden="true">Google site:immersivelearning.news
+curationl Q Google-Suche Auf gut Glück!</figcaption>
+</figure>
+<p> </p>
+<p> </p>
+<p><strong>Linking</strong> Synthesizing is classically about
+summarizing long, elaborate media and content into short, crisp nuggets
+that nevertheless reflect the essence of the medium/content. The
+selection of the media is also an achievement of the curators.</p>
+<p>Classic examples are (paid) services like <a
+href="http://www.getabstract.com/">www.getabstract.com</a> or <a
+href="http://www.blinkist.com/">www.blinkist.com</a> that summarize
+books, videos, and podcasts and present them as written text, audio, or
+sketchnotes.</p>
+<p><img src="./images/image15.png" /></p>
+<p>Example: book summary at <a
+href="http://www.blinkist.com/">www.blinkist.com</a></p>
+<p>What these diverse and in-depth portals have in common is that the
+individual content is usually very well and accurately summarized, but
+you still have to search for the “right” content. But which content
+should be interesting for you and your interests and needs, these
+portals can hardly say - they act here as content aggregators, which
+give a rough orientation by topic clusters and recommendations by
+algorithm - real recommendations or orientation by trusted guides you do
+not get.</p>
+<p>One of our favorite blogs, <a
+href="http://www.weiterbildungsblog.de/">www.weiterbildungsblog.de</a>,
+we would also categorize as “synthesizing,” as Dr. Jochen Robes adds
+value to each article he carefully filters and publishes for his HR and
+Digital Learning Tribes with a brief personal assessment or summary,
+giving us readers a hint as to whether we should delve deeper into the
+content he curates. He also does a lot of the work for us by scouting
+trends and ideas around the world, tagging them and distributing them
+once a week in his newsletter.</p>
+<figure>
+<img src="./images/image16.png"
+alt="CLC Munich #CLC089: Content Curation in Corporate Learning By Jochen Robes, March 202019 The Internet offers us a wealth of information. But how do we find the ones that are relevant for us or for others? The keyword is content curation, i.e. the systematic retrieval, preparation and publication of information. Stefan Diepolder talked about this in Munich. The focus was on the importance of the topic, its implications, the useful red thread of Harold Jarche (“Seek  Sense  Share&quot;) and the question of how HR developers, companies and each individual knowledge worker can benefit from it. Even though the topic is not high on any corporate learning agenda: it is almost surprising that we have not yet heard of any company and its explicit content curation strategy .… kristinauth, Corporate Learning Community, March 17, 2019 Image Source: CLC Munich" />
+<figcaption aria-hidden="true">CLC Munich #CLC089: Content Curation in
+Corporate Learning By Jochen Robes, March 202019 The Internet offers us
+a wealth of information. But how do we find the ones that are relevant
+for us or for others? The keyword is content curation, i.e. the
+systematic retrieval, preparation and publication of information. Stefan
+Diepolder talked about this in Munich. The focus was on the importance
+of the topic, its implications, the useful red thread of Harold Jarche
+(“Seek  Sense  Share") and the question of how HR developers, companies
+and each individual knowledge worker can benefit from it. Even though
+the topic is not high on any corporate learning agenda: it is almost
+surprising that we have not yet heard of any company and its explicit
+content curation strategy .… kristinauth, Corporate Learning Community,
+March 17, 2019 Image Source: CLC Munich</figcaption>
+</figure>
+<p>Screenshot: <a
+href="https://weiterbildungsblog.de/blog/2019/03/20/clc-muenchen-clc089-content-curation-im-corporate-learning/">#clc089
+Meetup Content Curation</a></p>
+<p> </p>
+<p><strong>Linking</strong> In mapping, curators collect and organize
+all the important elements that describe a specific area and define the
+relationship between the components.</p>
+<p>The example of the <a
+href="https://www.edukatico.org/de/report/coursera-groesste-globale-mooc-plattform-und-hunderttausende-lernende-aus-deutschland">MOOC
+platform Coursera</a> shows that it is also possible to organize over 40
+million learners and over 1000 courses from over 150 universities. In
+order to provide a good user experience, the different data must be
+stored in a be stored with a very good structure and linked
+intelligently. Coursera succeeds in this from our point of view: you can
+narrow down your search very well and still have the feeling that the
+platform is small, well maintained and clear. This is evidence of very
+good curatorial work.</p>
+<p> </p>
+<figure>
+<img src="./images/image17.png"
+alt="Search v What do you want to learn? Level For Business Developers Sign Up Free Participation Search  Personal Development Personal Development o Filter by: Competencies Job Title Language v Type Most Popular Certificates Business Too UCI Practical Man ement Career Success University of California, Irvine UCI Academic English: Writing University of California, Irvine Arizona State University TESOL Arizona State University CERTIFICATE ABOVE Learning How to Learn Learning How to Learn: Powerful mental tools to help yo... McMaster University" />
+<figcaption aria-hidden="true">Search v What do you want to learn? Level
+For Business Developers Sign Up Free Participation Search  Personal
+Development Personal Development o Filter by: Competencies Job Title
+Language v Type Most Popular Certificates Business Too UCI Practical Man
+ement Career Success University of California, Irvine UCI Academic
+English: Writing University of California, Irvine Arizona State
+University TESOL Arizona State University CERTIFICATE ABOVE Learning How
+to Learn Learning How to Learn: Powerful mental tools to help yo...
+McMaster University</figcaption>
+</figure>
+<p><a
+href="https://www.coursera.org/browse/personal-development">Screenshot
+Coursera</a></p>
+<p> </p>
+<p><strong>Distill</strong> This form of curation ensures that the most
+relevant information on a specific topic is briefly described and
+simplified into an order. Typical of this are “best-of” lists that
+provide additional value in addition to a link. A good example of
+distilling is Jane Hart’s listing of <a
+href="https://www.toptools4learning.com/">300 Best Learning
+Tools</a>.</p>
+<p> </p>
+<p><strong>Create learning paths</strong> Learning paths are
+particularly valuable when they are not provided as narrowly as in
+traditional blended learning environments but rather as a kind of
+guardrail for our own self-directed development.</p>
+<p>We can apply what we learn in our own way in our work - or not.</p>
+<p> </p>
+<p>Very interesting are e.g. annotated link lists of absolute
+specialists to whom we attribute the necessary expertise, skills and
+credibility, such as Christian Müller from
+[www.proagile.de].(http://www.proagile.de/).</p>
+<p>He manages to provide a hub on the topic of Agile with his “Agile
+Toolbox”, which gives orientation to beginners and professionals in the
+field of Agile alike and shows a way to deal with relevant topics and
+content. The content is valuable because it is recommended by him, the
+Trusted Guide and expert on Agile. We can experience Christian via
+Youtube, Twitter but also in various barcamps and workshops, as he works
+out loud (Working out loud) and lets us share his knowledge and
+ideas.</p>
+<figure>
+<img src="./images/image18.png"
+alt="A curated collection of links with articles, essays and tools on the theme Scrum” Kanban, Design Thinking, Leadership and Agile Transformation." />
+<figcaption aria-hidden="true">A curated collection of links with
+articles, essays and tools on the theme Scrum” Kanban, Design Thinking,
+Leadership and Agile Transformation.</figcaption>
+</figure>
+<p><a href="https://proagile.de/toolbox/">Screenshot Agile
+Toolbox</a></p>
+<p> </p>
+<p><strong>Explore</strong> This is journalistic work with in-depth
+research and analysis, using a variety of sources and allowing for
+opposing opinions and viewpoints. The goal is to give the target
+audience the opportunity to form their own opinions and to foster a deep
+understanding of a specific topic, story or problem by presenting
+contexts in an understandable way and giving the opportunity to dive
+deeper into details and differing views.</p>
+<p>Vivid examples of “exploring” are in-depth blogposts with many
+opportunities to link further. For example, the following post was
+written by Stefan for the Corporate Learning Community blog. His
+intention was to explore the topic of blockchain in depth himself. In
+doing so, he enriched already collected media, such as the two embedded
+videos that were relevant to him, with texts and abstracts from
+blockchain specialists. It was important to him to create as
+low-threshold an entry point as possible for his target audience, HR
+specialists from the corporate learning community. Here is an example
+for orientation:</p>
+<figure>
+<img src="./images/image19.png"
+alt="Topics of the Corporate Learning Camp: Blockchain - Will HR and Corporate Learning use the Blockchain for their own purposes in the future? Or is blockchain replacing HR? September 2018 Charlotte Venema ’2 comments Thoughts on a disruptive technology that could turn school, corporate learning and HR upside down by Stefan Diepolder What is blockchain? First of all, Blockchain is a buzzword that many are now using, but few can explain in a simple and understandable way. Among other things, the Blockchain is the system that enables the secure transaction and storage of Bitcoins. But what exactly is the blockchain and how does it work? The following video from CommonCraft explains in simple terms how the blockchain basically works. Blockchain Explained b Common:Craft" />
+<figcaption aria-hidden="true">Topics of the Corporate Learning Camp:
+Blockchain - Will HR and Corporate Learning use the Blockchain for their
+own purposes in the future? Or is blockchain replacing HR? September
+2018 Charlotte Venema ’2 comments Thoughts on a disruptive technology
+that could turn school, corporate learning and HR upside down by Stefan
+Diepolder What is blockchain? First of all, Blockchain is a buzzword
+that many are now using, but few can explain in a simple and
+understandable way. Among other things, the Blockchain is the system
+that enables the secure transaction and storage of Bitcoins. But what
+exactly is the blockchain and how does it work? The following video from
+CommonCraft explains in simple terms how the blockchain basically works.
+Blockchain Explained b Common:Craft</figcaption>
+</figure>
+<p><a
+href="https://colearn.de/themen-des-corporate-learning-camps-blockchain-nutzen-hr-und-corporate-learning-die-blockchain-zukuenftig-fuer-ihre-zwecke-oder-ersetzt-die/">Link
+to Blogpost</a></p>
+<p> </p>
+<p>Another helpful example of a curated blog post by Maria Popova - <a
+href="https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/">Blogpost
+“Fixed vs. Groth: The Two Basic Mindsets That Shape Our Lives”</a></p>
+<p>  </p>
+<p><strong>Kata 13:</strong> Pick out the most interesting content from
+your pool of material and try to find out whether it can be assigned to
+one of the formats. Find out and describe in the group why you think the
+chosen format is particularly suitable (or not). (20 minutes)</p>
+<p><strong>Kata 14:</strong> Find out YOUR format. Think about what your
+preference is, what you enjoy, and what format will take you little
+effort to create in the first step. Draw yourself a mockup, a sketchnote
+or create a mindmap and imagine what your curated medium could look
+like. Present your ideas to the other Circle members and discuss them
+together. (40 minutes)</p>
+<p><strong>Vertiefungs-Kata:</strong> Try to look at your topic from
+multiple points of view, e.g. pro/con. Try to challenge your hypothesis
+that you want to prove with curated content (e.g. content curation is a
+waste of time). Find the right format for it and outline your idea.</p>
+<p><strong>Sources and further links:</strong></p>
+<p><strong>Principles of Curation and Personal Knowledge
+Mastery</strong></p>
+<ul>
+<li><p>Stefan`s Podcast on Content Curation with Christoph Haffner and
+Thomas Jenewein from SAP Education Newscast -
+https://podcasts.apple.com/de/podcast/education-newscast/id1352307529?l=en&amp;i=1000471555373</p></li>
+<li><p>Blogpost about Stefan`s contribution at the Meetup of the
+Corporate Learning Community #clc089 in Munich -
+https://colearn.de/clc-muenchen-clc089-content-curation-im-corporate-learning/</p></li>
+<li><p>Robin Good`s “Content Curation Official Guide” on medium.com –
+THE online basic work on content curation -
+https://medium.com/content-curation-official-guide</p></li>
+<li><p>Robin Good`s phenomenal collection of tools on content curation -
+https://contentcuration.zeef.com/robin.good</p></li>
+<li><p>Harold Jarche`s detailed blog <a href="https://jarche.com"
+class="uri">https://jarche.com</a> on Personal Knowledge Mastery and the
+Seek – Sense – Share Framework.</p></li>
+<li><p>His online course “Personal Knowledge Mastery” -
+https://jarche.com/pkm/pkm-workshop/</p></li>
+<li><p>eBook 120 Seiten “Content Curation for Learning” from Anderspink
+as free download -
+https://blog.anderspink.com/2017/04/content-curation-book/</p></li>
+<li><p>Presentation by Mike Taylor at the 2019 Learning Technologies
+Fair.</p></li>
+<li><p><a href="https://youtu.be/5Q36elOJMkc">Mike Taylor - Curation -
+LT19</a></p></li>
+</ul>
+<p><strong>Deep dive quality and source check:</strong></p>
+<p>If you want a more scientific in-depth look at how critical thinking
+works and how to spot logic flaws, the best place to look is here at
+Stephen Downes in more detail:
+https://www.downes.ca/cgi-bin/page.cgi?post=69272</p>
+<p><strong>Dealing with Twitter</strong></p>
+<p>If you still need support in using Twitter, we recommend this great
+self-study course by Monika Schlatter - https://3wot.relatris.ch/</p>
+<p><strong>Effective media production and digital handling</strong></p>
+<p>Joeran Muuß-Merholz and Philippe Wampfler talk about how they work
+digitally (follow them on Twitter!) Worth listening to 90 minutes
+podcast.
+https://podcasts.apple.com/de/podcast/sou006-produktives-arbeiten-in-digitalen-welten-philippe/id1234102264?i=1000443131816</p>
+<p><strong>Further reading on legal matters</strong></p>
+<ul>
+<li><p>The great guide to image, quotation and copyright law in
+question-and-answer style - a good article with many valuable
+explanations by Dr. Kerstin Hoffmann and Dr. Thomas Schwenke -
+https://www.kerstin-hoffmann.de/pr-doktor/zitieren-verlinken-bildrechte-urheberrecht-strafen/</p></li>
+<li><p>The <a href="https://rechtsbelehrung.com/">Podcast
+Rechtsbelehrung</a> by Dr. Thomas Schwenke and Marcus Richter (e.g.,
+episode 50) and the related
+[article].(https://drschwenke.de/haftung-fuer-links-embedding-und-sharing-urheberrecht-und-datenschutz/)</p></li>
+<li><p>https://irights.info/ - Copyright and creative work in the
+digital world - here is a <a
+href="https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839">guide</a>
+on eLearning about legal issues in education, science and
+teaching.</p></li>
+<li><p>The blog <a
+href="http://www.rechtzweinull.de">www.rechtzweinull.de</a> by
+Dr. Carsten Ullbricht with a somewhat older assessment of curation -
+http://www.rechtzweinull.de/archives/1849-kuratierung-und-recht-rechtliche-grenzen-fuer-newsrooms-und-content-curation-im-internet.html</p></li>
+<li><p>More detailed, <a href="https://youtu.be/F2iBIT4xid8">approx.
+12-minute video on copyright</a> by nice2know</p></li>
+<li><p>Book: Silvia Luber, Inga Geisler (2016): Online Trainings und
+Webinare - Von der Vermarktung bis zur Nachbereitung, Beltz-Verlag,
+Weinheim.</p></li>
+</ul>
+<h1 data-number="3" id="about-lernos-1"><span
+class="header-section-number">3</span> About lernOS</h1>
+<p>lernOS is a method of self-organization for people living and working
+in the 21st century. To be successful today, you need to constantly
+learn, organize and develop. No one else is responsible for this
+process. You have to take care of it yourself (self-directed, lifelong
+learning).</p>
+<p>lernOS guides are licensed under <a
+href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative
+Commons Attribution 4.0 International</a> (CC BY 4.0):</p>
+<p><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></p>
+<p><strong>You may:</strong></p>
+<ul>
+<li><strong>Share</strong> - reproduce and redistribute the material in
+any format or medium.</li>
+<li><strong>Edit</strong> - remix, modify and build upon the material
+for any purpose, even commercial.</li>
+</ul>
+<p><strong>Under the following conditions:</strong></p>
+<ul>
+<li><strong>Credit</strong> - You must provide appropriate copyright and
+rights notices, include a link to the license, and indicate whether any
+modifications have been made. These disclosures may be made in any
+reasonable manner, but not in such a way as to create the impression
+that the Licensor is particularly supportive of you or your use.</li>
+<li><strong>No further restrictions</strong> - You may not use any
+additional clauses or technical procedures that legally prohibit others
+from doing anything that the license permits.</li>
+</ul>
+</body>
+</html>
