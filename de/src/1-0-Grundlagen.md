@@ -6,10 +6,7 @@ Du hast keine Ahnung, was Content Curation (oder auch "Kuratierung digitaler Inh
 
 Content Curation hilft Dir, wertvolle Informationen über Themen mit Hilfe von Inhalten und Experten zusammenzustellen, ohne das Rad dabei neu erfinden zu müssen. Du lernst Methoden, Formen und Ansätze kennen, wie Du über den Tellerrand Deines Themas schauen und Dein entstehendes Wissen mit anderen teilen kannst.
 
-Wenn Du Dich über diesen lernOS Circle Guide mit Content Curation
-beschäftigst, wirst Du die Wirkmechanismen und Unterschiede von
-maschinellen Filtern (über Algorithmen) und menschlichen Filtern
-verstehen. Aber du lernst auch, Kuratieren für dich und dein Leben
+Wenn Du Dich über diesen lernOS Circle Guide mit Content Curation beschäftigst, wirst Du die Wirkmechanismen und Unterschiede von maschinellen Filtern (über Algorithmen) und menschlichen Filtern verstehen. Aber du lernst auch, Kuratieren für dich und dein Leben
 einzusetzen: um offener und sichtbarer zu arbeiten und zu lernen, mit
 der Flut an verfügbarem Wissen klar zu kommen, anderen zu helfen, Zeit
 zu sparen und Dinge zu verstehen. Ganz nebenbei erarbeitest Du Dir dabei
@@ -258,11 +255,11 @@ Prozess nach Harold Jarche (2014)
 (<https://jarche.com/2014/02/the-seek-sense-share-framework/>), der sich
 
 1. mit dem **Suchen bzw. Finden** von Inhalten, Information und
-   
+
    > Experten befasst,
 
 2. dem **Filtern und Organisieren** und im weiteren, wichtigen Schritt
-   
+
    > dann **Anreichern** dieser Inhalte mit **Wert und Meinungen**,
 
 3. und schließlich den Möglichkeiten des **Teilens und Austauschens**.
@@ -275,7 +272,7 @@ height="3.5520833333333335in"}Visualisierung von Katrin Mäntele
 klar sein*
 
 1. **Suchen bzw. Finden**\
-   
+
    > Es geht darum, interessante und relevante Informationen zu finden
    > und auf dem Laufenden zu bleiben. Unter all dem „Lärm" die
    > wirklich hilfreichen, lesens- und lernenswerten Beiträge vom
@@ -287,7 +284,7 @@ klar sein*
    >  
 
 2. **Filtern, Organisieren und Anreichern**\
-   
+
    > Filtern heißt die Spreu vom Weizen trennen, wissen, welchen
    > Quellen und Menschen man vertrauen kann und wie man
    > Wissensbereiche voneinander abgrenzt, um den roten Faden nicht zu
@@ -304,7 +301,7 @@ klar sein*
    >  
 
 3. **Teilen & Austauschen**\
-   
+
    > Hier geht es darum, für sich ein Gespür und eine Praxis zu
    > entwickeln, wie man seine angereicherten Inhalte wann und mit wem
    > teilt, wie man Ideen und Erfahrungen in seinen Netzwerken
