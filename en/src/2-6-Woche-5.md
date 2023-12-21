@@ -1,75 +1,75 @@
-## Woche 5 - Rechtliche Rahmenbedingungen
+## Week 5 - Legal framework
 
- **Wichtiger Hinweis vorab:**
+ **Important note in advance:**
 
- Wir können hier keinerlei Rechtsberatung geben. Urheberrecht ist und bleibt eine Grauzone, auch da die EU-Vorgaben zu Artikel 13 und 17 im Moment in vielen Ländern in neue Gesetze gegossen werden. Im Zweifel und bei größeren Projekten solltest Du auf jeden Fall den Rat eines erfahrenen Medienanwalts erfragen. In größeren Organisationen geben zudem Social Media Guidelines gute Hinweise, was erlaubt ist und was nicht.
+ We cannot give any legal advice here. Copyright is and will remain a gray area, also because the EU requirements for Articles 13 and 17 are currently being cast into new laws in many countries. In case of doubt and for larger projects, you should definitely seek the advice of an experienced media lawyer. In larger organizations, social media guidelines also provide good advice on what is permitted and what is not.
 
- **Grundsätzliches:**
+ **Fundamental:**
 
- Alle Medien und Werke unterliegen dem Urheberrecht und sind bis 70 Jahre nach dem Tod des Urhebers geschützt. Geschützt wird ein Werk oder ein Teil eines Werkes, eine „persönliche geistige Schöpfung", die auf einem Medium abgebildet wird.
+ All media and works are subject to copyright and are protected until 70 years after the death of the author. What is protected is a work or part of a work, a "personal intellectual creation" that is reproduced on a medium.
 
- Nicht geschützt werden z.B. Ideen oder Konzepte
+ Ideas or concepts, for example, are not protected.
 
- Ausnahmen sind die sog. Schrankenbestimmungen:
+ Exceptions are the so called "Schrankenbestimmungen":
 
- Zitate (§51 UrhG) und Privatkopien (§54 UrhG) können ohne Erlaubnis
- des Urhebers erstellt werden.
+ Quotations (§51 UrhG) and private copies (§54 UrhG) can be made without the permission of the author.
+ permission of the author.
 
- **Fragen:**
+ **Questions:**
 
- Was sind absolute No-Gos beim Kuratieren?
+ What are absolute no-go's when curating?
 
-- Bilder ohne Urheberrechte verwenden.
+- Using images without copyrights.
 
-- Creative Commons-Lizenzen nicht genau analysieren und die Inhalte ungefragt nutzen und remixen.
+- Not analyzing Creative Commons licenses carefully and using and remixing content without being asked.
 
-- Artikel anderer als die eigenen ausgeben bzw. komplett übernehmen.
+- Pass off other people's articles as your own or take them over completely.
 
-- Aggregierte Inhalte anderer nutzen und in einem Produkt als die eigenen verkaufen.
+- Using aggregated content from others and selling it in a product as your own.
 
-- Den Urheber nicht nennen!
+- Do not name the author!
 
- **Wie kann man sich rechtlich absichern?**
+ **How to protect yourself legally?**
 
-- Bei unklarer Rechtslage vor dem Verlinken / Publizieren hol Dir schriftlich von den Urheber*innen die Erlaubnis bzw. frag generell bei ihnen direkt nach, ob du die Inhalte verlinken / verwenden darfst. Er*sie freut sich vielleicht und bringt Dich im Idealfall noch auf weitere Ideen oder Verbindungen.
+- If the legal situation is unclear before linking / publishing, get written permission from the copyright holder or generally ask them directly whether you may link / use the content. They might be happy and ideally give you more ideas or links.
 
-- Verwende keine direkten Verlinkungen, deren Contents in einem Portal hinterlegt sind, bei dem man sich anmelden muss - wie z.B. Informationsportale mit Paywall und Massive Open Online Course Plattformen (MOOCs).
+- Do not use direct links whose content is stored in a portal where you have to register - such as information portals with paywalls and Massive Open Online Course platforms (MOOCs).
 
-- Wenn Du zu Bezahl-Inhalte verlinkst (z.B. Paid Contents oder Artikel, die hinter einer Paywall stehen), markiere dies, damit Deine Zielgruppe weiß, dass sie dafür Geld bezahlen müssen.
+- If you link to paid content (e.g. paid content or articles that are behind a paywall), highlight this so that your audience knows they have to pay for it.
 
-- Falls Du Contents für eine große Organisation bereitstellst und absolut sichergehen willst, dass rechtlich alles 100 % unbedenklich ist, suche Dir einen bekannten und qualitativ hochwertigen Anbieter, wie z.B. Harvard Business Reviews oder LinkedIn Learning und kuratiere in deren Portalen relevante Inhalte.
+- If you're providing content for a large organization and want to make absolutely sure that everything is legally 100% safe, find a well-known and high-quality provider, such as Harvard Business Reviews or LinkedIn Learning, and curate relevant content in their portals.
 
-- Wenn Du qualitativ hochwertige Medien/Inhalte anderer nicht nur übernimmst, einbettest und weiterleitest sondern selbst Nutzen hinzufügst, indem Du sie in eigene Artikel, Podcasts oder Videos integrierst und die so eine hohe Schöpfungstiefe aufweisen, sind Verlinkungen und Kuratierungen in der Regel rechtlich unbedenklich.
+- If you not only take over, embed and forward high-quality media/content from others, but also add value yourself by integrating it into your own articles, podcasts or videos and thus demonstrate a high level of creative depth, linking and curation are usually legally unobjectionable.
 
  **Kata 7:**
 
-Mache Dir ein eigenes Bild zum Thema Recht und Kuratierung. Schau Dir im Abspann oder im Impressum des Kanals Deiner gesammelten Youtube-Videos die Hinweise auf das Urheberrecht an (z.B. bei TED-Talks). Lies das Impressum von Blogs. Mach Dir klar, welche Inhalte Du auf jeden Fall mixen und weiterverarbeiten kannst und welche Du nur verlinken darfst.
+Make up your own mind about copyright and curation. Check the credits or the imprint of the channel of your collected Youtube videos for copyright notices (e.g. TED Talks). Read the imprint of blogs. Make clear which content you can mix and process in any case and which you are only allowed to link.
 
  **Kata 8:**
 
-Nimm Dir Deine in Woche 3 und 4 erstellte Sammlung der Links, Videos und Artikel vor. Ordne Deine Inhalte. Welche Ressourcen kannst Du ganz unbedenklich nutzen? Welche sind inhaltlich super, urheberrechtlich, aber unklar? Welche Inhalte darfst Du maximal beschreiben und verlinken? Welche Urheber*innen willst Du kontaktieren?
+ Take the collection of links, videos, and articles you created in weeks 3 and 4. Organize your content. Which resources can you use safely? Which are super in terms of content, but unclear in terms of copyright? Which content can you describe and link to the maximum? Which authors do you want to contact?
 
- **Vertiefungs-Kata:**
+ **Deepening kata:**
 
-Recherchiere, ob Du tiefergehende Informationen zu den rechtlichen Rahmenbedingungen für Kuratierung in Deutschland, Österreich und der Schweiz herausfinden kannst. Lerne daraus, wie Du am besten die Risiken einschätzen und in Deiner Kuratierung umsetzen kannst.
+Research whether you can find out more information about the legal framework for curation in Germany, Austria and Switzerland. Learn how you can best assess the risks and implement them in your curation.
 
-Wir würden uns freuen, wenn Du Deine Rechercheergebnisse mit uns teilen würdest (<stefan@learning-kurator.de oder unter unseren Twitter Handles
-@he_schuster, @maki_amw, @sdiepolder), damit wir den Content Curation Guide gemeinsam verbessern können.
+We'd love for you to share your research results with us (<stefan@learning-kurator.de or under our Twitter handles.
+@he_schuster, @maki_amw, @sdiepolder) so we can improve the Content Curation Guide together.
 
-Weiterführende Links zu rechtlichen Rahmenbedingungen, aus denen unsere Zusammenfassung entstanden ist:
+Further links to legal frameworks from which our summary was created:
 
-**Weiterführende Lektüre zu Rechtlichem**
+**Further reading on legal matters**
 
-* Der große Ratgeber Bild-, Zitat- und Urheberrecht im Frage-Antwort-Stil - ein guter Artikel mit vielen wertvollen Erklärungen von Dr. Kerstin
-  Hoffmann und Dr. Thomas Schwenke <https://www.kerstin-hoffmann.de/pr-doktor/zitieren-verlinken-bildrechte-urheberrecht-strafen/
+* The great guide to image, quotation and copyright law in question-and-answer style - a good article with many valuable explanations by Dr. Kerstin
+  Hoffmann and Dr. Thomas Schwenke <https://www.kerstin-hoffmann.de/pr-doktor/zitieren-verlinken-bildrechte-urheberrecht-strafen/
 
-* Der [Podcast Rechtsbelehrung](https://rechtsbelehrung.com/) von Dr. Thomas Schwenke und Marcus Richter (z.B. die Folge 50) und den
-  dazugehörigen [Artikel](https://drschwenke.de/haftung-fuer-links-embedding-und-sharing-urheberrecht-und-datenschutz/)
+* The [Podcast Rechtsbelehrung](https://rechtsbelehrung.com/) by Dr. Thomas Schwenke and Marcus Richter (e.g. episode 50) and the
+  related [article](https://drschwenke.de/haftung-fuer-links-embedding-und-sharing-urheberrecht-und-datenschutz/)
 
-* <https://irights.info/ - Urheberrecht und kreatives Schaffen in der digitalen Welt - hier ein [Ratgeber](https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839) zu eLearning über Rechtsfragen in der Bildung, Wissenschaft und Lehre
+* <https://irights.info/ - Copyright and Creative Work in the Digital World - here's a [guide](https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839) on eLearning about legal issues in education, science and teaching
 
-* Der Blog [www.rechtzweinull.de](http://www.rechtzweinull.de/) von Dr. Carsten Ullbricht mit einer etwas älteren Einschätzung zu Kuratierung - <http://www.rechtzweinull.de/archives/1849-kuratierung-und-recht-rechtliche-grenzen-fuer-newsrooms-und-content-curation-im-internet.html
+* The blog [www.rechtzweinull.de](http://www.rechtzweinull.de/) by Dr. Carsten Ullbricht with a somewhat older assessment on curation - <http://www.rechtzweinull.de/archives/1849-kuratierung-und-recht-rechtliche-grenzen-fuer-newsrooms-und-content-curation-im-internet.html
 
-* Ausführlicheres, [ca. 12-minütiges Video zum Urheberrecht](https://youtu.be/F2iBIT4xid8) von nice2know
+* More detailed, [approx. 12-minute video on copyright](https://youtu.be/F2iBIT4xid8) by nice2know
 
-* Buch: Silvia Luber, Inga Geisler (2016): Online Trainings und Webinare - Von der Vermarktung bis zur Nachbereitung, Beltz-Verlag, Weinheim.
+* Book: Silvia Luber, Inga Geisler (2016): Online Trainings und Webinare - Von der Vermarktung bis zur Nachbereitung, Beltz-Verlag, Weinheim.

@@ -1,92 +1,46 @@
-## Woche 7 -- Qualitäts- und Quellencheck
+## Week 7 - Quality and source check
 
- Aus der Fülle an Quellen und Informationen, die Du zu (D)einem
- bestimmten Thema gesammelt hast, sollten nun Schritt für Schritt die
- wichtigsten und hilfreichsten herausgefiltert werden.
+From the abundance of sources and information that you have collected on (D)a certain topic, the most important and helpful ones should now be filtered out step by step.
 
- Dazu empfehlen wir, Dir **folgende Fragen** zu stellen und zu
- beantworten:
+For this purpose we recommend to ask and answer **the following questions**:
 
-- Welches sind die Top 5 (= wichtigsten) Quellen in Deiner empfohlenen
-   Reihenfolge? (Ranking)
+- Which are the top 5 (= most important) sources in your recommended order? (Ranking)
 
-- Warum würdest Du diese Quellen als besonders wichtig einstufen? (persönliche Bewertung)
+- Why would you classify these sources as especially important? (personal evaluation)
 
-- Welche wichtigen Erkenntnisse hast Du für Dein Thema aus der Quelle
-   gewinnen können?
+- What important insights did you gain for your topic from the source?
 
-- Gibt es ggf. ergänzende, erläuternde Grafiken oder Lernvideos, die
-   das Verständnis weiter fördern können und die Du in der Erklärung
-   mit einbringen kannst? (3.+4.Learning)
+- If applicable, are there supplementary, explanatory graphics or learning videos that can further promote understanding and that you can include in the explanation? (3.+4.Learning)
 
-- Wie würdest Du die restlichen gefundenen Quellen in Bereiche
-   sortieren oder welche können aus Deiner Sicht wegfallen? (Aussortieren / Selektion)
-  
-  Diese schrittweise Einordnung wird für Dich und Dein Publikum eine
-  hilfreiche Übersicht ermöglichen. Du kannst Dir zum Beispiel auch eine
-  Vorlage / Schablone erstellen, mit der Du jede Quelle nach den Fragen
-  durchgehst und die Antworten einträgst.
+- How would you sort the remaining found sources into areas or which ones can be omitted from your point of view? (Sort out / Selection)
+
+  This step-by-step classification will provide a helpful overview for you and your audience. You can also, for example, create a template with which you go through each source according to the questions and enter the answers.
    
-  
-  Nun ist es bedeutsam, dass Deine Quellen auch wahrheitsgemäß und
-  qualitätsvoll sind und Du sie selbstkritisch hinterfragst. Dazu kann
-  man sich z.B. an den Kriterien orientieren, die Journalisten seit
-  Jahrzehnten als Nachrichtenwertfaktoren erarbeitet haben und natürlich
-  auch andere Themen-Experten\*innen um Hilfe oder Austausch bitten.
-  
+
+  Now it is important that your sources are truthful and of good quality and that you question them self-critically. To do this, you can, for example, use the criteria that journalists have developed over decades as newsworthiness factors and, of course, also ask other topic experts for help or exchange.
+
    
-  
-  Eine wichtige Kompetenz einer/eines guten Kurators\*in ist,
-  **Falschmeldungen oder Fake News** zu erkennen und aufzudecken.
-  Medienunternehmen und Influencer verdienen heute besonders dann gut
-  Geld, wenn sie mit ihren Medien möglichst viel Aufmerksamkeit erregen
-  (z. B. mit [Clickbaiting](https://de.wikipedia.org/wiki/Clickbaiting))
-  und extreme Meinungen bedienen. Dies geschieht vor allem durch Werbung
-  nach Anzahl der Clicks, die bei den meist kostenlosen Artikeln, Videos
-  und anderen Medien geschaltet sind. Und die künstliche Intelligenz,
-  die uns automatisch empfiehlt, was wir als nächstes konsumieren
-  sollen, ist nicht auf Objektivität und Qualität der Medien optimiert,
-  sondern darauf, den User so lange wie möglich am Konsumieren zu
-  halten. Deswegen ist es von ganz besonderer Bedeutung, Informationen
-  und besonders Quellen zu prüfen, um sich dann proaktiv eine möglichst
-  objektive und auf Fakten basierende Meinung bilden zu können. Eine
-  gute Arbeitsanleitung bietet folgendes Schaubild der [International
-  Federation of Library Associations and
-  Institutions](https://www.ifla.org/):
-  
+
+  An important competence of a good curator is to recognize and uncover **false reports or fake news**. Today, media companies and influencers earn good money especially when they attract as much attention as possible with their media (e.g., with [clickbaiting](https://de.wikipedia.org/wiki/Clickbaiting)) and serve extreme opinions. This is done primarily by advertising according to the number of clicks placed on the mostly free articles, videos and other media. And the artificial intelligence that automatically recommends what we should consume next is not optimized for objectivity and quality of the media, but to keep the user consuming as long as possible. This is why it is of particular importance to check information and especially sources in order to then proactively form an opinion that is as objective and fact-based as possible. The following diagram from the [International Federation of Library Associations and Institutions](https://www.ifla.org/) provides a good working guide.:
+
   ![](./images/image11.jpg)
 
-**Quelle:** [https://www.ifla.org/publications/node/11174](https://www.ifla.org/publications/node/11174) - CC BY 4.0
+**Source:** [https://www.ifla.org/publications/node/11174](https://www.ifla.org/publications/node/11174) - CC BY 4.0
 
   
 
- Fake News gibt es, seitdem es Medien gibt. Wir müssen daher unsere
- Möglichkeiten kennen, sie zu entlarven und kritisches Denken ist der
- Schlüssel dafür, sie zu erkennen. Wer dazu noch tiefer ins Thema
- einsteigen möchte:
- [ttps://jarche.com/2016/12/understanding-our-tools/](https://jarche.com/2016/12/understanding-our-tools/)
+ Fake news has been around as long as there has been media. We therefore need to know our options for debunking it, and critical thinking is the key to recognizing it. For those who want to delve deeper into the topic: [ttps://jarche.com/2016/12/understanding-our-tools/](https://jarche.com/2016/12/understanding-our-tools/)
 
  **Kata 12:**
- Führe einen ersten Faktencheck für mindestens zwei Deiner
- recherchierten Quellen durch. Eine mögliche Orientierung dafür liefert
- der Methoden-Leitfaden des Journalisten-Teams von [Correctiv](https://correctiv.org/faktencheck/ueber-uns/2018/10/04/unsere-methode). Halte die Ergebnisse in Stichpunkten fest und diskutiert Eure Ergebnisse
- gemeinsam im nächsten Treffen.
+ Conduct an initial fact check for at least two of your researched sources. A possible guideline for this is the method guide of the [Correctiv](https://correctiv.org/faktencheck/ueber-uns/2018/10/04/unsere-methode) journalist team . Record the results in bullet points and discuss your results together in the next meeting.
 
- **Vertiefungs-Kata 1:**
- Vereinbare einen Termin mit einem Deiner Experten \*innen aus Deinem
- Netzwerk, zu dem Du Dir die Top5-Quellen mit ihm/ihr genauer
- anschaust und so am Ende eine gemeinsame Bewertung abgeben kannst.
- (ca. 60-90 min.)
+ **Deepening kata 1:**
+ Arrange an appointment with one of your experts from your network to take a closer look at the Top5 sources with him/her, so that you can make a joint assessment at the end. (approx. 60-90 min.)
   
 
- **Vertiefungs-Kata 2:**
- Zwei unterhaltsame Youtube Videos ([Teil
- 1](https://youtu.be/qTKat-O7F7g) und [Teil
- 2](https://youtu.be/AlSmcBbT15Y)) zu kritischem Denken nach dem
- Klassiker von Carl Sagan "The fine Art of Baloney Detection" von
+ **Deepening Kata 2:**
+ Two entertaining Youtube videos ([part 1](https://youtu.be/qTKat-O7F7g) and [part 2](https://youtu.be/AlSmcBbT15Y)) on critical thinking based on Carl Sagan's classic "The fine Art of Baloney Detection" by
  [maiLab](https://www.youtube.com/channel/UCyHDQ5C6z1NDmJ4g6SerW8g/about),
  Mai Thi Nguyen-Kim.
 
- Einen empfehlenswerten Online-Kurs der Correctiv-Redaktion zur
- Weiterbildung findest Du hier:
- [Wokshop Reporterfabrik](https://akademie.reporterfabrik.de/courses/course-v1:Reporterfabrik+Workshop223+2018/course/)
+ You can find a recommendable online course of the Correctiv editorial staff for further education here: [Wokshop Reporterfabrik](https://akademie.reporterfabrik.de/courses/course-v1:Reporterfabrik+Workshop223+2018/course/)

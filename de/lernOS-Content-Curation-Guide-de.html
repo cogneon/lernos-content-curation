@@ -149,10 +149,15 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
@@ -168,61 +173,7 @@ sinnhaft aufbereiten und teilen könnt</p>
 <p class="date">Version 1.0 (07.07.2022)</p>
 </header>
 <nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#über-lernos" id="toc-über-lernos"><span
-class="toc-section-number">1</span> Über lernOS</a></li>
-<li><a href="#lernpfad" id="toc-lernpfad"><span
-class="toc-section-number">2</span> Lernpfad</a>
-<ul>
-<li><a href="#woche-0---kennenlernen"
-id="toc-woche-0---kennenlernen"><span
-class="toc-section-number">2.1</span> Woche 0 - Kennenlernen</a></li>
-<li><a href="#woche-1---rolle-von-netzwerken-communitys"
-id="toc-woche-1---rolle-von-netzwerken-communitys"><span
-class="toc-section-number">2.2</span> Woche 1 - Rolle von Netzwerken
-&amp; Communitys</a></li>
-<li><a href="#woche-2---thema-ziel-und-zielgruppe-festlegen"
-id="toc-woche-2---thema-ziel-und-zielgruppe-festlegen"><span
-class="toc-section-number">2.3</span> Woche 2 - Thema, Ziel und
-Zielgruppe festlegen</a></li>
-<li><a
-href="#woche-3-4-recherche-und-sammlung-relevanter-inhalte-und-experten"
-id="toc-woche-3-4-recherche-und-sammlung-relevanter-inhalte-und-experten"><span
-class="toc-section-number">2.4</span> Woche 3 + 4: Recherche und
-Sammlung relevanter Inhalte und Experten</a></li>
-<li><a href="#woche-5---rechtliche-rahmenbedingungen"
-id="toc-woche-5---rechtliche-rahmenbedingungen"><span
-class="toc-section-number">2.5</span> Woche 5 - Rechtliche
-Rahmenbedingungen</a></li>
-<li><a href="#woche-6---rolle-von-personen-im-kuratieren"
-id="toc-woche-6---rolle-von-personen-im-kuratieren"><span
-class="toc-section-number">2.6</span> Woche 6 - Rolle von Personen im
-Kuratieren</a></li>
-<li><a href="#woche-7-qualitäts--und-quellencheck"
-id="toc-woche-7-qualitäts--und-quellencheck"><span
-class="toc-section-number">2.7</span> Woche 7 – Qualitäts- und
-Quellencheck</a></li>
-<li><a href="#woche-8---formen-der-kuratierung"
-id="toc-woche-8---formen-der-kuratierung"><span
-class="toc-section-number">2.8</span> Woche 8 - Formen der
-Kuratierung</a></li>
-<li><a
-href="#woche-9-und-10---inhalte-vertiefen-und-mit-wert-anreichern"
-id="toc-woche-9-und-10---inhalte-vertiefen-und-mit-wert-anreichern"><span
-class="toc-section-number">2.9</span> Woche 9 und 10 - Inhalte vertiefen
-und mit Wert anreichern</a></li>
-<li><a href="#woche-10" id="toc-woche-10"><span
-class="toc-section-number">2.10</span> Woche 10</a></li>
-<li><a href="#woche-11---teilen-der-inhalte-und-diskussion"
-id="toc-woche-11---teilen-der-inhalte-und-diskussion"><span
-class="toc-section-number">2.11</span> Woche 11 - Teilen der Inhalte und
-Diskussion</a></li>
-<li><a href="#woche-12---inhalte-auf-den-prüfstand-stellen"
-id="toc-woche-12---inhalte-auf-den-prüfstand-stellen"><span
-class="toc-section-number">2.12</span> Woche 12 - Inhalte auf den
-Prüfstand stellen</a></li>
-</ul></li>
-</ul>
+
 </nav>
 <h1 data-number="1" id="über-lernos"><span
 class="header-section-number">1</span> Über lernOS</h1>
@@ -695,133 +646,123 @@ findest. Arbeite im angelegten OneNote-Notizbuch oder in einem anderen
 Medium Deiner Wahl - nutze idealerweise Medien, zu denen Deine
 Circle-Mitglieder*innen ebenfalls Zugriff haben und Dich unterstützen
 und mitarbeiten können.</p>
-<h2 data-number="2.2"
-id="woche-1---rolle-von-netzwerken-communitys"><span
-class="header-section-number">2.2</span> Woche 1 - Rolle von Netzwerken
-&amp; Communitys</h2>
+<h2 data-number="2.2" id="week-1---role-of-networks-communities"><span
+class="header-section-number">2.2</span> Week 1 - Role of networks &amp;
+communities</h2>
 <p>Wir alle leben und arbeiten in Gemeinschaften und Netzwerken. Mit dem
-Internet und den sozialen Medien sind sie größer, räumlich verteilter
-und internationaler geworden. Die Möglichkeiten, Beziehungen zu knüpfen,
-an Wissen zu kommen und es zu teilen, sind damit viel reichhaltiger und
-vielfältiger geworden. Andererseits wird unsere Arbeitswelt immer
-spezialisierter, komplexer und miteinander verwoben. Ein*e Einzelne*r
-kann meist nicht mehr alles wissen, was zum Lösen einer komplexen
-Aufgabe notwendig ist und ist auf ein gutes Netzwerk, das ihr*m
-schnellen Zugang zu relevanten Informationen ermöglicht, angewiesen.
-Gute Netzwerkfähigkeiten sind damit zu einer der wichtigsten Kompetenzen
-für das 21. Jahrhundert geworden - und auch eine fundamentale
-Voraussetzung für jede*n Content-Kurator*in.</p>
-<p>Netzwerke &amp; Communitys sind für Kuratoren elementar wichtig: Sie
-können Quellen relevanter, wertvoller Inhalte und Expert*innen sein oder
-Ausgangspunkt für die Recherche und Sammlung solcher Quellen sowie dem
-Finden von Expert*innen. In einem weiteren Schritt wirkt ein*e
-Content-Kurator*in immer auch als “menschlicher Filter”, der von den
-eignen Interessen und Wissenshintergründen geleitet, relevante und
-interessante Informationen und Inhalte aus einer großen Menge
-filtert.</p>
-<p>Dazu ein paar Beispiele von Kurator*innen und gut kuratierten
-Seiten:</p>
+Internet und den sozialen Medien they have become larger, more spatially
+distributed and more international. The opportunities to build
+relationships, access and share knowledge have thus become much richer
+and more diverse. On the other hand, our working world is becoming more
+specialized, complex and interwoven. An individual can usually no longer
+know everything that is necessary to solve a complex task and is
+dependent on a good network that gives her/him quick access to relevant
+information. Good networking skills have thus become one of the most
+important competencies for the 21st century - and also a fundamental
+requirement for any content curator.</p>
+<p>Networks &amp; communities are elementary for curators: They can be
+sources of relevant, valuable content and experts or the starting point
+for researching and collecting such sources and finding experts. In a
+further step, a content curator always acts as a “human filter” who,
+guided by his or her own interests and knowledge background, filters
+relevant and interesting information and content from a large
+quantity.</p>
+<p>Here are a few examples of curators and well-curated pages:</p>
 <ul>
-<li>Die Corporate Learning Community: &lt;https://colearn.de/ -
-Lern-Netzwerk zum Corporate Learning mit Beiträgen und Aktivitäten von,
-für und mit der Community</li>
+<li>The Corporate Learning Community: &lt;https://colearn.de/ - Learning
+network for corporate learning with contributions and activities by, for
+and with the community (German)</li>
 <li>Dr. Jochen Robes (<a
 href="http://www.weiterbildungsblog.de">www.weiterbildungsblog.de</a>) -
-Entwicklungen zu (digitalem) Lernen und Weiterbildung</li>
-<li>Stefan Pfeiffer u.a. (https://cxokurator.com/) - kuratierte
-Informationen zu IT-Themen, wie Cloud, künstlicher Intelligenz und IT
-Security - mit einem wöchentlichen Livemeeting (9vor9)</li>
-<li>Klaus Eck (&lt;https://pr-blogger.de/) - Spezialist für
-Online-Marketing und PR mit vielen guten Kanälen</li>
+Developments on (digital) learning and continuing education
+(German)</li>
+<li>Stefan Pfeiffer u.a. (https://cxoku rator.com/) - curated
+information on IT topics, such as cloud, artificial intelligence and IT
+security - with a weekly livemeeting (9vor9) (English)</li>
+<li>Klaus Eck (&lt;https://pr-blogger.de/) - Specialist for online
+marketing and PR with many good channels (German)</li>
 </ul>
-<p><strong>Kata 1:</strong> Erstelle eine Sammlung aller Netzwerke und
-Communitys, rund um die Themen, die Dich interessieren (privat oder
-beruflich) und denen Du angehörst. Dann schau Dir diese Liste an: Wo
-bist Du Zuhörer<em>in / Mitleser</em>in und warum? Wo bist Du aktiv und
-leistest selbst Beiträge?</p>
-<p><strong>Kata 2:</strong> Überlege Dir im nächsten Schritt (evtl. auch
-für ein Kuratierungsthema), zu welchen Inhalten, Menschen und Netzwerken
-Du gern (mehr) Kontakt hättest und erstelle Dir eine Liste dazu.
-Überlege Dir, wie Du mit den Inhalten, Menschen und Netzwerken Schritt
-für Schritt in Kontakt treten kannst (Themen oder Personen folgen,
-Inhalte liken, in sozialen Netzwerken mit ihnen verbinden, Kontakt
-aufnehmen etc.).</p>
-<p>Diskutiert die verschiedenen Möglichkeiten dazu im Circle und tauscht
-Empfehlungen aus. Mach Dir einen Plan, wie Du in den nächsten 4 Wochen
-diesen Kontakt aufbauen kannst.</p>
-<p>Ein guter Erster Schritt als Orientierung dazu ist die <a
-href="https://help.twitter.com/de/using-twitter/twitter-advanced-search">erweiterte
-Twitter Suche</a>. Hilfreich in diesem Zusammenhang sind auch die
-Übungen aus Working out Loud (<a
-href="https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cbc8d9a1905f4de3252f632/1555860891111/WOL+Circle+Guide+-+Week+1+v5.0+-+German.pdf">Woche
-1</a> und <a
-href="https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cb65ba11905f42f166100c4/1555454881763/WOL+Circle+Guide+-+Week+2+v5.0+-+German.pdf">Woche
-2</a>) bzw. dem <a
+<p><strong>Kata 1:</strong> Create a collection of all networks and
+communities around the topics you are interested in (private or
+professional) and to which you belong. Then look at this list: Where are
+you a listener / reader and why? Where are you active and do you
+contribute yourself?</p>
+<p><strong>Kata 2:</strong> In the next step, consider (possibly also
+for a curation topic) which content, people and networks you would like
+to have (more) contact with and create a list for this. Think about how
+you can get in touch with the content, people and networks step by step
+(follow topics or people, like content, connect with them in social
+networks, contact them etc.).</p>
+<p>Discuss the different ways to do this in the Circle and share
+recommendations. Make a plan on how to build this contact in the next 4
+weeks.</p>
+<p>A good first step as orientation for this is the <a
+href="https://help.twitter.com/de/using-twitter/twitter-advanced-search">advanced
+Twitter search</a>. Helpful in this context are also the exercises from
+Working out Loud (<a
+href="https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cbc8d9a1905f4de3252f632/1555860891111/WOL+Circle+Guide+-+Week+1+v5.0+-+German.pdf">week
+1</a> and <a
+href="https://static1.squarespace.com/static/5602f08de4b0cb7ca5d4a933/t/5cb65ba11905f42f166100c4/1555454881763/WOL+Circle+Guide+-+Week+2+v5.0+-+German.pdf">Week
+2</a>) or the <a
 href="https://media.cogneon.de/index.php/s/XY92LTGo48pzExk#pdfviewer">lernOS
 Basic Guide</a>.  </p>
-<p><strong>Vertiefungs-Kata:</strong> Wenn Du etwas mehr Zeit für diesen
-ersten Schritt hast, mach die folgende Netzwerk-Übung, um Dir einen
-Überblick darüber zu verschaffen, wie vielfältig Deine Netzwerke sind
-und wie Du sie nutzt.</p>
-<p>Zu wissen, wie weit oder eng die eigenen Netzwerke sind und wie man
-mit dem Wissen in diesen Netzwerken umgeht, hilft einem, das eigene
-Lernen und Arbeiten besser zu verstehen. Fragst Du in erster Linie
-Menschen, die Dir ähnlich sind, die beruflich das Gleiche machen, wie
-Du, die Du gut kennst und direkt fragen kannst? Welche Auswirkungen hat
-das auf die Informationen, die Du bekommst und das Wissen, das Du daraus
-schöpfst?</p>
-<p>Beantworte die folgenden Fragen mit Blick auf die letzten 4 bis 6
-Monate und trag Dir <strong>für jede Frage bis zu 4 Personen</strong>
-ein. Die gleichen Personen können auch bei mehreren Fragen stehen. Die
-Fragen sind auf Dein berufliches Netzwerk und berufliche Fragestellungen
-ausgerichtet, Du kannst Dir aber diese Fragen auch so anpassen, dass sie
-Dein persönliches Umfeld und Leben wiederspiegeln.</p>
+<p><strong>Enhancement kata:</strong> If you have a little more time for
+this first step, do the following networking exercise to get an overview
+of how diverse your networks are and how you use them.</p>
+<p>Knowing how wide or narrow your networks are and how you use the
+knowledge in those networks helps you better understand your own
+learning and work. Do you primarily ask people who are similar to you,
+who do the same thing professionally as you do, who you know well and
+can ask directly? What impact does that have on the information you get
+and the knowledge you draw from it?</p>
+<p>Answer the following questions looking at the last 4 to 6 months and
+enter <strong>up to 4 people</strong> for each question. The same
+persons can also stand for several questions. The questions are focused
+on your professional network and professional issues, but you can also
+adapt these questions to reflect your personal environment and life.</p>
 <ol type="1">
-<li>Mit wem tauschst Du Dich am meisten aus, wenn es um ganz normale
-berufliche Fragen und kleine Unterstützung geht, z.B. um spezielles
-Detailwissen, um einen Text oder eine Präsentation gegenzulesen, zum
-Brainstorming etc.</li>
-<li>An wen wendest Du Dich, wenn Du ein schwieriges / komplexes
-berufliches Problem lösen willst?</li>
-<li>Mit wem besprichst Du Dich, wenn Du ein Dir wichtiges Projekt oder
-eine wichtige Idee in Deinem Unternehmen voranbringen möchtest? An wen
-wendest Du Dich, um die nötigen Ressourcen, Freigaben und Unterstützung
-für das Projekt zu bekommen?</li>
-<li>Mit wem tauscht Du Dich aus, wenn Du Dir ein ganz neues Themen- oder
-Aufgabenfeld erschließen möchtest?</li>
-<li>Mit wem tauschst Du Dich am meisten über neue Entwicklungen und
-Trends in Deinem Beruf / Spezialgebiet aus?</li>
-<li>Mit wem hast Du beruflich am meisten informellen Kontakt, zum Reden,
-Mittagessen gehen und auch über Dinge außerhalb des Büros zu reden?</li>
+<li>Who do you talk to most when it comes to normal professional
+questions and small support, e.g. for special detailed knowledge, to
+proofread a text or a presentation, for brainstorming, etc.?</li>
+<li>Who do you turn to when you want to solve a difficult / complex
+professional problem?</li>
+<li>who do you talk to when you want to advance an important project or
+idea in your company? Who do you contact to get the necessary resources,
+approvals and support for the project?</li>
+<li>with whom do you exchange ideas if you want to open up a completely
+new field of topics or tasks?</li>
+<li>with whom do you exchange the most information about new
+developments and trends in your profession/specialty?</li>
+<li>with whom do you have the most informal contact in your job, for
+talking, going to lunch and also talking about things outside the
+office?</li>
 </ol>
-<p>Wie viele von 24 möglichen Namen stehen auf Deiner Liste? Schau Dir
-nun mit den folgenden Fragen die Struktur Deines Netzwerks an: Wie viele
-der Personen sind:</p>
+<p>How many of 24 possible names are on your list? Now look at the
+structure of your network with the following questions: How many of the
+people are:</p>
 <ul>
-<li><p>älter als Du</p></li>
-<li><p>ca. Dein Alter</p></li>
-<li><p>jünger als Du</p></li>
-<li><p>Dein Geschlecht</p></li>
-<li><p>anderes Geschlecht</p></li>
-<li><p>arbeiten am gleichen Standort / im gleichen Büro</p></li>
-<li><p>arbeiten an einem anderen Standort/in einer anderen
-Stadt</p></li>
-<li><p>arbeiten in einem anderen Land</p></li>
-<li><p>arbeiten in der gleichen Abteilung / im gleichen Bereich</p></li>
-<li><p>arbeiten in einer anderen Abteilung /
-Organisationseinheit</p></li>
-<li><p>arbeiten in einem anderen Unternehmen</p></li>
-<li><p>haben das gleiche Fachgebiet wie Du</p></li>
-<li><p>haben ein anderes Fachgebiet</p></li>
-<li><p>arbeiten auf der gleichen Hierarchieebene wie Du</p></li>
-<li><p>arbeiten auf einer Hierarchieebene unter Dir</p></li>
-<li><p>arbeiten auf einer Hierarchieebene über Dir</p></li>
-<li><p>nicht anwendbar</p>
-<p>Diese Übung wurde auf Grundlage der Network-Übung aus <a
-href="https://jarche.com/">Harold Jarche</a>'s <strong>Personal
-Knowledge Mastery</strong> <a
-href="https://jarche.com/pkm/pkm-workshop/">Online-Workshops</a>
-zusammengestellt, gekürzt und angepasst.</p></li>
+<li><p>older than you</p></li>
+<li><p>about your age</p></li>
+<li><p>younger than you</p></li>
+<li><p>your gender</p></li>
+<li><p>other gender</p></li>
+<li><p>work at the same location / in the same office</p></li>
+<li><p>work at another location/city</p></li>
+<li><p>work in another country</p></li>
+<li><p>work in the same department / organizational unit</p></li>
+<li><p>work in a different department / organizational unit</p></li>
+<li><p>work in another company</p></li>
+<li><p>have the same specialty as you</p></li>
+<li><p>have a different area of expertise</p></li>
+<li><p>work on the same hierarchical level as you</p></li>
+<li><p>work on a hierarchy level below you</p></li>
+<li><p>work on a hierarchy level above you</p></li>
+<li><p>not applicable</p>
+<p>This exercise was compiled, shortened, and adapted based on the
+Network exercise from <a href="https://jarche.com/">Harold Jarche</a>'s
+<strong>Personal Knowledge Mastery</strong> <a
+href="https://jarche.com/pkm/pkm-workshop/">Online
+Workshops</a>.</p></li>
 </ul>
 <h2 data-number="2.3"
 id="woche-2---thema-ziel-und-zielgruppe-festlegen"><span

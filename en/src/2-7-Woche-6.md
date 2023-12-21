@@ -1,33 +1,33 @@
-## Woche 6 - Rolle von Personen im Kuratieren
+## Week 6 - Role of people in curation
 
-Die Grundlage von Content Curation ist das eigene Netzwerk, die genutzten Ressourcen und wie man sie verbindet. Jedes Netzwerk und jede Community lebt von und mit den Menschen, die darin ihren Beitrag leisten. Die unterschiedlichen Rollen, die Menschen in Netzwerken spielen, kann man in Konsument*innen, Expert*innen, Verbinder*innen und Katalysator*innen unterscheiden (vgl. Harold Jarche, <https://jarche.com/; <https://jarche.com/2017/05/the-world-needs-knowledge-catalysts/)
+The basis of content curation is your own network, the resources you use and how you connect them. Every network and every community lives from and with the people who contribute to it. The different roles that people play in networks can be divided into consumers, experts, connectors and catalysts (cf. Harold Jarche, <https://jarche.com/; <https://jarche.com/2017/05/the-world-needs-knowledge-catalysts/).
 
- ![Ein Bild, das Text enthält. Automatisch generierte Beschreibung](./images/image10.jpeg)
+ ![An image that contains text. Automatically generated description](./images/image10.jpeg)
 
- Visualisierung von Katrin Mäntele [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
+ Visualization by Katrin Mäntele [\@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
 
- **Konsumenten*innen**
-nutzen ihre Netzwerke, um an Informationen zu kommen. Sie lesen Beiträge, um ihr Wissen zu erweitern, ohne diese zwangsläufig zu
-sammeln, anzureichern und zu teilen. Natürlich sind wir alle auch immer Konsument*innen in unseren Netzwerken, besonders wenn wir uns mit einem neuen Thema beschäftigen oder bei Themen, die uns (im Moment) nur am Rande interessieren.
+ **Consumers**
+ use their networks to obtain information. They read posts to expand their knowledge without necessarily collecting, enriching, and sharing it.
+ collect, enrich and share it. Of course, we are all also always consumers in our networks, especially when we are dealing with a new topic or with topics that (at the moment) only interest us marginally.
 
- **Expert*innen**
-durchdringen und verstehen ihre Themengebiete im Detail. Sie sind aber nicht zwangsläufig gut darin, ihr Wissen zusammenzufassen und weiterzugeben. Im Kuratieren ist ein*e Expert*in oft einfach jemand, der mehr über ein Thema weiß, als man selbst. Um sich als Expert*in zur Kurator*in weiterzuentwickeln kann man üben, über sein Themenfeld in einfach(er)en Worten zu reden, zu schreiben, es zusammenzufassen und mehr mit anderen zu teilen.
+ **Experts**
+ penetrate and understand their subject areas in detail. But they are not necessarily good at summarizing and sharing their knowledge. In curating, an expert is often simply someone who knows more about a topic than you do. To develop as an expert curator, you can practice talking, writing, summarizing, and sharing more about your subject area in simple(er) words.
 
- **Verbinder*innen**
-sind gute Netzwerker\*innen, kennen viele Leute, kommen leicht mit allen ins Gespräch und bringen Menschen zusammen. Im Kuratieren tragen sie dazu bei, neue Verbindungen zu sehen und aufzubauen und machen auf interessante Themen, Ansätze und Meinungen aufmerksam. Um sich als Verbinder*in zum*r Kurator*in weiterzuentwickeln, kann man seine Fähigkeiten, Wissen anzureichern und mit einem Mehrwert zu teilen, ausbauen und üben. Darüber hinaus ist es auch wichtig, sich zu überlegen, wann, wo und mit wem man seine Inhalte teilt.
+ **Connectors**
+ are good networkers, know many people, get into conversation easily with everyone and bring people together. In curating, they help to see and build new connections and draw attention to interesting topics, approaches, and opinions. To develop as a connector to a curator, you can develop and practice your skills of enriching knowledge and sharing it with added value. It is also important to consider when, where, and with whom you share your content.
 
- **Katalysator*innen**
-sind gut darin, Wissen anzureichern, Wissensverbindungen sichtbar zu machen und Wissen weiterzugeben, aber auch darin, Menschen, Ideen und Organisationen zu verbinden. Katalysieren in diesem Sinne ist die hohe Kunst im Wissensmanagement und in der Content Curation. Nur wenige Menschen sind gute Katalysator*innen, eine Grundvoraussetzung ist jedenfalls, dass sie gute Kurator*innen sind.
+ **Catalysts**
+ are good at enriching knowledge, making knowledge connections visible and passing on knowledge, but also at connecting people, ideas and organizations. Catalyzing in this sense is the fine art of knowledge management and content curation. Only a few people are good catalysts; a basic prerequisite is that they are good curators.
 
  **Kata 9:**
-In den Aufgaben in Woche 1 hast Du Dir bereits Gedanken über Dein Netzwerk gemacht und bestimmt Kontakt mit verschiedenen Expert*innen über die eine oder andere Art aufgenommen. Überlegt Euch jetzt zusammen, wie Ihr in Euren Netzwerken (z.B. Xing/LinkedIn, Twitter) Verbinder*innen erkennen könnt und wodurch das in ihren Beiträgen sichtbar wird? Überlegt in der Gruppe oder allein, was Ihr tun könnt, um bessere Verbinder zu werden. Nehmt Euch zwei bis drei Punkte vor und übt sie die nächsten vier Wochen ein.
+In the tasks in week 1, you have already thought about your network and certainly made contact with various experts in one way or another. Now think together about how you can recognize connectors in your networks (e.g. Xing/LinkedIn, Twitter) and how this becomes visible in their contributions? In the group or alone, think about what you can do to become better connectors. Take on two or three points and practice them over the next four weeks.
 
  **Kata 10:**
-Analysiere Deine Netzwerke -- wer sind die Expert*innen, wer die Verbinder*innen, und kennst Du Katalysator*innen? Welche Aktivitäten zeichnen sie jeweils aus und wie würdest Du diese Aktivitäten den Rollen zuordnen. Mach Dir eine Tabelle oder Übersicht und fasse darin Deine Auswertung zusammen.
+Analyze your networks -- who are the experts, who are the connectors, and do you know any catalysts? What activities characterize each of them and how would you assign these activities to the roles. Make a table or overview and summarize your analysis in it.
 
  **Kata 11:**
-Welche Rolle spielst Du in deinen Netzwerken? Welche Rolle würdest Du gern spielen? Was fehlt Dir, um diese gewünschte Rolle zu spielen?
+What role do you play in your networks? What role would you like to play? What do you lack to play this desired role?
  
 
- **Vertiefungs-Kata:**
-Wenn Du Zeit und Lust hast, zeichne Dir ein Netzwerk mit den wichtigsten Personen zu Deinem Thema. Arbeite heraus, welche Stärken sie haben und ob und wie sie zueinanderstehen. Überlege, wie Du am besten an die Katalysatoren\*innen herankommst und wie Du sie am besten ansprichst. Beginne, ihre Inhalte zu kuratieren, im Sinne eines "Curate the Curators".
+ **Deepening kata:**
+If you have time and want to, draw a network with the most important people on your topic. Work out what their strengths are and whether and how they relate to each other. Think about how you can best approach the catalysts and how you can best reach out to them. Start curating their content, in the sense of "curating the curators".
